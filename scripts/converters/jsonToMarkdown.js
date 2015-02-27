@@ -7,7 +7,7 @@ var common = require('./../common/common.js');
 function printRow(name, location, dates, hashtags, links) {
   var row = '';
   var nameLink = name;
-  if (links && links.length > 0) {
+  if (links && links.length > 0 && typeof links !== 'string') {
     nameLink = '[' + name + '](' + links[0] + ')';
   }
   row += common.pad('| ' + nameLink, 90, ' ', null);
