@@ -3,10 +3,9 @@
 var fs = require('fs');
 
 function processFiles(callback) {
-  // TODO: dynamically read in folders?
-  var folders = ['conferences', 'hackathons'];
+  var folders = ['data'];
   for (var i = 0; i < folders.length; i++) {
-    var path = '../' + folders[i];
+    var path = './' + folders[i];
     var files = fs.readdirSync(path);
     for (var x = 0; x < files.length; x++) {
       callback(path + '/' + files[x]);

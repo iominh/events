@@ -7,7 +7,7 @@
         "http://linux.conf.au/"
       ],
       "location": "Auckland, New Zealand",
-      "dates": "01/12 - 01/16",
+      "dates": "1/12 - 1/16",
       "hashTags": [
         {
           "tag": "#linxconfau",
@@ -21,7 +21,7 @@
         "http://gwtcreate.com/"
       ],
       "location": "Mountain View, CA",
-      "dates": "1/22 - 01/23",
+      "dates": "1/22 - 1/23",
       "hashTags": [
         {
           "tag": "#GWTcreate",
@@ -35,7 +35,7 @@
         "http://gwtcreate.com/"
       ],
       "location": "Munich, Germany",
-      "dates": "01/27 - 01/28",
+      "dates": "1/27 - 1/28",
       "hashTags": [
         {
           "tag": "#GWTcreate",
@@ -49,7 +49,7 @@
         "http://www.dotswift.io/"
       ],
       "location": "Paris, France",
-      "dates": "02/06",
+      "dates": "2/6",
       "hashTags": [
         {
           "tag": "#dotswift",
@@ -64,7 +64,7 @@
         "http://strataconf.com/strata2015"
       ],
       "location": "San Jose, CA",
-      "dates": "02/18 - 02/20",
+      "dates": "2/18 - 2/2",
       "hashTags": [
         {
           "tag": "#Strataconf",
@@ -78,7 +78,7 @@
         "https://www.re-work.co/events/internet-of-things-london"
       ],
       "location": "London, England",
-      "dates": "03/12 - 03/13",
+      "dates": "3/12 - 3/13",
       "hashTags": [
         {
           "tag": "#IOT2015",
@@ -92,7 +92,7 @@
         "http://sxsw.com/"
       ],
       "location": "Austin, TX",
-      "dates": "03/13 - 03/17",
+      "dates": "3/13 - 3/17",
       "hashTags": [
         {
           "tag": "#SXSW",
@@ -106,7 +106,7 @@
         "https://us.pycon.org/2015/"
       ],
       "location": "Montreal, Canda",
-      "dates": "04/08 - 04/16",
+      "dates": "4/8 - 4/16",
       "hashTags": [
         {
           "tag": "#PyCon",
@@ -120,7 +120,7 @@
         "http://www.buildwindows.com/"
       ],
       "location": "San Francisco, CA",
-      "dates": "04/29 - 05/01",
+      "dates": "4/29 - 5/1",
       "hashTags": [
         {
           "tag": "#bldwin",
@@ -135,7 +135,7 @@
         "http://www.imagineecommerce.com/"
       ],
       "location": "Las Vegas, NV",
-      "dates": "04/20 - 04/22",
+      "dates": "4/2 - 4/22",
       "hashTags": [
         {
           "tag": "#MagentoImagine",
@@ -149,7 +149,7 @@
         "http://www.railsconf.com/"
       ],
       "location": "Atlanta, GA",
-      "dates": "04/22 - 04/25",
+      "dates": "4/22 - 4/25",
       "hashTags": [
         {
           "tag": "#RailsConf",
@@ -164,7 +164,7 @@
         "http://thenextweb.com/conference/europe/"
       ],
       "location": "Amsterdam, Netherlands",
-      "dates": "04/23 - 04/24",
+      "dates": "4/23 - 4/24",
       "hashTags": [
         {
           "tag": "#thenextweb",
@@ -178,7 +178,7 @@
         "https://www.facebook.com/f8"
       ],
       "location": "San Francisco, CA",
-      "dates": "05/05",
+      "dates": "5/5",
       "hashTags": [
         {
           "tag": "#f8",
@@ -192,7 +192,7 @@
         "https://www.google.com/events/io"
       ],
       "location": "San Francisco, CA",
-      "dates": "06/24 - 04/26",
+      "dates": "6/24 - 4/26",
       "hashTags": [
         {
           "tag": "#googleio",
@@ -207,8 +207,7 @@
         "http://aneventapart.com/events"
       ],
       "location": "Washington, DC",
-      "dates": "08/10 - 08/12"
+      "dates": "8/10 - 8/12"
     }
-
   ]
 }
