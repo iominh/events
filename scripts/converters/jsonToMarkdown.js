@@ -38,6 +38,10 @@ function printMarkdownFromJSON(filename) {
 
       console.log('## ' + year + '\n');
       printRow('Conference Name', 'Location', 'Dates', 'Hash Tag');
+
+      // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
+      printRow(':--:', ':--:', ':--:', ':--:', ':--:');
+
       for (var i = 0; i < yearEvents.length; i++) {
         var event = yearEvents[i];
         printRow(event.name, event.location, event.dates, event.hashTags, event.links);
