@@ -1,0 +1,15 @@
+{
+  "name": "events-parser-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "parse": "node main.js"
+  },
+  "author": "Minh Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-markdown-to-json": "^0.2.1"
+  }
+}
