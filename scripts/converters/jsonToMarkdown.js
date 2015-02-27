@@ -4,19 +4,27 @@ var fs = require('fs');
 var common = require('./../common/common.js');
 
 
-function printRow(name, location, dates, hashtags, links) {
+function printRow(name, location, dates, hashtags, links, overview) {
   var row = '';
   var nameLink = name;
   if (links && links.length > 0 && typeof links !== 'string') {
     nameLink = '[' + name + '](' + links[0] + ')';
   }
-  row += common.pad('| ' + nameLink, 90, ' ', null);
+  row += common.pad('| ' + nameLink, 60, ' ', null);
+
+  var overviewString = overview;
+  if (!overviewString) {
+    overviewString = '';
+  }
+  row += common.pad('| ' + overviewString, 30, ' ', null);
   row += common.pad('| ' + location, 30, ' ', null);
-  row += common.pad('| ' + dates, 30, ' ', null);
+  row += common.pad('| ' + dates, 20, ' ', null);
 
   var hashTagString = hashtags;
   if (hashtags && hashtags[0].tag && hashtags[0].link) {
     hashTagString = '[' + hashtags[0].tag + '](' + hashtags[0].link + ')';
+  } else {
+    hashTagString = '';
   }
   row += common.pad('| ' + hashTagString, 80, ' ', null);
 
@@ -37,14 +45,14 @@ function printMarkdownFromJSON(filename) {
       var yearEvents = obj[year];
 
       console.log('## ' + year + '\n');
-      printRow('Conference Name', 'Location', 'Dates', 'Hash Tag');
+      printRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
 
       // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
-      printRow(':--:', ':--:', ':--:', ':--:', ':--:');
+      printRow(':--:', ':--:', ':--:', ':--:', ':--:', ':--:');
 
       for (var i = 0; i < yearEvents.length; i++) {
         var event = yearEvents[i];
-        printRow(event.name, event.location, event.dates, event.hashTags, event.links);
+        printRow(event.name, event.location, event.dates, event.hashTags, event.links, event.overview);
       }
     });
 

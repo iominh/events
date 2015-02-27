@@ -2,10 +2,11 @@
   "2015": [
     {
       "name": "linx.conf.au",
+      "overview" : "Free & open source software",
       "links": [
         "http://linux.conf.au/"
       ],
-      "location": "Auckland",
+      "location": "Auckland, New Zealand",
       "dates": "01/12 - 01/16",
       "hashTags": [
         {
@@ -20,7 +21,7 @@
         "http://gwtcreate.com/"
       ],
       "location": "Mountain View, CA",
-      "dates": "01/22 - 01/23",
+      "dates": "1/22 - 01/23",
       "hashTags": [
         {
           "tag": "#GWTcreate",
@@ -33,7 +34,7 @@
       "links": [
         "http://gwtcreate.com/"
       ],
-      "location": "Munich",
+      "location": "Munich, Germany",
       "dates": "01/27 - 01/28",
       "hashTags": [
         {
@@ -47,7 +48,7 @@
       "links": [
         "http://www.dotswift.io/"
       ],
-      "location": "Paris",
+      "location": "Paris, France",
       "dates": "02/06",
       "hashTags": [
         {
@@ -58,10 +59,11 @@
     },
     {
       "name": "Strata",
+      "overview" : "Big data",
       "links": [
         "http://strataconf.com/strata2015"
       ],
-      "location": "San Jose",
+      "location": "San Jose, CA",
       "dates": "02/18 - 02/20",
       "hashTags": [
         {
@@ -75,7 +77,7 @@
       "links": [
         "https://www.re-work.co/events/internet-of-things-london"
       ],
-      "location": "London",
+      "location": "London, England",
       "dates": "03/12 - 03/13",
       "hashTags": [
         {
@@ -89,7 +91,7 @@
       "links": [
         "http://sxsw.com/"
       ],
-      "location": "Austin",
+      "location": "Austin, TX",
       "dates": "03/13 - 03/17",
       "hashTags": [
         {
@@ -103,7 +105,7 @@
       "links": [
         "https://us.pycon.org/2015/"
       ],
-      "location": "Montreal",
+      "location": "Montreal, Canda",
       "dates": "04/08 - 04/16",
       "hashTags": [
         {
@@ -117,7 +119,7 @@
       "links": [
         "http://www.buildwindows.com/"
       ],
-      "location": "San Francisco",
+      "location": "San Francisco, CA",
       "dates": "04/29 - 05/01",
       "hashTags": [
         {
@@ -128,10 +130,11 @@
     },
     {
       "name": "Magento Imagine",
+      "overview": "Commerce ecosystem",
       "links": [
         "http://www.imagineecommerce.com/"
       ],
-      "location": "Las Vegas",
+      "location": "Las Vegas, NV",
       "dates": "04/20 - 04/22",
       "hashTags": [
         {
@@ -145,7 +148,7 @@
       "links": [
         "http://www.railsconf.com/"
       ],
-      "location": "Atlanta",
+      "location": "Atlanta, GA",
       "dates": "04/22 - 04/25",
       "hashTags": [
         {
@@ -156,10 +159,11 @@
     },
     {
       "name": "TNW Europe",
+      "overview": "Web",
       "links": [
         "http://thenextweb.com/conference/europe/"
       ],
-      "location": "Amsterdam",
+      "location": "Amsterdam, Netherlands",
       "dates": "04/23 - 04/24",
       "hashTags": [
         {
@@ -173,7 +177,7 @@
       "links": [
         "https://www.facebook.com/f8"
       ],
-      "location": "San Francisco",
+      "location": "San Francisco, CA",
       "dates": "05/05",
       "hashTags": [
         {
@@ -187,7 +191,7 @@
       "links": [
         "https://www.google.com/events/io"
       ],
-      "location": "San Francisco",
+      "location": "San Francisco, CA",
       "dates": "06/24 - 04/26",
       "hashTags": [
         {
@@ -195,6 +199,16 @@
           "link": "https://twitter.com/search?f=realtime&q=%23googleio"
         }
       ]
+    },
+    {
+      "name": "Event Apart",
+      "overview": "Web design",
+      "links": [
+        "https://www.google.com/events/io"
+      ],
+      "location": "Washington, DC",
+      "dates": "08/10 - 08/12"
     }
+
   ]
 }
