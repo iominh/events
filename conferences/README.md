@@ -3,8 +3,8 @@ Conferences
 
 ## 2015
 
-| Conference Name                                           | Overview                    | Location                    | Dates             |                                                                               | 
-| :--:                                                      | :--:                        | :--:                        | :--:              |                                                                               | 
+| Conference Name                                           | Overview                    | Location                    | Dates             | Hash Tag                                                                      | 
+| :--:                                                      | :--:                        | :--:                        | :--:              | :--:                                                                          | 
 | [linx.conf.au](http://linux.conf.au/)                     | Free & open source software | Auckland, New Zealand       | 01/12 - 01/16     | [#linxconfau](https://twitter.com/search?f=realtime&q=%23linxconfau)          | 
 | [GWT.create](http://gwtcreate.com/)                       |                             | Mountain View, CA           | 1/22 - 01/23      | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)            | 
 | [GWT.create](http://gwtcreate.com/)                       |                             | Munich, Germany             | 01/27 - 01/28     | [#GWTcreate](https://twitter.com/search?f=realtime&q=%23GWTcreate)            | 
@@ -19,6 +19,6 @@ Conferences
 | [TNW Europe](http://thenextweb.com/conference/europe/)    | Web                         | Amsterdam, Netherlands      | 04/23 - 04/24     | [#thenextweb](https://twitter.com/search?f=realtime&q=%23thenextweb)          | 
 | [Facebook F8](https://www.facebook.com/f8)                |                             | San Francisco, CA           | 05/05             | [#f8](https://twitter.com/search?f=realtime&q=%23f8)                          | 
 | [Google I/O](https://www.google.com/events/io)            |                             | San Francisco, CA           | 06/24 - 04/26     | [#googleio](https://twitter.com/search?f=realtime&q=%23googleio)              | 
-| [Event Apart](https://www.google.com/events/io)           | Web design                  | Washington, DC              | 08/10 - 08/12     |                                                                               | 
+| [Event Apart](http://aneventapart.com/events)             | Web design                  | Washington, DC              | 08/10 - 08/12     |                                                                               | 
 
 For more info, see [this page](https://github.com/minhongrails/events)

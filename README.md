@@ -8,4 +8,5 @@ missing events that I never know about so this is my attempt at fixing that prob
 
 To add or correct an event, please see [contributing.md](contributing.MD).
 
-Inspired by [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) and [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar),
+Inspired by [Developer Conferences](https://github.com/MurtzaM/Developer-Conferences) and
+[Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar).

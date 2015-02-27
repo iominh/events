@@ -21,11 +21,12 @@ function printRow(name, location, dates, hashtags, links, overview) {
   row += common.pad('| ' + dates, 20, ' ', null);
 
   var hashTagString = hashtags;
-  if (hashtags && hashtags[0].tag && hashtags[0].link) {
-    hashTagString = '[' + hashtags[0].tag + '](' + hashtags[0].link + ')';
-  } else {
+  if (!hashtags){
     hashTagString = '';
+  } else if (hashtags && hashtags[0].tag && hashtags[0].link) {
+    hashTagString = '[' + hashtags[0].tag + '](' + hashtags[0].link + ')';
   }
+
   row += common.pad('| ' + hashTagString, 80, ' ', null);
 
   row += common.pad('| ', 0, ' ', null);
