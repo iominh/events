@@ -11,5 +11,8 @@
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-markdown-to-json": "^0.2.1"
+  },
+  "dependencies": {
+    "htmlparser2": "^3.8.2"
   }
 }

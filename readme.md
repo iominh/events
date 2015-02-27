@@ -6,7 +6,7 @@ missing events that I never know about so this is my attempt at fixing that prob
 * [Developer Conferences](https://github.com/minhongrails/events/tree/master/conferences)
 * [Hackathons](https://github.com/minhongrails/events/tree/master/hackathons)
 
-To add or correct an event, please see [contributing.md](contributing.MD).
+To add or correct an event, please see [contributing.md](contributing.md).
 
 # Sources and inspirations
 
