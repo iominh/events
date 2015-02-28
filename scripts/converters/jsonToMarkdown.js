@@ -18,7 +18,7 @@ function printRow(name, location, dates, hashtags, links, overview) {
   if (!overviewString) {
     overviewString = '';
   }
-  row += common.pad('| ' + overviewString, 30, ' ', null);
+//  row += common.pad('| ' + overviewString, 30, ' ', null);
   row += common.pad('| ' + location, 30, ' ', null);
   row += common.pad('| ' + dates, 20, ' ', null);
 
