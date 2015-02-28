@@ -2,8 +2,10 @@
 
 var fs = require('fs');
 
-function processFiles(callback) {
-  var folders = ['data'];
+function processFiles(callback, folders) {
+  if (!folders) {
+    folders = ['data'];
+  }
   for (var i = 0; i < folders.length; i++) {
     var path = './' + folders[i];
     var files = fs.readdirSync(path);
@@ -73,8 +75,31 @@ function removeExtraWhitespace(text) {
   return text.replace(/\s{2,}/g, ' ');
 }
 
+function mergeObjects(obj1, obj2) {
+
+  for (var p in obj2) {
+    try {
+      // Property in destination object set; update its value.
+      if ( obj2[p].constructor==Object ) {
+        obj1[p] = mergeObjects(obj1[p], obj2[p]);
+
+      } else {
+        obj1[p] = obj2[p];
+
+      }
+
+    } catch(e) {
+      // Property in destination object not set; create it and set its value.
+      obj1[p] = obj2[p];
+
+    }
+  }
+  return obj1;
+}
+
 module.exports = {
   processFiles: processFiles,
   pad: pad,
-  tidyString: tidyString
+  tidyString: tidyString,
+  mergeObjects: mergeObjects
 }

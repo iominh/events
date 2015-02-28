@@ -2,6 +2,8 @@
 
 var fs = require('fs');
 var common = require('./../common/common.js');
+var moment = require('moment');
+var sugar = require('sugar');
 
 
 function printRow(name, location, dates, hashtags, links, overview) {
@@ -21,7 +23,7 @@ function printRow(name, location, dates, hashtags, links, overview) {
   row += common.pad('| ' + dates, 20, ' ', null);
 
   var hashTagString = hashtags;
-  if (!hashtags){
+  if (!hashtags) {
     hashTagString = '';
   } else if (hashtags && hashtags[0].tag && hashtags[0].link) {
     hashTagString = '[' + hashtags[0].tag + '](' + hashtags[0].link + ')';
@@ -60,14 +62,50 @@ function printMarkdownFromJSON(filename) {
   console.log('\nFor more info, see [this page](https://github.com/minhongrails/events)');
 }
 
-function convertJSONToMarkdown() {
+function convertJSONToMarkdown(folders) {
   common.processFiles(function (filename) {
     if (filename.indexOf('json') > -1) {
       printMarkdownFromJSON(filename);
     }
+  }, folders);
+}
+
+function enrichJSON() {
+  debugger;
+  var json = [];
+  common.processFiles(function (filename) {
+    if (filename.indexOf('json') > -1) {
+      var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
+      for (var year in obj) {
+        var events = obj[year];
+
+        // standardize the dates
+        for (var i = 0; i < events.length; i++) {
+          var event = events[i];
+          var split = event.dates.split('-');
+
+          if (split.length > 0) {
+            // http://sugarjs.com/dates
+            var date1 = Date.create(split[0]);
+            var date2 = Date.create(split[1]);
+
+            // if cannot parse, extract day
+            if (date2.toString() === 'Invalid Date') {
+              date2 = Date.create(date1);
+              date2.set({ day: split[1] });
+            }
+            event.dates = date1.format('{M}.{d}') + ' - ' + date2.format('{M}.{d}');
+          }
+        }
+        json = json.concat(events);
+      }
+    }
   });
+  console.log(JSON.stringify(json));
+  return json;
 }
 
 module.exports = {
-  convertJSONToMarkdown: convertJSONToMarkdown
+  convertJSONToMarkdown: convertJSONToMarkdown,
+  enrichJSON: enrichJSON
 }
