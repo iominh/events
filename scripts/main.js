@@ -6,6 +6,6 @@
 
 //require('./converters/htmlToJSON.js').convertHTMLToJSON();
 
-//require('./converters/jsonToMarkdown.js').convertJSONToMarkdown(['dist']);
+require('./converters/jsonToMarkdown.js').convertJSONToMarkdown(['dist']);
 
-require('./converters/jsonToMarkdown.js').enrichJSON();
+//require('./converters/jsonToMarkdown.js').enrichJSON();

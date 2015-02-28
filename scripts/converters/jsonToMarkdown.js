@@ -29,7 +29,7 @@ function printRow(name, location, dates, hashtags, links, overview) {
     hashTagString = '[' + hashtags[0].tag + '](' + hashtags[0].link + ')';
   }
 
-  row += common.pad('| ' + hashTagString, 80, ' ', null);
+//  row += common.pad('| ' + hashTagString, 80, ' ', null);
 
   row += common.pad('| ', 0, ' ', null);
   console.log(row);
@@ -72,21 +72,27 @@ function convertJSONToMarkdown(folders) {
 
 function enrichJSON() {
   debugger;
-  var json = [];
+  var newEvents = [];
+  var eventCount = 0;
   common.processFiles(function (filename) {
     if (filename.indexOf('json') > -1) {
       var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
+      var format = '{MM}.{dd}';
       for (var year in obj) {
         var events = obj[year];
+        eventCount += events.length;
 
         // standardize the dates
         for (var i = 0; i < events.length; i++) {
           var event = events[i];
           var split = event.dates.split('-');
+          var date1 = Date.create(split[0]);
 
-          if (split.length > 0) {
+          if (split.length === 1) {
+            // TODO: how do we handle strings like 'April TBD'?
+            event.dates = date1.format(format);
+          } else if (split.length > 1) {
             // http://sugarjs.com/dates
-            var date1 = Date.create(split[0]);
             var date2 = Date.create(split[1]);
 
             // if cannot parse, extract day
@@ -94,15 +100,31 @@ function enrichJSON() {
               date2 = Date.create(date1);
               date2.set({ day: split[1] });
             }
-            event.dates = date1.format('{M}.{d}') + ' - ' + date2.format('{M}.{d}');
+            event.dates = date1.format(format) + ' - ' + date2.format(format);
           }
         }
-        json = json.concat(events);
+        newEvents = newEvents.concat(events);
+
+        // sort events by start date
+        // TODO: add secondary sort condition?
+        newEvents = newEvents.sort(function(a, b) {
+          if (a.dates < b.dates)
+            return -1;
+          if (a.dates > b.dates)
+            return 1;
+          return 0;
+        });
+
       }
     }
   });
-  console.log(JSON.stringify(json));
-  return json;
+//  console.log('event count: ' + eventCount);
+  newEvents = {
+    '2015': newEvents
+  }
+//  console.log(eventCount);
+  console.log(JSON.stringify(newEvents));
+  return newEvents;
 }
 
 module.exports = {
