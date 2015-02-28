@@ -61,7 +61,20 @@ function pad(str, len, pad, dir) {
 
 }
 
+function tidyString(text) {
+  return removeExtraWhitespace(removeExtraLines(text));
+}
+
+function removeExtraLines(text) {
+  return text.replace(/\n|\r/g, "");
+}
+
+function removeExtraWhitespace(text) {
+  return text.replace(/\s{2,}/g, ' ');
+}
+
 module.exports = {
   processFiles: processFiles,
-  pad: pad
+  pad: pad,
+  tidyString: tidyString
 }

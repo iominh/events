@@ -1,0 +1,207 @@
+{
+  "2015": [
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "Atlanta",
+      "dates": "Feb 16-18"
+    },
+    {
+      "name": "SXSW",
+      "links": ["http://sxsw.com/"],
+      "overview": "All things interactive",
+      "location": "Austin, TX",
+      "dates": "March 13-15"
+    },
+    {
+      "name": "GLUE",
+      "links": ["http://gluecon.com/2015/"],
+      "overview": "Cloud, DevOps, Mobile, APIs, Big Data for developers",
+      "location": "Broomfield, CO",
+      "dates": "Mar 20-21"
+    },
+    {
+      "name": "ModevUX",
+      "links": ["http://ux15.gomodev.com/"],
+      "overview": "Mobile Design & UX",
+      "location": "Arlington, VA",
+      "dates": "Mar 23-24"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "Seattle",
+      "dates": "Mar 30 - Apr 1"
+    },
+    {
+      "name": "WebVisions NYC",
+      "links": ["http://www.webvisionsevent.com/new-york/"],
+      "overview": "Future of the web",
+      "location": "New York City",
+      "dates": "April TBD"
+    },
+    {
+      "name": "UX Immersion Mobile",
+      "links": ["http://uxim15.uie.com/"],
+      "overview": "Mobile UX",
+      "location": "Salt Lake City",
+      "dates": "Apr 13-15"
+    },
+    {
+      "name": "Fluent",
+      "links": ["http://fluentconf.com/javascript-html-2015"],
+      "overview": "Web, Javascript, HTML5",
+      "location": "San Francisco",
+      "dates": "Apr 20-22"
+    },
+    {
+      "name": "Code PaLOUsa",
+      "links": ["http://www.codepalousa.com/"],
+      "overview": "Broad development focus",
+      "location": "Louisville, KY",
+      "dates": "Apr 27-30"
+    },
+    {
+      "name": "99u",
+      "links": ["http://conference.99u.com/"],
+      "overview": "Inspiration and Design",
+      "location": "New York City",
+      "dates": "Apr 30 - May 1"
+    },
+    {
+      "name": "GOTO Chicago",
+      "links": ["http://gotocon.com/chicago-2015"],
+      "overview": "Broad development focus",
+      "location": "Chicago",
+      "dates": "May 11-14"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "Boston",
+      "dates": "May 11-13"
+    },
+    {
+      "name": "WebVisions Portland",
+      "links": ["http://www.webvisionsevent.com/portland/"],
+      "overview": "Future of the web",
+      "location": "Portland",
+      "dates": "May 12-15"
+    },
+    {
+      "name": "UX London",
+      "links": ["http://2015.uxlondon.com/"],
+      "overview": "UX \"3 days of inspiration, education and skills development for user experience designers\".",
+      "location": "London",
+      "dates": "May 20-22"
+    },
+    {
+      "name": "State of the Map US",
+      "links": ["http://openstreetmap.us/2014/11/sotmus-2015-in-nyc/"],
+      "overview": "",
+      "location": "New York City",
+      "dates": "June 6-8"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "San Diego",
+      "dates": "Jun 8-10"
+    },
+    {
+      "name": "GIANT Conf",
+      "links": ["http://2015.giantconf.com/"],
+      "overview": "UX \"A conference for people who create rad experiences.\"",
+      "location": "Charleston, SC",
+      "dates": "Jun 14-17"
+    },
+    {
+      "name": "Black Hat",
+      "links": ["http://www.blackhat.com/"],
+      "overview": "Security training and briefings",
+      "location": "Las Vegas ?",
+      "dates": "Aug 1-6"
+    },
+    {
+      "name": "DefCon 23",
+      "links": ["https://www.defcon.org/index.html"],
+      "overview": "Security",
+      "location": "Las Vegas, NV",
+      "dates": "Aug 6-9"
+    },
+    {
+      "name": "Agile Conf",
+      "links": ["http://agile2015.agilealliance.org/"],
+      "overview": "Agile project management",
+      "location": "Washington, DC",
+      "dates": "Aug 3-7"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "Washington, DC",
+      "dates": "Aug 10-12"
+    },
+    {
+      "name": "UX Week",
+      "links": ["http://uxweek.com/"],
+      "overview": "UX",
+      "location": "San Francisco",
+      "dates": "Aug 25-28"
+    },
+    {
+      "name": "WebVisions Chicago",
+      "links": ["http://www.webvisionsevent.com/chicago/"],
+      "overview": "Future of the web",
+      "location": "Chicago",
+      "dates": "September"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "Chicago",
+      "dates": "Aug 31 - Sep 2"
+    },
+    {
+      "name": "StrangeLoop",
+      "links": ["https://thestrangeloop.com/"],
+      "overview": "Make connections with the creators and users of the languages,libraries,tools,and techniques at the forefront of the industry",
+      "location": "St. Louis, MO",
+      "dates": "Sep 24-26"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "Austin",
+      "dates": "Oct 5-7"
+    },
+    {
+      "name": "JavaOne",
+      "links": ["https://www.oracle.com/javaone/index.html"],
+      "overview": "Java",
+      "location": "San Francisco",
+      "dates": "Oct 25-29"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/events"],
+      "overview": "Web design",
+      "location": "San Francisco",
+      "dates": "Nov 2-4"
+    },
+    {
+      "name": "Atlassian Summit",
+      "links": ["https://summit.atlassian.com/"],
+      "overview": "Atlassian users conference",
+      "location": "San Francisco",
+      "dates": "Nov 3-5"
+    }
+  ]
+}

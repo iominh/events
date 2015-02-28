@@ -1,0 +1,299 @@
+{
+  "2014": [
+    {
+      "name": "SXSW 2014",
+      "links": ["http://sxsw.com/"],
+      "overview": "All things interactive",
+      "location": "Austin, TX",
+      "dates": "March 13-17"
+    },
+    {
+      "name": "An Event Apart",
+      "links": ["http://aneventapart.com/event/austin-2014"],
+      "overview": "Web, design, UX",
+      "location": "Austin, TX",
+      "dates": "September 22-24"
+    },
+    {
+      "name": "Visualized",
+      "links": ["http://visualized.com/2014/"],
+      "overview": "Data, Story and Design - Presentation based",
+      "location": "New York, NY",
+      "dates": "February 6-7, 2014"
+    },
+    {
+      "name": "Code PaLOUsa",
+      "links": ["http://www.codepalousa.com"],
+      "overview": "Broad development focus",
+      "location": "Louisville, KY",
+      "dates": "February 24-26, 2014"
+    },
+    {
+      "name": "O'Reilly Fluent Conference",
+      "links": ["http://fluentconf.com/"],
+      "overview": "Web, Javascript, HTML5",
+      "location": "San Francisco, CA",
+      "dates": "March 11-13, 2014"
+    },
+    {
+      "name": "Game Developers Conference",
+      "links": ["http://Game Developers Conference"],
+      "overview": "Talks, bootcamps, and tutorials for game devs",
+      "location": "San Francisco, CA",
+      "dates": "March 17-21, 2014"
+    },
+    {
+      "name": "CocoaConf",
+      "links": ["http://cocoaconf.com/"],
+      "overview": "For iPhone, iPad, Mac devs",
+      "location": "DC San Jose, CA Raleigh, NC",
+      "dates": "March 28-29, 2014 April 25-26, 2014 May 9-10, 2014"
+    },
+    {
+      "name": "MS Build Conference",
+      "links": [null],
+      "overview": "",
+      "location": "San Francisco, CA",
+      "dates": "April 2-4"
+    },
+    {
+      "name": "UX Immersion",
+      "links": ["http://www.uie.com/events/ux_immersion/2013/"],
+      "overview": "Mobile UX",
+      "location": "Broomfield, CO",
+      "dates": "April 7-9, 2014"
+    },
+    {
+      "name": "State of the Map US",
+      "links": ["http://stateofthemap.us/"],
+      "overview": "The annual United States conference for all OpenStreetMap users.",
+      "location": "Washington DC",
+      "dates": "April 12–13"
+    },
+    {
+      "name": "ACM SIGCHI",
+      "links": ["http://chi2014.acm.org/"],
+      "overview": "Human Computer Interaction",
+      "location": "Toronto Canada",
+      "dates": "April 28 - May 1"
+    },
+    {
+      "name": "99u",
+      "links": ["http://conference.99u.com/"],
+      "overview": "Inspiration and Design",
+      "location": "New York, NY",
+      "dates": "May 1-2, 2014"
+    },
+    {
+      "name": "TechCrunch Disrupt",
+      "links": ["http://techcrunch.com/events/disrupt-ny-2014/event-home/"],
+      "overview": "Conference about startups; 5/3-5/4 is 2 day hackathon",
+      "location": "New York, NY",
+      "dates": "May 5-7, 2014"
+    },
+    {
+      "name": "Web Visions",
+      "links": ["http://www.webvisionsevent.com/portland/"],
+      "overview": "Future of the Web",
+      "location": "Portland, OR",
+      "dates": "May 5–9, 2014"
+    },
+    {
+      "name": "GLUE",
+      "links": ["http://gluecon.com/"],
+      "overview": "Cloud Development",
+      "location": "Broomfield, CO",
+      "dates": "May 21-22, 2014"
+    },
+    {
+      "name": "An Event Apart",
+      "links": [null],
+      "overview": "Web design",
+      "location": "San Diego, CA",
+      "dates": "May 12-14, 2014"
+    },
+    {
+      "name": "GOTO Conference",
+      "links": ["http://gotocon.com/chicago-2014"],
+      "overview": "Broad development focus",
+      "location": "Chicago, IL",
+      "dates": "May 20-21, 2014"
+    },
+    {
+      "name": "JSConf",
+      "links": ["http://2014.jsconf.us/"],
+      "overview": "All things JavaScript",
+      "location": "Amelia Island, FL",
+      "dates": "May 28-30, 2014"
+    },
+    {
+      "name": "Display Week",
+      "links": ["http://displayweek.org/"],
+      "overview": "Display Technologies",
+      "location": "San Diego, CA",
+      "dates": "June 1-6 2014"
+    },
+    {
+      "name": "WWDC 2014",
+      "links": ["https://developer.apple.com/wwdc/"],
+      "overview": "Apple Development",
+      "location": "San Francisco, CA",
+      "dates": "June"
+    },
+    {
+      "name": "VALiO Con",
+      "links": ["http://valiocon.com/"],
+      "overview": "Design, UX, Inspiration",
+      "location": "San Diego, CA",
+      "dates": "June 5-8, 2014"
+    },
+    {
+      "name": "Giant Conf",
+      "links": ["http://giantconf.com/"],
+      "overview": "UX \"A conference for people who create rad experiences.\"",
+      "location": "Charleston, SC",
+      "dates": "June 11–14, 2014"
+    },
+    {
+      "name": "Google IO",
+      "links": ["https://plus.google.com/+SundarPichai/posts/hVVvM5MJU3d"],
+      "overview": "Google technologies",
+      "location": "San Francisco, CA",
+      "dates": "June 25-26, 2014"
+    },
+    {
+      "name": "QCon New York",
+      "links": ["http://qconnewyork.com/"],
+      "overview": "Various",
+      "location": "New York, NY",
+      "dates": "June 9 - 13, 2014"
+    },
+    {
+      "name": "BackboneJS Conference",
+      "links": ["http://backboneconf.com/"],
+      "overview": "Backbone.js library, large scale JavaScript applications, and JavaScript common sense",
+      "location": "?",
+      "dates": "July ?? 2014"
+    },
+    {
+      "name": "Agile 2014",
+      "links": ["http://agile2014.agilealliance.org/"],
+      "overview": "Agile project management",
+      "location": "Orlando, FL",
+      "dates": "July 28 - August 1, 2014"
+    },
+    {
+      "name": "That Conference",
+      "links": ["http://www.thatconference.com/"],
+      "overview": "Web, Mobile, Cloud, Other",
+      "location": "Wisconsin",
+      "dates": "August 11-13, 2014"
+    },
+    {
+      "name": "BlackHat",
+      "links": ["http://www.blackhat.com/us-14/"],
+      "overview": "Security training and briefings",
+      "location": "Las Vegas, NV",
+      "dates": "August 2-8, 2014"
+    },
+    {
+      "name": "Defcon",
+      "links": ["https://www.defcon.org/index.html"],
+      "overview": "Security",
+      "location": "Las Vegas, NV",
+      "dates": "August 7-10, 2014"
+    },
+    {
+      "name": "SIGGRAPH",
+      "links": ["http://s2014.siggraph.org/"],
+      "overview": "Graphics, 3D, visualizations",
+      "location": "Vancouver, BC",
+      "dates": "August 10-14, 2014"
+    },
+    {
+      "name": "Made by Few",
+      "links": ["http://www.madebyfew.com/"],
+      "overview": "The conference for the makers of the Web",
+      "location": "Little Rock, AK",
+      "dates": "August 22-23, 2014"
+    },
+    {
+      "name": "UX Week",
+      "links": ["http://uxweek.com/"],
+      "overview": "UX",
+      "location": "San Francisco, CA",
+      "dates": "September 9-12, 2014"
+    },
+    {
+      "name": "XOXO",
+      "links": ["http://2014.xoxofest.com/"],
+      "overview": "XOXO is an experimental festival celebrating independently produced art and technology.",
+      "location": "Portland, OR",
+      "dates": "September 11–14"
+    },
+    {
+      "name": "Strangeloop",
+      "links": ["https://thestrangeloop.com/"],
+      "overview": "Various",
+      "location": "St. Louis, MO",
+      "dates": "September 17-19, 2014"
+    },
+    {
+      "name": "JavaOne",
+      "links": ["http://www.oracle.com/javaone/index.html"],
+      "overview": "Java",
+      "location": "San Francisco, CA",
+      "dates": "September 28- October 2, 2014"
+    },
+    {
+      "name": "CSS Dev Conf",
+      "links": ["http://2014.cssdevconf.com/"],
+      "overview": "CSS",
+      "location": "New Orleans, LA",
+      "dates": "October 13-15, 2014"
+    },
+    {
+      "name": "StrataConf & HadoopWorld",
+      "links": ["http://strataconf.com/"],
+      "overview": "Cloud with some design / data science",
+      "location": "New York, NY",
+      "dates": "October 15-17, 2014"
+    },
+    {
+      "name": "SPLASH",
+      "links": ["http://splashcon.org/"],
+      "overview": "Various",
+      "location": "Portland, OR",
+      "dates": "October 20-24, 2014"
+    },
+    {
+      "name": "Event Apart",
+      "links": ["http://aneventapart.com/event/orlando-2014"],
+      "overview": "Web Design, etc.",
+      "location": "Orlando, FL",
+      "dates": "October 26-31, 2014"
+    },
+    {
+      "name": "QCon San Francisco",
+      "links": ["http://qconsf.com/"],
+      "overview": "Various",
+      "location": "San Francisco, CA",
+      "dates": "November 3-7, 2014"
+    },
+    {
+      "name": "Blur",
+      "links": ["http://www.blurcon.com/2012/"],
+      "overview": "HCI",
+      "location": "Broomfield, CO",
+      "dates": "November 15-16"
+    },
+    {
+      "name": "Defrag",
+      "links": ["http://www.defragcon.com/"],
+      "overview": "Development",
+      "location": "Broomfield, CO",
+      "dates": "November 18-19, 2014"
+    }
+  ]
+
+}

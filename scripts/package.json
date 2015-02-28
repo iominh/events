@@ -13,6 +13,7 @@
     "gulp-markdown-to-json": "^0.2.1"
   },
   "dependencies": {
+    "cheerio": "^0.18.0",
     "htmlparser2": "^3.8.2"
   }
 }
