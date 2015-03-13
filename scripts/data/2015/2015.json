@@ -209,6 +209,216 @@
       "overview": "Atlassian users conference",
       "location": "San Francisco",
       "dates": "Nov 3-5"
+    },
+    {
+      "name": "linx.conf.au",
+      "overview": "Free & open source software",
+      "links": [
+        "http://linux.conf.au/"
+      ],
+      "location": "Auckland, New Zealand",
+      "dates": "1/12 - 1/16",
+      "hashTags": [
+        {
+          "tag": "#linxconfau",
+          "link": "https://twitter.com/search?f=realtime&q=%23linxconfau"
+        }
+      ]
+    },
+    {
+      "name": "GWT.create",
+      "links": [
+        "http://gwtcreate.com/"
+      ],
+      "location": "Mountain View, CA",
+      "dates": "1/22 - 1/23",
+      "hashTags": [
+        {
+          "tag": "#GWTcreate",
+          "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
+        }
+      ]
+    },
+    {
+      "name": "GWT.create",
+      "links": [
+        "http://gwtcreate.com/"
+      ],
+      "location": "Munich, Germany",
+      "dates": "1/27 - 1/28",
+      "hashTags": [
+        {
+          "tag": "#GWTcreate",
+          "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
+        }
+      ]
+    },
+    {
+      "name": "dotSwift",
+      "links": [
+        "http://www.dotswift.io/"
+      ],
+      "location": "Paris, France",
+      "dates": "2/6",
+      "hashTags": [
+        {
+          "tag": "#dotswift",
+          "link": "https://twitter.com/search?f=realtime&q=%23dotswift"
+        }
+      ]
+    },
+    {
+      "name": "Strata",
+      "overview": "Big data",
+      "links": [
+        "http://strataconf.com/strata2015"
+      ],
+      "location": "San Jose, CA",
+      "dates": "2/18 - 2/2",
+      "hashTags": [
+        {
+          "tag": "#Strataconf",
+          "link": "https://twitter.com/search?f=realtime&q=%23strataconf"
+        }
+      ]
+    },
+    {
+      "name": "Re.Work Internet of Things",
+      "links": [
+        "https://www.re-work.co/events/internet-of-things-london"
+      ],
+      "location": "London, England",
+      "dates": "3/12 - 3/13",
+      "hashTags": [
+        {
+          "tag": "#IOT2015",
+          "link": "https://twitter.com/search?f=realtime&q=%23iot2015"
+        }
+      ]
+    },
+    {
+      "name": "SXSW",
+      "links": [
+        "http://sxsw.com/"
+      ],
+      "location": "Austin, TX",
+      "dates": "3/13 - 3/17",
+      "hashTags": [
+        {
+          "tag": "#SXSW",
+          "link": "https://twitter.com/search?f=realtime&q=%23sxsw"
+        }
+      ]
+    },
+    {
+      "name": "PyCon",
+      "links": [
+        "https://us.pycon.org/2015/"
+      ],
+      "location": "Montreal, Canda",
+      "dates": "4/8 - 4/16",
+      "hashTags": [
+        {
+          "tag": "#PyCon",
+          "link": "https://twitter.com/search?f=realtime&q=%23pycon"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Build",
+      "links": [
+        "http://www.buildwindows.com/"
+      ],
+      "location": "San Francisco, CA",
+      "dates": "4/29 - 5/1",
+      "hashTags": [
+        {
+          "tag": "#bldwin",
+          "link": "https://twitter.com/search?f=realtime&q=%23bldwin"
+        }
+      ]
+    },
+    {
+      "name": "Magento Imagine",
+      "overview": "Commerce ecosystem",
+      "links": [
+        "http://www.imagineecommerce.com/"
+      ],
+      "location": "Las Vegas, NV",
+      "dates": "4/2 - 4/22",
+      "hashTags": [
+        {
+          "tag": "#MagentoImagine",
+          "link": "https://twitter.com/search?f=realtime&q=%23MagentoImagine"
+        }
+      ]
+    },
+    {
+      "name": "RailsConf",
+      "links": [
+        "http://www.railsconf.com/"
+      ],
+      "location": "Atlanta, GA",
+      "dates": "4/22 - 4/25",
+      "hashTags": [
+        {
+          "tag": "#RailsConf",
+          "link": "https://twitter.com/search?f=realtime&q=%23RailsConf"
+        }
+      ]
+    },
+    {
+      "name": "TNW Europe",
+      "overview": "Web",
+      "links": [
+        "http://thenextweb.com/conference/europe/"
+      ],
+      "location": "Amsterdam, Netherlands",
+      "dates": "4/23 - 4/24",
+      "hashTags": [
+        {
+          "tag": "#thenextweb",
+          "link": "https://twitter.com/search?f=realtime&q=%23thenextweb"
+        }
+      ]
+    },
+    {
+      "name": "Facebook F8",
+      "links": [
+        "https://www.facebook.com/f8"
+      ],
+      "location": "San Francisco, CA",
+      "dates": "5/5",
+      "hashTags": [
+        {
+          "tag": "#f8",
+          "link": "https://twitter.com/search?f=realtime&q=%23f8"
+        }
+      ]
+    },
+    {
+      "name": "Google I/O",
+      "links": [
+        "https://www.google.com/events/io"
+      ],
+      "location": "San Francisco, CA",
+      "dates": "5/28-29",
+      "hashTags": [
+        {
+          "tag": "#googleio",
+          "link": "https://twitter.com/search?f=realtime&q=%23googleio"
+        }
+      ]
+    },
+    {
+      "name": "Event Apart",
+      "overview": "Web design",
+      "links": [
+        "http://aneventapart.com/events"
+      ],
+      "location": "Washington, DC",
+      "dates": "8/10 - 8/12"
     }
+
   ]
 }
