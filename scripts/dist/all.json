@@ -1,385 +1,349 @@
 {
-  "2015": [
-    {
-      "name": "linx.conf.au",
-      "overview": "Free & open source software",
-      "links": ["http://linux.conf.au/"],
-      "location": "Auckland, New Zealand",
-      "dates": "01.12 - 01.16",
-      "hashTags": [
+    "2015": [
         {
-          "tag": "#linxconfau",
-          "link": "https://twitter.com/search?f=realtime&q=%23linxconfau"
-        }
-      ]
-    },
-    {
-      "name": "GWT.create",
-      "links": ["http://gwtcreate.com/"],
-      "location": "Mountain View, CA",
-      "dates": "01.22 - 01.23",
-      "hashTags": [
+            "name": "linx.conf.au",
+            "links": [
+                "http://linux.conf.au/"
+            ],
+            "overview": "Free & open source software",
+            "location": "Auckland, New Zealand",
+            "dates": "1/12 - 1/16",
+            "hashTags": [
+                {
+                    "tag": "#linxconfau",
+                    "link": "https://twitter.com/search?f=realtime&q=%23linxconfau"
+                }
+            ]
+        },
         {
-          "tag": "#GWTcreate",
-          "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
-        }
-      ]
-    },
-    {
-      "name": "GWT.create",
-      "links": ["http://gwtcreate.com/"],
-      "location": "Munich, Germany",
-      "dates": "01.27 - 01.28",
-      "hashTags": [
+            "name": "GWT.create",
+            "links": [
+                "http://gwtcreate.com/"
+            ],
+            "overview": "All things interactive",
+            "location": "Mountain View, CA",
+            "dates": "1/22 - 1/23",
+            "hashTags": [
+                {
+                    "tag": "#GWTcreate",
+                    "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
+                }
+            ]
+        },
         {
-          "tag": "#GWTcreate",
-          "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
-        }
-      ]
-    },
-    {
-      "name": "dotSwift",
-      "links": ["http://www.dotswift.io/"],
-      "location": "Paris, France",
-      "dates": "02.06",
-      "hashTags": [
+            "name": "GWT.create",
+            "links": [
+                "http://gwtcreate.com/"
+            ],
+            "overview": "Cloud, DevOps, Mobile, APIs, Big Data for developers",
+            "location": "Munich, Germany",
+            "dates": "1/27 - 1/28",
+            "hashTags": [
+                {
+                    "tag": "#GWTcreate",
+                    "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
+                }
+            ]
+        },
         {
-          "tag": "#dotswift",
-          "link": "https://twitter.com/search?f=realtime&q=%23dotswift"
-        }
-      ]
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Atlanta",
-      "dates": "02.16 - 02.18"
-    },
-    {
-      "name": "Strata",
-      "overview": "Big data",
-      "links": ["http://strataconf.com/strata2015"],
-      "location": "San Jose, CA",
-      "dates": "02.18 - 02.02",
-      "hashTags": [
+            "name": "dotSwift",
+            "links": [
+                "http://www.dotswift.io/"
+            ],
+            "overview": "Mobile Design & UX",
+            "location": "Paris, France",
+            "dates": "2/6",
+            "hashTags": [
+                {
+                    "tag": "#dotswift",
+                    "link": "https://twitter.com/search?f=realtime&q=%23dotswift"
+                }
+            ]
+        },
         {
-          "tag": "#Strataconf",
-          "link": "https://twitter.com/search?f=realtime&q=%23strataconf"
-        }
-      ]
-    },
-    {
-      "name": "Re.Work Internet of Things",
-      "links": ["https://www.re-work.co/events/internet-of-things-london"],
-      "location": "London, England",
-      "dates": "03.12 - 03.13",
-      "hashTags": [
+            "name": "Strata",
+            "links": [
+                "http://strataconf.com/strata2015"
+            ],
+            "overview": "Big data",
+            "location": "San Jose, CA",
+            "dates": "2/18 - 2/2",
+            "hashTags": [
+                {
+                    "tag": "#Strataconf",
+                    "link": "https://twitter.com/search?f=realtime&q=%23strataconf"
+                }
+            ]
+        },
         {
-          "tag": "#IOT2015",
-          "link": "https://twitter.com/search?f=realtime&q=%23iot2015"
-        }
-      ]
-    },
-    {
-      "name": "SXSW",
-      "links": ["http://sxsw.com/"],
-      "overview": "All things interactive",
-      "location": "Austin, TX",
-      "dates": "03.13 - 03.15"
-    },
-    {
-      "name": "SXSW",
-      "links": ["http://sxsw.com/"],
-      "location": "Austin, TX",
-      "dates": "03.13 - 03.17",
-      "hashTags": [
+            "name": "Re.Work Internet of Things",
+            "links": [
+                "https://www.re-work.co/events/internet-of-things-london"
+            ],
+            "overview": "Future of the web",
+            "location": "London, England",
+            "dates": "3/12 - 3/13",
+            "hashTags": [
+                {
+                    "tag": "#IOT2015",
+                    "link": "https://twitter.com/search?f=realtime&q=%23iot2015"
+                }
+            ]
+        },
         {
-          "tag": "#SXSW",
-          "link": "https://twitter.com/search?f=realtime&q=%23sxsw"
-        }
-      ]
-    },
-    {
-      "name": "GLUE",
-      "links": ["http://gluecon.com/2015/"],
-      "overview": "Cloud, DevOps, Mobile, APIs, Big Data for developers",
-      "location": "Broomfield, CO",
-      "dates": "03.20 - 03.21"
-    },
-    {
-      "name": "ModevUX",
-      "links": ["http://ux15.gomodev.com/"],
-      "overview": "Mobile Design & UX",
-      "location": "Arlington, VA",
-      "dates": "03.23 - 03.24"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Seattle",
-      "dates": "03.30 - 04.01"
-    },
-    {
-      "name": "WebVisions NYC",
-      "links": ["http://www.webvisionsevent.com/new-york/"],
-      "overview": "Future of the web",
-      "location": "New York City",
-      "dates": "04.01"
-    },
-    {
-      "name": "Magento Imagine",
-      "overview": "Commerce ecosystem",
-      "links": ["http://www.imagineecommerce.com/"],
-      "location": "Las Vegas, NV",
-      "dates": "04.02 - 04.22",
-      "hashTags": [
+            "name": "SXSW",
+            "links": [
+                "http://sxsw.com/"
+            ],
+            "overview": "Mobile UX",
+            "location": "Austin, TX",
+            "dates": "3/13 - 3/17",
+            "hashTags": [
+                {
+                    "tag": "#SXSW",
+                    "link": "https://twitter.com/search?f=realtime&q=%23sxsw"
+                }
+            ]
+        },
         {
-          "tag": "#MagentoImagine",
-          "link": "https://twitter.com/search?f=realtime&q=%23MagentoImagine"
-        }
-      ]
-    },
-    {
-      "name": "PyCon",
-      "links": ["https://us.pycon.org/2015/"],
-      "location": "Montreal, Canda",
-      "dates": "04.08 - 04.16",
-      "hashTags": [
+            "name": "PyCon",
+            "links": [
+                "https://us.pycon.org/2015/"
+            ],
+            "overview": "Web, Javascript, HTML5",
+            "location": "Montreal, Canda",
+            "dates": "4/8 - 4/16",
+            "hashTags": [
+                {
+                    "tag": "#PyCon",
+                    "link": "https://twitter.com/search?f=realtime&q=%23pycon"
+                }
+            ]
+        },
         {
-          "tag": "#PyCon",
-          "link": "https://twitter.com/search?f=realtime&q=%23pycon"
-        }
-      ]
-    },
-    {
-      "name": "UX Immersion Mobile",
-      "links": ["http://uxim15.uie.com/"],
-      "overview": "Mobile UX",
-      "location": "Salt Lake City",
-      "dates": "04.13 - 04.15"
-    },
-    {
-      "name": "Fluent",
-      "links": ["http://fluentconf.com/javascript-html-2015"],
-      "overview": "Web, Javascript, HTML5",
-      "location": "San Francisco",
-      "dates": "04.20 - 04.22"
-    },
-    {
-      "name": "RailsConf",
-      "links": ["http://www.railsconf.com/"],
-      "location": "Atlanta, GA",
-      "dates": "04.22 - 04.25",
-      "hashTags": [
+            "name": "Microsoft Build",
+            "links": [
+                "http://www.buildwindows.com/"
+            ],
+            "overview": "Broad development focus",
+            "location": "San Francisco, CA",
+            "dates": "4/29 - 5/1",
+            "hashTags": [
+                {
+                    "tag": "#bldwin",
+                    "link": "https://twitter.com/search?f=realtime&q=%23bldwin"
+                }
+            ]
+        },
         {
-          "tag": "#RailsConf",
-          "link": "https://twitter.com/search?f=realtime&q=%23RailsConf"
-        }
-      ]
-    },
-    {
-      "name": "TNW Europe",
-      "overview": "Web",
-      "links": ["http://thenextweb.com/conference/europe/"],
-      "location": "Amsterdam, Netherlands",
-      "dates": "04.23 - 04.24",
-      "hashTags": [
+            "name": "Magento Imagine",
+            "links": [
+                "http://www.imagineecommerce.com/"
+            ],
+            "overview": "Commerce ecosystem",
+            "location": "Las Vegas, NV",
+            "dates": "4/2 - 4/22",
+            "hashTags": [
+                {
+                    "tag": "#MagentoImagine",
+                    "link": "https://twitter.com/search?f=realtime&q=%23MagentoImagine"
+                }
+            ]
+        },
         {
-          "tag": "#thenextweb",
-          "link": "https://twitter.com/search?f=realtime&q=%23thenextweb"
-        }
-      ]
-    },
-    {
-      "name": "Code PaLOUsa",
-      "links": ["http://www.codepalousa.com/"],
-      "overview": "Broad development focus",
-      "location": "Louisville, KY",
-      "dates": "04.27 - 04.30"
-    },
-    {
-      "name": "Microsoft Build",
-      "links": ["http://www.buildwindows.com/"],
-      "location": "San Francisco, CA",
-      "dates": "04.29 - 05.01",
-      "hashTags": [
+            "name": "RailsConf",
+            "links": [
+                "http://www.railsconf.com/"
+            ],
+            "overview": "Broad development focus",
+            "location": "Atlanta, GA",
+            "dates": "4/22 - 4/25",
+            "hashTags": [
+                {
+                    "tag": "#RailsConf",
+                    "link": "https://twitter.com/search?f=realtime&q=%23RailsConf"
+                }
+            ]
+        },
         {
-          "tag": "#bldwin",
-          "link": "https://twitter.com/search?f=realtime&q=%23bldwin"
-        }
-      ]
-    },
-    {
-      "name": "99u",
-      "links": ["http://conference.99u.com/"],
-      "overview": "Inspiration and Design",
-      "location": "New York City",
-      "dates": "04.30 - 05.01"
-    },
-    {
-      "name": "Facebook F8",
-      "links": ["https://www.facebook.com/f8"],
-      "location": "San Francisco, CA",
-      "dates": "05.05",
-      "hashTags": [
+            "name": "TNW Europe",
+            "links": [
+                "http://thenextweb.com/conference/europe/"
+            ],
+            "overview": "Web",
+            "location": "Amsterdam, Netherlands",
+            "dates": "4/23 - 4/24",
+            "hashTags": [
+                {
+                    "tag": "#thenextweb",
+                    "link": "https://twitter.com/search?f=realtime&q=%23thenextweb"
+                }
+            ]
+        },
         {
-          "tag": "#f8",
-          "link": "https://twitter.com/search?f=realtime&q=%23f8"
-        }
-      ]
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Boston",
-      "dates": "05.11 - 05.13"
-    },
-    {
-      "name": "GOTO Chicago",
-      "links": ["http://gotocon.com/chicago-2015"],
-      "overview": "Broad development focus",
-      "location": "Chicago",
-      "dates": "05.11 - 05.14"
-    },
-    {
-      "name": "WebVisions Portland",
-      "links": ["http://www.webvisionsevent.com/portland/"],
-      "overview": "Future of the web",
-      "location": "Portland",
-      "dates": "05.12 - 05.15"
-    },
-    {
-      "name": "UX London",
-      "links": ["http://2015.uxlondon.com/"],
-      "overview": "UX \"3 days of inspiration, education and skills development for user experience designers\".",
-      "location": "London",
-      "dates": "05.20 - 05.22"
-    },
-    {
-      "name": "State of the Map US",
-      "links": ["http://openstreetmap.us/2014/11/sotmus-2015-in-nyc/"],
-      "overview": "",
-      "location": "New York City",
-      "dates": "06.06 - 08.01"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "San Diego",
-      "dates": "06.08 - 10.01"
-    },
-    {
-      "name": "GIANT Conf",
-      "links": ["http://2015.giantconf.com/"],
-      "overview": "UX \"A conference for people who create rad experiences.\"",
-      "location": "Charleston, SC",
-      "dates": "06.14 - 06.17"
-    },
-    {
-      "name": "Google I/O",
-      "links": ["https://www.google.com/events/io"],
-      "location": "San Francisco, CA",
-      "dates": "06.24 - 04.26",
-      "hashTags": [
+            "name": "Facebook F8",
+            "links": [
+                "https://www.facebook.com/f8"
+            ],
+            "overview": "Future of the web",
+            "location": "San Francisco, CA",
+            "dates": "5/5",
+            "hashTags": [
+                {
+                    "tag": "#f8",
+                    "link": "https://twitter.com/search?f=realtime&q=%23f8"
+                }
+            ]
+        },
         {
-          "tag": "#googleio",
-          "link": "https://twitter.com/search?f=realtime&q=%23googleio"
+            "name": "Google I/O",
+            "links": [
+                "https://www.google.com/events/io"
+            ],
+            "overview": "UX \"3 days of inspiration, education and skills development for user experience designers\".",
+            "location": "San Francisco, CA",
+            "dates": "6/24 - 4/26",
+            "hashTags": [
+                {
+                    "tag": "#googleio",
+                    "link": "https://twitter.com/search?f=realtime&q=%23googleio"
+                }
+            ]
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "Washington, DC",
+            "dates": "8/10 - 8/12"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "San Diego",
+            "dates": "Jun 8-10"
+        },
+        {
+            "name": "GIANT Conf",
+            "links": [
+                "http://2015.giantconf.com/"
+            ],
+            "overview": "UX \"A conference for people who create rad experiences.\"",
+            "location": "Charleston, SC",
+            "dates": "Jun 14-17"
+        },
+        {
+            "name": "Black Hat",
+            "links": [
+                "http://www.blackhat.com/"
+            ],
+            "overview": "Security training and briefings",
+            "location": "Las Vegas ?",
+            "dates": "Aug 1-6"
+        },
+        {
+            "name": "DefCon 23",
+            "links": [
+                "https://www.defcon.org/index.html"
+            ],
+            "overview": "Security",
+            "location": "Las Vegas, NV",
+            "dates": "Aug 6-9"
+        },
+        {
+            "name": "Agile Conf",
+            "links": [
+                "http://agile2015.agilealliance.org/"
+            ],
+            "overview": "Agile project management",
+            "location": "Washington, DC",
+            "dates": "Aug 3-7"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "Washington, DC",
+            "dates": "Aug 10-12"
+        },
+        {
+            "name": "UX Week",
+            "links": [
+                "http://uxweek.com/"
+            ],
+            "overview": "UX",
+            "location": "San Francisco",
+            "dates": "Aug 25-28"
+        },
+        {
+            "name": "WebVisions Chicago",
+            "links": [
+                "http://www.webvisionsevent.com/chicago/"
+            ],
+            "overview": "Future of the web",
+            "location": "Chicago",
+            "dates": "September"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "Chicago",
+            "dates": "Aug 31 - Sep 2"
+        },
+        {
+            "name": "StrangeLoop",
+            "links": [
+                "https://thestrangeloop.com/"
+            ],
+            "overview": "Make connections with the creators and users of the languages,libraries,tools,and techniques at the forefront of the industry",
+            "location": "St. Louis, MO",
+            "dates": "Sep 24-26"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "Austin",
+            "dates": "Oct 5-7"
+        },
+        {
+            "name": "JavaOne",
+            "links": [
+                "https://www.oracle.com/javaone/index.html"
+            ],
+            "overview": "Java",
+            "location": "San Francisco",
+            "dates": "Oct 25-29"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "San Francisco",
+            "dates": "Nov 2-4"
+        },
+        {
+            "name": "Atlassian Summit",
+            "links": [
+                "https://summit.atlassian.com/"
+            ],
+            "overview": "Atlassian users conference",
+            "location": "San Francisco",
+            "dates": "Nov 3-5"
         }
-      ]
-    },
-    {
-      "name": "Black Hat",
-      "links": ["http://www.blackhat.com/"],
-      "overview": "Security training and briefings",
-      "location": "Las Vegas ?",
-      "dates": "08.01 - 06.01"
-    },
-    {
-      "name": "Agile Conf",
-      "links": ["http://agile2015.agilealliance.org/"],
-      "overview": "Agile project management",
-      "location": "Washington, DC",
-      "dates": "08.03 - 07.01"
-    },
-    {
-      "name": "DefCon 23",
-      "links": ["https://www.defcon.org/index.html"],
-      "overview": "Security",
-      "location": "Las Vegas, NV",
-      "dates": "08.06 - 09.01"
-    },
-    {
-      "name": "Event Apart",
-      "overview": "Web design",
-      "links": ["http://aneventapart.com/events"],
-      "location": "Washington, DC",
-      "dates": "08.10 - 08.12"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Washington, DC",
-      "dates": "08.10 - 12.01"
-    },
-    {
-      "name": "UX Week",
-      "links": ["http://uxweek.com/"],
-      "overview": "UX",
-      "location": "San Francisco",
-      "dates": "08.25 - 08.28"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Chicago",
-      "dates": "08.31 - 09.02"
-    },
-    {
-      "name": "WebVisions Chicago",
-      "links": ["http://www.webvisionsevent.com/chicago/"],
-      "overview": "Future of the web",
-      "location": "Chicago",
-      "dates": "09.01"
-    },
-    {
-      "name": "StrangeLoop",
-      "links": ["https://thestrangeloop.com/"],
-      "overview": "Make connections with the creators and users of the languages,libraries,tools,and techniques at the forefront of the industry",
-      "location": "St. Louis, MO",
-      "dates": "09.24 - 09.26"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Austin",
-      "dates": "10.05 - 07.01"
-    },
-    {
-      "name": "JavaOne",
-      "links": ["https://www.oracle.com/javaone/index.html"],
-      "overview": "Java",
-      "location": "San Francisco",
-      "dates": "10.25 - 10.29"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "San Francisco",
-      "dates": "11.02 - 04.01"
-    },
-    {
-      "name": "Atlassian Summit",
-      "links": ["https://summit.atlassian.com/"],
-      "overview": "Atlassian users conference",
-      "location": "San Francisco",
-      "dates": "11.03 - 05.01"
-    }
-  ]}
+    ]
+}

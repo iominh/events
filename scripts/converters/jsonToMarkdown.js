@@ -4,7 +4,7 @@ var fs = require('fs');
 var common = require('./../common/common.js');
 var moment = require('moment');
 var sugar = require('sugar');
-
+var format = '{MM}/{dd}';
 
 function printRow(name, location, dates, hashtags, links, overview) {
   var row = '';
@@ -12,7 +12,7 @@ function printRow(name, location, dates, hashtags, links, overview) {
   if (links && links.length > 0 && typeof links !== 'string') {
     nameLink = '[' + name + '](' + links[0] + ')';
   }
-  row += common.pad('| ' + nameLink, 60, ' ', null);
+  row += common.pad('| ' + nameLink, 100, ' ', null);
 
   var overviewString = overview;
   if (!overviewString) {
@@ -45,7 +45,9 @@ function printMarkdownFromJSON(filename) {
   Object.keys(obj)
     .sort()
     .forEach(function (year) {
-      var yearEvents = obj[year];
+      var events = obj[year];
+      events = standardizeEventDates(events);
+      events = sortEvents(events);
 
       console.log('## ' + year + '\n');
       printRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
@@ -53,8 +55,8 @@ function printMarkdownFromJSON(filename) {
       // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
       printRow(':--:', ':--:', ':--:', ':--:', ':--:', ':--:');
 
-      for (var i = 0; i < yearEvents.length; i++) {
-        var event = yearEvents[i];
+      for (var i = 0; i < events.length; i++) {
+        var event = events[i];
         printRow(event.name, event.location, event.dates, event.hashTags, event.links, event.overview);
       }
     });
@@ -70,51 +72,55 @@ function convertJSONToMarkdown(folders) {
   }, folders);
 }
 
+function standardizeEventDates(events) {
+  for (var i = 0; i < events.length; i++) {
+    var event = events[i];
+    var split = event.dates.split('-');
+    var date1 = Date.create(split[0]);
+
+    if (split.length === 1) {
+      // TODO: how do we handle strings like 'April TBD'?
+      event.dates = date1.format(format);
+    } else if (split.length > 1) {
+      // http://sugarjs.com/dates
+      var date2 = Date.create(split[1]);
+
+      // if cannot parse, extract day
+      if (date2.toString() === 'Invalid Date') {
+        date2 = Date.create(date1);
+        date2.set({ day: split[1] });
+      }
+      event.dates = date1.format(format) + ' - ' + date2.format(format);
+    }
+  }
+  return events;
+}
+
+// sort events by start date
+function sortEvents(events) {
+  // TODO: add secondary sort condition?
+  return events.sort(function(a, b) {
+    if (a.dates < b.dates)
+      return -1;
+    if (a.dates > b.dates)
+      return 1;
+    return 0;
+  });
+}
+
 function enrichJSON() {
-  debugger;
   var newEvents = [];
   var eventCount = 0;
   common.processFiles(function (filename) {
     if (filename.indexOf('json') > -1) {
       var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
-      var format = '{MM}.{dd}';
       for (var year in obj) {
         var events = obj[year];
         eventCount += events.length;
 
-        // standardize the dates
-        for (var i = 0; i < events.length; i++) {
-          var event = events[i];
-          var split = event.dates.split('-');
-          var date1 = Date.create(split[0]);
-
-          if (split.length === 1) {
-            // TODO: how do we handle strings like 'April TBD'?
-            event.dates = date1.format(format);
-          } else if (split.length > 1) {
-            // http://sugarjs.com/dates
-            var date2 = Date.create(split[1]);
-
-            // if cannot parse, extract day
-            if (date2.toString() === 'Invalid Date') {
-              date2 = Date.create(date1);
-              date2.set({ day: split[1] });
-            }
-            event.dates = date1.format(format) + ' - ' + date2.format(format);
-          }
-        }
+        events = standardizeEventDates(events);
         newEvents = newEvents.concat(events);
-
-        // sort events by start date
-        // TODO: add secondary sort condition?
-        newEvents = newEvents.sort(function(a, b) {
-          if (a.dates < b.dates)
-            return -1;
-          if (a.dates > b.dates)
-            return 1;
-          return 0;
-        });
-
+        newEvents = sortEvents(newEvents);
       }
     }
   });
