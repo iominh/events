@@ -12,12 +12,10 @@ Conferences
 | [Event Apart](http://aneventapart.com/events)                                                     | Atlanta                     | 02/16 - 02/18     | 
 | [Strata](http://strataconf.com/strata2015)                                                        | San Jose, CA                | 02/18 - 02/02     | 
 | [Re.Work Internet of Things](https://www.re-work.co/events/internet-of-things-london)             | London, England             | 03/12 - 03/13     | 
-| [SXSW](http://sxsw.com/)                                                                          | Austin, TX                  | 03/13 - 03/15     | 
 | [SXSW](http://sxsw.com/)                                                                          | Austin, TX                  | 03/13 - 03/17     | 
 | [GLUE](http://gluecon.com/2015/)                                                                  | Broomfield, CO              | 03/20 - 03/21     | 
 | [ModevUX](http://ux15.gomodev.com/)                                                               | Arlington, VA               | 03/23 - 03/24     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Seattle                     | 03/30 - 04/01     | 
-| [Event Apart](http://aneventapart.com/events)                                                     | Seatle                      | 03/30 - 04/01     | 
 | [WebVisions NYC](http://www.webvisionsevent.com/new-york/)                                        | New York City               | 04/01             | 
 | [Magento Imagine](http://www.imagineecommerce.com/)                                               | Las Vegas, NV               | 04/02 - 04/22     | 
 | [PyCon](https://us.pycon.org/2015/)                                                               | Montreal, Canda             | 04/08 - 04/16     | 
@@ -33,10 +31,10 @@ Conferences
 | [GOTO Chicago](http://gotocon.com/chicago-2015)                                                   | Chicago                     | 05/11 - 05/14     | 
 | [WebVisions Portland](http://www.webvisionsevent.com/portland/)                                   | Portland                    | 05/12 - 05/15     | 
 | [UX London](http://2015.uxlondon.com/)                                                            | London                      | 05/20 - 05/22     | 
+| [Google I/O](https://www.google.com/events/io)                                                    | San Francisco, CA           | 05/28 - 05/29     | 
 | [State of the Map US](http://openstreetmap.us/2014/11/sotmus-2015-in-nyc/)                        | New York City               | 06/06 - 06/08     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | San Diego, CA               | 06/08 - 06/10     | 
 | [GIANT Conf](http://2015.giantconf.com/)                                                          | Charleston, SC              | 06/14 - 06/17     | 
-| [Google I/O](https://www.google.com/events/io)                                                    | San Francisco, CA           | 06/24 - 04/26     | 
 | [Black Hat USA](http://www.blackhat.com/)                                                         | Las Vegas, NV               | 08/01 - 08/06     | 
 | [Agile Conf](http://agile2015.agilealliance.org/)                                                 | Washington, DC              | 08/03 - 08/07     | 
 | [DefCon 23](https://www.defcon.org/index.html)                                                    | Las Vegas, NV               | 08/06 - 08/09     | 
@@ -51,6 +49,6 @@ Conferences
 | [Atlassian Summit](https://summit.atlassian.com/)                                                 | San Francisco               | 11/03 - 11/05     | 
 | [Black Hat Europe](http://www.blackhat.com/)                                                      | Amsterdam, Netherlands      | 11/10 - 11/13     | 
 
-(45 conferences)
+(43 conferences)
 
 For more info, see [this page](https://github.com/minhongrails/events)

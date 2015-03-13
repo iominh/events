@@ -8,13 +8,6 @@
       "dates": "Feb 16-18"
     },
     {
-      "name": "SXSW",
-      "links": ["http://sxsw.com/"],
-      "overview": "All things interactive",
-      "location": "Austin, TX",
-      "dates": "March 13-15"
-    },
-    {
       "name": "GLUE",
       "links": ["http://gluecon.com/2015/"],
       "overview": "Cloud, DevOps, Mobile, APIs, Big Data for developers",
@@ -188,13 +181,6 @@
       "overview": "Web design",
       "location": "Austin",
       "dates": "Oct 5-7"
-    },
-    {
-      "name": "Event Apart",
-      "links": ["http://aneventapart.com/events"],
-      "overview": "Web design",
-      "location": "Seatle",
-      "dates": "March 30-April 1"
     },
     {
       "name": "Event Apart",
