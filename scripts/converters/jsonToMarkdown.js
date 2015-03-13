@@ -37,6 +37,7 @@ function printRow(name, location, dates, hashtags, links, overview) {
 
 function printMarkdownFromJSON(filename) {
   var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
+  var eventCount = 0;
   debugger;
 
   console.log('Conferences');
@@ -48,6 +49,9 @@ function printMarkdownFromJSON(filename) {
       var events = obj[year];
       events = standardizeEventDates(events);
       events = sortEvents(events);
+      events = removeDuplicates(events);
+
+      eventCount += events.length;
 
       console.log('## ' + year + '\n');
       printRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
@@ -61,6 +65,7 @@ function printMarkdownFromJSON(filename) {
       }
     });
 
+  console.log('\n(' + eventCount + ' events)');
   console.log('\nFor more info, see [this page](https://github.com/minhongrails/events)');
 }
 
@@ -86,9 +91,9 @@ function standardizeEventDates(events) {
       var date2 = Date.create(split[1]);
 
       // if cannot parse, extract day
-      if (date2.toString() === 'Invalid Date') {
+      if (split[1].length <= 2 || date2.toString() === 'Invalid Date') {
         date2 = Date.create(date1);
-        date2.set({ day: split[1] });
+        date2.set({ day: split[1]});
       }
       event.dates = date1.format(format) + ' - ' + date2.format(format);
     }
@@ -96,10 +101,28 @@ function standardizeEventDates(events) {
   return events;
 }
 
+function removeDuplicates(events) {
+  var nonDuplicatedArray = [];
+  for (var i = 0; i < events.length; i++) {
+    var isDuplicate = false;
+    // look ahead for duplicates. if found, don't add
+    for (var x = i+1; x < events.length; x++) {
+      if (Object.equal(events[x], events[i])) {
+        isDuplicate = true;
+        break;
+      }
+    }
+    if (!isDuplicate) {
+      nonDuplicatedArray.push(events[i]);
+    }
+  }
+  return nonDuplicatedArray;
+}
+
 // sort events by start date
 function sortEvents(events) {
   // TODO: add secondary sort condition?
-  return events.sort(function(a, b) {
+  return events.sort(function (a, b) {
     if (a.dates < b.dates)
       return -1;
     if (a.dates > b.dates)
