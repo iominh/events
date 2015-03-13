@@ -225,7 +225,7 @@
                 "http://aneventapart.com/events"
             ],
             "overview": "Web design",
-            "location": "San Diego",
+            "location": "San Diego, CA",
             "dates": "Jun 8-10"
         },
         {
@@ -238,13 +238,22 @@
             "dates": "Jun 14-17"
         },
         {
-            "name": "Black Hat",
+            "name": "Black Hat USA",
             "links": [
                 "http://www.blackhat.com/"
             ],
             "overview": "Security training and briefings",
-            "location": "Las Vegas ?",
+            "location": "Las Vegas, NV",
             "dates": "Aug 1-6"
+        },
+        {
+            "name": "Black Hat Europe",
+            "links": [
+                "http://www.blackhat.com/"
+            ],
+            "overview": "Security training and briefings",
+            "location": "Amsterdam, Netherlands",
+            "dates": "Nov 10-13"
         },
         {
             "name": "DefCon 23",
@@ -279,7 +288,7 @@
                 "http://uxweek.com/"
             ],
             "overview": "UX",
-            "location": "San Francisco",
+            "location": "San Francisco, CA",
             "dates": "Aug 25-28"
         },
         {
@@ -288,7 +297,7 @@
                 "http://www.webvisionsevent.com/chicago/"
             ],
             "overview": "Future of the web",
-            "location": "Chicago",
+            "location": "Chicago, IL",
             "dates": "September"
         },
         {
@@ -297,7 +306,7 @@
                 "http://aneventapart.com/events"
             ],
             "overview": "Web design",
-            "location": "Chicago",
+            "location": "Chicago, IL",
             "dates": "Aug 31 - Sep 2"
         },
         {
@@ -317,6 +326,24 @@
             "overview": "Web design",
             "location": "Austin",
             "dates": "Oct 5-7"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "Seatle",
+            "dates": "March 30-April 1"
+        },
+        {
+            "name": "Event Apart",
+            "links": [
+                "http://aneventapart.com/events"
+            ],
+            "overview": "Web design",
+            "location": "Boston, MA",
+            "dates": "May 11-13"
         },
         {
             "name": "JavaOne",

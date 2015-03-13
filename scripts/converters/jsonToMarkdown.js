@@ -65,7 +65,7 @@ function printMarkdownFromJSON(filename) {
       }
     });
 
-  console.log('\n(' + eventCount + ' events)');
+  console.log('\n(' + eventCount + ' conferences)');
   console.log('\nFor more info, see [this page](https://github.com/minhongrails/events)');
 }
 
