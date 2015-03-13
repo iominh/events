@@ -478,6 +478,60 @@
             ],
             "location": "Washington, DC",
             "dates": "8/10 - 8/12"
+        },
+        {
+            "name": "ng-conf",
+            "overview": "The best of the best in Angular",
+            "links": [
+                "http://www.ng-conf.org/"
+            ],
+            "location": "SALT LAKE CITY, UTAH",
+            "dates": "MARCH 5-6"
+        },
+        {
+            "name": "Game Developers Conference",
+            "overview": "The world's largest and longest running professionals-only game industry event",
+            "links": [
+                "http://www.gdconf.com/"
+            ],
+            "location": "San Francisco, CA",
+            "dates": "MARCH 2-6"
+        },
+        {
+            "name": "foss4g north america",
+            "overview": "The world’s largest gathering of open source geospatial users, developers, and researchers",
+            "links": [
+                "https://2015.foss4g-na.org/"
+            ],
+            "location": "San Francisco, CA",
+            "dates": "MARCH 9-12"
+        },
+        {
+            "name": "foss4g korea",
+            "overview": "The world’s largest gathering of open source geospatial users, developers, and researchers",
+            "links": [
+                "http://2015.foss4g.org/"
+            ],
+            "location": "Seoul, Korea",
+            "dates": "9/14-19"
+        },
+        {
+            "name": "foss4g europe",
+            "overview": "The Conference aims to bring together FOSS4G users and developers worldwide and foster closer interactions with and amongst European communities in order to share ideas for improving geodata, software and applications openess.",
+            "links": [
+                "http://2015.foss4g.org/"
+            ],
+            "location": "como, italy",
+            "dates": "7/14-17"
+        },
+        {
+            "name": "eclipsecon",
+            "overview": "Conference for the Eclipse Ecosystem ",
+            "links": [
+                "https://www.eclipsecon.org"
+            ],
+            "location": "San Francisco, CA",
+            "dates": "MARCH 9-12"
         }
     ]
 }

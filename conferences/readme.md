@@ -11,6 +11,10 @@ Conferences
 | [dotSwift](http://www.dotswift.io/)                                                               | Paris, France               | 02/06             | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Atlanta                     | 02/16 - 02/18     | 
 | [Strata](http://strataconf.com/strata2015)                                                        | San Jose, CA                | 02/18 - 02/02     | 
+| [Game Developers Conference](http://www.gdconf.com/)                                              | San Francisco, CA           | 03/02 - 03/06     | 
+| [ng-conf](http://www.ng-conf.org/)                                                                | SALT LAKE CITY, UTAH        | 03/05 - 03/06     | 
+| [foss4g north america](https://2015.foss4g-na.org/)                                               | San Francisco, CA           | 03/09 - 03/12     | 
+| [eclipsecon](https://www.eclipsecon.org)                                                          | San Francisco, CA           | 03/09 - 03/12     | 
 | [Re.Work Internet of Things](https://www.re-work.co/events/internet-of-things-london)             | London, England             | 03/12 - 03/13     | 
 | [SXSW](http://sxsw.com/)                                                                          | Austin, TX                  | 03/13 - 03/17     | 
 | [GLUE](http://gluecon.com/2015/)                                                                  | Broomfield, CO              | 03/20 - 03/21     | 
@@ -35,6 +39,7 @@ Conferences
 | [State of the Map US](http://openstreetmap.us/2014/11/sotmus-2015-in-nyc/)                        | New York City               | 06/06 - 06/08     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | San Diego, CA               | 06/08 - 06/10     | 
 | [GIANT Conf](http://2015.giantconf.com/)                                                          | Charleston, SC              | 06/14 - 06/17     | 
+| [foss4g europe](http://2015.foss4g.org/)                                                          | como, italy                 | 07/14 - 07/17     | 
 | [Black Hat USA](http://www.blackhat.com/)                                                         | Las Vegas, NV               | 08/01 - 08/06     | 
 | [Agile Conf](http://agile2015.agilealliance.org/)                                                 | Washington, DC              | 08/03 - 08/07     | 
 | [DefCon 23](https://www.defcon.org/index.html)                                                    | Las Vegas, NV               | 08/06 - 08/09     | 
@@ -42,6 +47,7 @@ Conferences
 | [UX Week](http://uxweek.com/)                                                                     | San Francisco, CA           | 08/25 - 08/28     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Chicago, IL                 | 08/31 - 09/02     | 
 | [WebVisions Chicago](http://www.webvisionsevent.com/chicago/)                                     | Chicago, IL                 | 09/01             | 
+| [foss4g korea](http://2015.foss4g.org/)                                                           | Seoul, Korea                | 09/14 - 09/19     | 
 | [StrangeLoop](https://thestrangeloop.com/)                                                        | St. Louis, MO               | 09/24 - 09/26     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Austin                      | 10/05 - 10/07     | 
 | [JavaOne](https://www.oracle.com/javaone/index.html)                                              | San Francisco               | 10/25 - 10/29     | 
@@ -49,6 +55,6 @@ Conferences
 | [Atlassian Summit](https://summit.atlassian.com/)                                                 | San Francisco               | 11/03 - 11/05     | 
 | [Black Hat Europe](http://www.blackhat.com/)                                                      | Amsterdam, Netherlands      | 11/10 - 11/13     | 
 
-(43 conferences)
+(49 conferences)
 
 For more info, see [this page](https://github.com/minhongrails/events)

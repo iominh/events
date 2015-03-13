@@ -24,4 +24,4 @@ function mergeJSON(folder) {
   console.log(JSON.stringify(obj, null, 4));
 
 }
-mergeJSON(['data/2015']);
+mergeJSON(['data/conferences/2015']);
