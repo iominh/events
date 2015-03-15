@@ -5,8 +5,9 @@ var common = require('./../common/common.js');
 var moment = require('moment');
 var sugar = require('sugar');
 var format = '{MM}/{dd}';
+var mkpath = require('mkpath');
 
-function printRow(name, location, dates, hashtags, links, overview) {
+function getRow(name, location, dates, hashtags, links, overview) {
   var row = '';
   var nameLink = name;
   if (links && links.length > 0 && typeof links !== 'string') {
@@ -32,47 +33,75 @@ function printRow(name, location, dates, hashtags, links, overview) {
 //  row += common.pad('| ' + hashTagString, 80, ' ', null);
 
   row += common.pad('| ', 0, ' ', null);
-  console.log(row);
+  return row + '\n';
 }
 
-function printMarkdownFromJSON(filename) {
+function writeMarkdownFromJSON(filename) {
   var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
-  var eventCount = 0;
-  debugger;
-
-  console.log('Conferences');
-  console.log('=====================\n');
+  var totalEventCount = 0;
+  var rootPath = '../conferences/';
+  var summaryMarkdown = 'Conferences\n';
+  summaryMarkdown += '=====================\n\n';
+  var footer = '\nFor more info, see [this page](https://github.com/minhongrails/events)';
 
   Object.keys(obj)
     .sort()
     .forEach(function (year) {
-      var events = obj[year];
-      events = standardizeEventDates(events);
-      events = sortEvents(events);
-      events = removeDuplicates(events);
+      var path = rootPath + year;
+      var eventCount = 0;
 
-      eventCount += events.length;
+      mkpath(path, function (err) {
+        if (err) throw err;
 
-      console.log('## ' + year + '\n');
-      printRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
+        var markdown = '';
+        markdown += year + ' Conferences\n';
+        markdown += '=====================\n\n';
 
-      // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
-      printRow(':--:', ':--:', ':--:', ':--:', ':--:', ':--:');
+        var events = obj[year];
+        events = standardizeEventDates(events);
+        events = sortEvents(events);
+        events = removeDuplicates(events);
 
-      for (var i = 0; i < events.length; i++) {
-        var event = events[i];
-        printRow(event.name, event.location, event.dates, event.hashTags, event.links, event.overview);
-      }
+        eventCount += events.length;
+        markdown += getRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
+
+        // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
+        markdown += getRow(':--:', ':--:', ':--:', ':--:', ':--:', ':--:');
+
+        for (var i = 0; i < events.length; i++) {
+          var event = events[i];
+          markdown += getRow(event.name, event.location, event.dates, event.hashTags, event.links, event.overview);
+        }
+
+        markdown += '\n(' + eventCount + ' conferences)\n';
+        markdown += footer;
+
+        fs.writeFile(path + '/readme.md', markdown, function (err) {
+          if (err) {
+            return console.log(err);
+          }
+          totalEventCount += eventCount;
+          console.log('Wrote markdown to ' + path + ' with ' + eventCount + ' events, with total of ' + totalEventCount);
+        });
+
+        summaryMarkdown += '[' + year + '](/' + year + ')\n';
+        fs.writeFile(rootPath + '/readme.md', summaryMarkdown +'\n' + footer, function (err) {
+          if (err) {
+            return console.log(err);
+          }
+          console.log('Wrote summary');
+        });
+
+      });
     });
 
-  console.log('\n(' + eventCount + ' conferences)');
-  console.log('\nFor more info, see [this page](https://github.com/minhongrails/events)');
+
 }
 
 function convertJSONToMarkdown(folders) {
   common.processFiles(function (filename) {
     if (filename.indexOf('json') > -1) {
-      printMarkdownFromJSON(filename);
+      writeMarkdownFromJSON(filename);
     }
   }, folders);
 }
@@ -106,7 +135,7 @@ function removeDuplicates(events) {
   for (var i = 0; i < events.length; i++) {
     var isDuplicate = false;
     // look ahead for duplicates. if found, don't add
-    for (var x = i+1; x < events.length; x++) {
+    for (var x = i + 1; x < events.length; x++) {
       if (Object.equal(events[x], events[i])) {
         isDuplicate = true;
         break;

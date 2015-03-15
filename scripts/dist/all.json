@@ -550,6 +550,42 @@
             ],
             "location": "Salt Lake City, UT",
             "dates": "April 7-9"
+        },
+        {
+            "name": "Generate",
+            "overview": "THE CONFERENCE FOR WEB DESIGNERS, PRESENTED BY NET MAGAZINE AND CREATIVE BLOQ",
+            "links": [
+                "http://www.generateconf.com/new-york-2015"
+            ],
+            "location": "New York, NY",
+            "dates": "April 17"
+        },
+        {
+            "name": "Generate London",
+            "overview": "THE CONFERENCE FOR WEB DESIGNERS, PRESENTED BY NET MAGAZINE AND CREATIVE BLOQ",
+            "links": [
+                "http://www.generateconf.com/new-york-2015"
+            ],
+            "location": "London, UK",
+            "dates": "September 17-18"
+        },
+        {
+            "name": "Locate Conference",
+            "overview": "Locate Conference is Australia & New Zealand’s leading Spatial event consolidating the top Australian spatial industry events.",
+            "links": [
+                "http://www.locateconference.com/"
+            ],
+            "location": "Brisbane, Australia",
+            "dates": "March 10-12"
+        },
+        {
+            "name": "Restonate",
+            "overview": "Bringing together artists to drive a forward-looking debate on the position of technology in art and culture.",
+            "links": [
+                "http://resonate.io/2015/"
+            ],
+            "location": "Belgrade, Serbia",
+            "dates": "April 13-18th"
         }
     ]
 }
