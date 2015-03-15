@@ -1,27 +1,32 @@
 "use strict";
 
 var fs = require('fs');
-var common = require('./common/common.js');
-var sugar = require('sugar');
+var walk = require('walk');
+var walker = walk.walk('./data', { followLinks: false });
+var obj = {};
+var outFile = './dist/all.json';
 
-function mergeJSON(folder) {
-  debugger;
-  var obj = {};
-  common.processFiles(function (filename) {
-    if (filename.indexOf('json') > -1) {
-      var o = JSON.parse(fs.readFileSync(filename, 'utf8'));
-      for (var year in o) {
-        if (!obj[year]) {
-          obj[year] = o[year];
-        } else {
-          obj[year] = obj[year].concat(o[year]);
-        }
-      }
-
+walker.on('file', function (root, stat, next) {
+  var filename = root + '/' + stat.name;
+  var o = JSON.parse(fs.readFileSync(filename, 'utf8'));
+  for (var year in o) {
+    if (!obj[year]) {
+      obj[year] = o[year];
+    } else {
+      obj[year] = obj[year].concat(o[year]);
     }
-  }, folder);
+  }
 
-  console.log(JSON.stringify(obj, null, 4));
+  fs.writeFile(outFile, JSON.stringify(obj, null, 4), function (err) {
+    if (err) {
+      return console.log(err);
+    }
+    console.log('Merged from file ' + filename);
+  });
 
-}
-mergeJSON(['data/conferences/2015']);
+  next();
+});
+
+//walker.on('end', function () {
+////  console.log('Finished merging');
+//});

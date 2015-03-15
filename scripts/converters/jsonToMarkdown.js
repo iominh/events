@@ -84,9 +84,9 @@ function writeMarkdownFromJSON(filename) {
 
           var summaryHeader = 'Conferences\n';
           summaryHeader += '=====================\n\n';
-          summaryHeader += 'This is a repository of conferences, mostly tech or design related. Contributions are welcome!\n';
-          summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events.\n';
-          summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n';
+          summaryHeader += 'This is a repository of conferences, mostly tech or design related. Contributions are welcome!\n\n';
+          summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events.\n\n';
+          summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n\n';
           fs.writeFile(rootPath + '/readme.md', summaryHeader + summaryMarkdown +'\n' + footer, function (err) {
             if (err) {
               return console.log(err);
@@ -104,6 +104,7 @@ function writeMarkdownFromJSON(filename) {
 function convertJSONToMarkdown(folders) {
   common.processFiles(function (filename) {
     if (filename.indexOf('json') > -1) {
+      console.log('Converting json ' + filename);
       writeMarkdownFromJSON(filename);
     }
   }, folders);

@@ -1,4 +1,4 @@
 #!/bin/sh
-node mergeJSON.js > dist/all.json
+node mergeJSON.js
 #node-debug mergeJSON.js > dist/all.json
 node main.js
