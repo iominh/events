@@ -84,7 +84,7 @@ function writeMarkdownFromJSON(filename) {
           console.log('Wrote markdown to ' + path + ' with ' + eventCount + ' events, with total of ' + totalEventCount);
         });
 
-        summaryMarkdown += '[' + year + '](/' + year + ')\n';
+        summaryMarkdown += '[' + year + '](' + year + ')\n';
         fs.writeFile(rootPath + '/readme.md', summaryMarkdown +'\n' + footer, function (err) {
           if (err) {
             return console.log(err);
