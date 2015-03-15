@@ -40,8 +40,7 @@ function writeMarkdownFromJSON(filename) {
   var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
   var totalEventCount = 0;
   var rootPath = '../conferences/';
-  var summaryMarkdown = 'Conferences\n';
-  summaryMarkdown += '=====================\n\n';
+  var summaryMarkdown = '';
   var footer = '\nFor more info, see [this page](https://github.com/minhongrails/events)';
 
   Object.keys(obj)
@@ -82,14 +81,18 @@ function writeMarkdownFromJSON(filename) {
           }
           totalEventCount += eventCount;
           console.log('Wrote markdown to ' + path + ' with ' + eventCount + ' events, with total of ' + totalEventCount);
-        });
 
-        summaryMarkdown += '[' + year + '](' + year + ')\n';
-        fs.writeFile(rootPath + '/readme.md', summaryMarkdown +'\n' + footer, function (err) {
-          if (err) {
-            return console.log(err);
-          }
-          console.log('Wrote summary');
+          var summaryHeader = 'Conferences\n';
+          summaryHeader += '=====================\n\n';
+          summaryHeader += 'This is a repository of conferences, mostly tech or design related. Contributions are welcome!\n';
+          summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events.\n';
+          summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n';
+          fs.writeFile(rootPath + '/readme.md', summaryHeader + summaryMarkdown +'\n' + footer, function (err) {
+            if (err) {
+              return console.log(err);
+            }
+            console.log('Wrote summary');
+          });
         });
 
       });
