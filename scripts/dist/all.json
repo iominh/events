@@ -526,12 +526,30 @@
         },
         {
             "name": "eclipsecon",
-            "overview": "Conference for the Eclipse Ecosystem ",
+            "overview": "Conference for the Eclipse Ecosystem",
             "links": [
                 "https://www.eclipsecon.org"
             ],
             "location": "San Francisco, CA",
             "dates": "MARCH 9-12"
+        },
+        {
+            "name": "Atlas Camp",
+            "overview": "Discover how kickass developers use and extend Atlassian products.",
+            "links": [
+                "https://www.atlassian.com/atlascamp"
+            ],
+            "location": "Prague, Czech Republic",
+            "dates": "June 9-11"
+        },
+        {
+            "name": "Domo Palooza",
+            "overview": "Domo’s inaugural user event and premier business management conference.",
+            "links": [
+                "http://www.domo.com/domopalooza"
+            ],
+            "location": "Salt Lake City, UT",
+            "dates": "April 7-9"
         }
     ]
 }

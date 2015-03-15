@@ -22,6 +22,7 @@ Conferences
 | [Event Apart](http://aneventapart.com/events)                                                     | Seattle                     | 03/30 - 04/01     | 
 | [WebVisions NYC](http://www.webvisionsevent.com/new-york/)                                        | New York City               | 04/01             | 
 | [Magento Imagine](http://www.imagineecommerce.com/)                                               | Las Vegas, NV               | 04/02 - 04/22     | 
+| [Domo Palooza](http://www.domo.com/domopalooza)                                                   | Salt Lake City, UT          | 04/07 - 04/09     | 
 | [PyCon](https://us.pycon.org/2015/)                                                               | Montreal, Canda             | 04/08 - 04/16     | 
 | [UX Immersion Mobile](http://uxim15.uie.com/)                                                     | Salt Lake City              | 04/13 - 04/15     | 
 | [Fluent](http://fluentconf.com/javascript-html-2015)                                              | San Francisco               | 04/20 - 04/22     | 
@@ -38,6 +39,7 @@ Conferences
 | [Google I/O](https://www.google.com/events/io)                                                    | San Francisco, CA           | 05/28 - 05/29     | 
 | [State of the Map US](http://openstreetmap.us/2014/11/sotmus-2015-in-nyc/)                        | New York City               | 06/06 - 06/08     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | San Diego, CA               | 06/08 - 06/10     | 
+| [Atlas Camp](https://www.atlassian.com/atlascamp)                                                 | Prague, Czech Republic      | 06/09 - 06/11     | 
 | [GIANT Conf](http://2015.giantconf.com/)                                                          | Charleston, SC              | 06/14 - 06/17     | 
 | [foss4g europe](http://2015.foss4g.org/)                                                          | como, italy                 | 07/14 - 07/17     | 
 | [Black Hat USA](http://www.blackhat.com/)                                                         | Las Vegas, NV               | 08/01 - 08/06     | 
@@ -55,6 +57,6 @@ Conferences
 | [Atlassian Summit](https://summit.atlassian.com/)                                                 | San Francisco               | 11/03 - 11/05     | 
 | [Black Hat Europe](http://www.blackhat.com/)                                                      | Amsterdam, Netherlands      | 11/10 - 11/13     | 
 
-(49 conferences)
+(51 conferences)
 
 For more info, see [this page](https://github.com/minhongrails/events)
