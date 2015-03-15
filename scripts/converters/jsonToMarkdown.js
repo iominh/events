@@ -84,8 +84,8 @@ function writeMarkdownFromJSON(filename) {
 
           var summaryHeader = 'Conferences\n';
           summaryHeader += '=====================\n\n';
-          summaryHeader += 'This is a repository of conferences, mostly tech or design related. Contributions are welcome!\n\n';
-          summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events.\n\n';
+          summaryHeader += 'This is a repository of conferences, mostly tech or design related. [Contributions are welcome!](contributing.md)\n\n';
+          summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events:\n\n';
           summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n\n';
           fs.writeFile(rootPath + '/readme.md', summaryHeader + summaryMarkdown +'\n' + footer, function (err) {
             if (err) {
@@ -120,9 +120,15 @@ function standardizeEventDates(events) {
       // TODO: how do we handle strings like 'April TBD'?
       event.dates = date1.format(format);
     } else if (split.length > 1) {
-      // http://sugarjs.com/dates
       var date2 = Date.create(split[1]);
 
+      // TODO: we just strip the year off from something like '7, 2014'; is there a better way to parse this?
+      var split2 = split[1].split(',');
+      if (split2.length > 1) {
+        date2 = Date.create(split[0]);
+      }
+
+      // http://sugarjs.com/dates
       // if cannot parse, extract day
       if (split[1].length <= 2 || date2.toString() === 'Invalid Date') {
         date2 = Date.create(date1);
