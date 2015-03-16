@@ -57,9 +57,9 @@ function writeMarkdownFromJSON(filename) {
         markdown += '=====================\n\n';
 
         var events = obj[year];
-        events = standardizeEventDates(events);
-        events = sortEvents(events);
-        events = removeDuplicates(events);
+        events = common.standardizeEventDates(events);
+        events = common.sortEvents(events);
+        events = common.removeDuplicates(events);
 
         eventCount += events.length;
         markdown += getRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
@@ -110,98 +110,6 @@ function convertJSONToMarkdown(folders) {
   }, folders);
 }
 
-// TODO: is there a generic NLP library for extracting dates?
-// handles dates like:
-// February 6-7, 2014
-// March 13-17
-// 1/22 - 1/23
-// April 13-18th
-// March 28-29, 2014 April 25-26, 2014 May 9-10, 2014
-// 1/12 - 1/16
-function standardizeEventDates(events) {
-  for (var i = 0; i < events.length; i++) {
-    var event = events[i];
-    // sanitize
-    var split = event.dates.replace('th', '');
-    split = split.split('-');
-    if (split.length === 1) {
-      split = event.dates.split('–');
-    }
-    var date1 = Date.create(split[0]);
-
-    if (split.length === 1) {
-      // TODO: how do we handle strings like 'April TBD'?
-      event.dates = date1.format(format);
-    } else if (split.length > 1) {
-      var split2 = common.tidyString(split[1]).trim();
-      var date2 = Date.create(split2);
-      var splitDayYear = null;
-
-      // if second date has a year, strip it off like '7, 2014' or '7 2014' --> split2 = [7, 2014]
-      if (date2.toString() === 'Invalid Date') {
-        splitDayYear = split2.split(',');
-        if (splitDayYear.length > 1) {
-          date2 = Date.create(splitDayYear[0]);
-        } else {
-          splitDayYear = split2.split(' ');
-          if (splitDayYear.length > 1) {
-            date2 = Date.create(splitDayYear[0]);
-          }
-        }
-      }
-
-      // http://sugarjs.com/dates
-      // for second date, use the first date's month with the second date's day
-      if (split2.length <= 2 || date2.toString() === 'Invalid Date' ||
-        (splitDayYear && splitDayYear[0].length <= 2)) {
-        date2 = Date.create(date1);
-        if (splitDayYear > 0) {
-          date2.set({ day: split[1]});
-        } else {
-          if (!splitDayYear) {
-            date2.set({ day: split2});
-          } else {
-            date2.set({ day: splitDayYear[0]});
-          }
-
-        }
-
-      }
-      event.dates = date1.format(format) + ' - ' + date2.format(format);
-    }
-  }
-  return events;
-}
-
-function removeDuplicates(events) {
-  var nonDuplicatedArray = [];
-  for (var i = 0; i < events.length; i++) {
-    var isDuplicate = false;
-    // look ahead for duplicates. if found, don't add
-    for (var x = i + 1; x < events.length; x++) {
-      if (Object.equal(events[x], events[i])) {
-        isDuplicate = true;
-        break;
-      }
-    }
-    if (!isDuplicate) {
-      nonDuplicatedArray.push(events[i]);
-    }
-  }
-  return nonDuplicatedArray;
-}
-
-// sort events by start date
-function sortEvents(events) {
-  // TODO: add secondary sort condition?
-  return events.sort(function (a, b) {
-    if (a.dates < b.dates)
-      return -1;
-    if (a.dates > b.dates)
-      return 1;
-    return 0;
-  });
-}
 
 function enrichJSON() {
   var newEvents = [];
@@ -213,9 +121,9 @@ function enrichJSON() {
         var events = obj[year];
         eventCount += events.length;
 
-        events = standardizeEventDates(events);
+        events = common.standardizeEventDates(events);
         newEvents = newEvents.concat(events);
-        newEvents = sortEvents(newEvents);
+        newEvents = common.sortEvents(newEvents);
       }
     }
   });

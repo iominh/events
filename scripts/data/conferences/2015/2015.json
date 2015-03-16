@@ -787,8 +787,13 @@
       "overview": "",
       "location": "Washington DC, USA",
       "dates": "February 06-07, 2015"
+    },
+    {
+      "name": "ConveyUX 2015",
+      "links": ["http://conveyux.com/"],
+      "overview": "Convey UX is the essential conference for UX practitioners to share and learn.",
+      "location": "Seattle, WA",
+      "dates": "1/22-1/24"
     }
-
-
   ]
 }

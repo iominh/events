@@ -433,6 +433,20 @@
       "overview": "",
       "location": "Atlanta, Georgia",
       "dates": "December 5-6, 2014"
+    },
+    {
+      "name": "Open Mobile Summit",
+      "links": ["http://www.openmobilemedia.com/san-francisco/index.php"],
+      "overview": "The Open Mobile Summit attracts over 500 leading mobile executives from the most influential consumer facing brands, alongside the major MNO’s and device players that are at heart of the mobile ecosystem.",
+      "location": "Chaleston, SC",
+      "dates": "11/10/14"
+    },
+    {
+      "name": "Refresh Charleston",
+      "links": ["http://refreshcharleston.com/"],
+      "overview": "Refresh Charleston is a mini-series of events for the Lowcountry’s creative community, promoting creativity, design and better standards. Ever so often, we come together to share what we know and meet others who share similar interests.",
+      "location": "San Francisco, CA",
+      "dates": "1/21/15"
     }
   ]
 
