@@ -69,7 +69,7 @@
 | [Agile Conf](http://agile2015.agilealliance.org/)                                                 | Washington, DC              | 08/03 - 08/07     | 
 | [DefCon 23](https://www.defcon.org/index.html)                                                    | Las Vegas, NV               | 08/06 - 08/09     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Washington, DC              | 08/10 - 08/12     | 
-| [360|iDev](http://360idev.com/)                                                                   | Denver, Colorado            | 08/16 - 08/19     | 
+| [360 iDev](http://360idev.com/)                                                                   | Denver, Colorado            | 08/16 - 08/19     | 
 | [Hybrid Conf](http://hybridconf.net/)                                                             | Dubli, Ireland              | 08/20 - 08/21     | 
 | [UX Week](http://uxweek.com/)                                                                     | San Francisco, CA           | 08/25 - 08/28     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Chicago, IL                 | 08/31 - 09/02     | 
