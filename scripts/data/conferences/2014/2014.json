@@ -307,6 +307,132 @@
       "overview": "CSSConf is where developers come together to talk about building the world's most engaging user interfaces. The presenters push the boundaries of what is possible — talking about the latest technologies, cutting edge techniques, and tools. We look forward to seeing you on Amelia Island!",
       "location": "Amelia Island, Florida",
       "dates": "May 27th, 2014"
+    },
+    {
+      "name": "Renaissance",
+      "links": ["http://renaissance.io/2014"],
+      "overview": "",
+      "location": "San Francisco, California",
+      "dates": "January 29-31, 2014"
+    },
+    {
+      "name": "CocoaConf DC",
+      "links": ["http://cocoaconf.com/dc-2014/home"],
+      "overview": "",
+      "location": "Herndon, Virginia",
+      "dates": "March 28-29, 2014"
+    },
+    {
+      "name": "JailbreakCon",
+      "links": ["http://www.jailbreakcon.com/"],
+      "overview": "",
+      "location": "San Francisco, California",
+      "dates": "April 12-13, 2014"
+    },
+    {
+      "name": "CocoaConf San Jose",
+      "links": ["http://cocoaconf.com/sanjose-2014/home"],
+      "overview": "",
+      "location": "San Jose, California",
+      "dates": "April 25-26, 2014"
+    },
+    {
+      "name": "CocoaConf Raleigh",
+      "links": ["http://cocoaconf.com/raleigh-2014/home"],
+      "overview": "",
+      "location": "Raleigh, North Carolina",
+      "dates": "May 9-10, 2014"
+    },
+    {
+      "name": "iOScon",
+      "links": ["https://skillsmatter.com/conferences/1984-ios-exchange-2014"],
+      "overview": "",
+      "location": "London, UK",
+      "dates": "May 15-16, 2014"
+    },
+    {
+      "name": "WWDC",
+      "links": ["https://developer.apple.com/wwdc/"],
+      "overview": "",
+      "location": "San Francisco, California",
+      "dates": "June 2-6, 2014"
+    },
+    {
+      "name": "AltConf",
+      "links": ["http://www.altconf.com/"],
+      "overview": "",
+      "location": "San Francisco, California",
+      "dates": "June 2-6, 2014"
+    },
+    {
+      "name": "FruitConf",
+      "links": ["http://fruitconf.co/"],
+      "overview": "",
+      "location": "London, UK",
+      "dates": "June 12-13, 2014"
+    },
+    {
+      "name": "iOSDevCampDC",
+      "links": ["http://iosdevcampdc.com/"],
+      "overview": "",
+      "location": "Tysons Corner, Virgina",
+      "dates": "August 1, 2014"
+    },
+    {
+      "name": "CocoaConf Columbus",
+      "links": ["http://cocoaconf.com/columbus-2014/home"],
+      "overview": "",
+      "location": "Columbus, Ohio",
+      "dates": "August 8-9, 2014"
+    },
+    {
+      "name": "A Swift Start",
+      "links": ["http://aswiftstart.com/"],
+      "overview": "",
+      "location": "New York, New York",
+      "dates": "August 29, 2014"
+    },
+    {
+      "name": "CocoaConf Las Vegas",
+      "links": ["http://cocoaconf.com/lasvegas-2014/home"],
+      "overview": "",
+      "location": "Las Vegas, Nevada",
+      "dates": "September 19-20, 2014"
+    },
+    {
+      "name": "#Pragma Conference",
+      "links": ["http://pragmamark.org/eventi/pragma-conference-2014/"],
+      "overview": "",
+      "location": "Milan, Italy",
+      "dates": "October 3-4, 2014"
+    },
+    {
+      "name": "CocoaConf Seattle",
+      "links": ["http://cocoaconf.com/seattle-2014/home"],
+      "overview": "",
+      "location": "Seattle, Washington",
+      "dates": "October 17-18, 2014"
+    },
+    {
+      "name": "Command R",
+      "links": ["http://cmdrconf.com"],
+      "overview": "",
+      "location": "London, UK",
+      "dates": "October 22-24, 2014"
+    },
+    {
+      "name": "CocoaConf Boston",
+      "links": ["http://cocoaconf.com/boston-2014/home"],
+      "overview": "",
+      "location": "Boston, Massachusetts",
+      "dates": "November 14-15, 2014"
+    },
+    {
+      "name": "CocoaConf Atlanta",
+      "links": ["http://cocoaconf.com/atlanta-2014/home"],
+      "overview": "",
+      "location": "Atlanta, Georgia",
+      "dates": "December 5-6, 2014"
     }
   ]
 

@@ -1,0 +1,26 @@
+{
+  "2013": [
+    {
+      "name": "CocoaConf Portland",
+      "links": ["http://cocoaconf.com/portland-2013/home"],
+      "overview": "",
+      "location": "Portland, Oregon",
+      "dates": "August 15-16, 2013"
+    },
+    {
+      "name": "Alt Tech Talks Berlin",
+      "links": ["http://www.alt-tech-talks.com"],
+      "overview": "",
+      "location": "Berlin, Germany",
+      "dates": "December 11, 2013"
+    },
+    {
+      "name": "Alt Tech Talks London",
+      "links": ["http://www.alttechtalks.com"],
+      "overview": "",
+      "location": "London, UK",
+      "dates": "December 16, 2013"
+    }
+
+  ]
+}

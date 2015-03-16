@@ -7,7 +7,8 @@ These are some helper scripts for converting between various data formats (json 
 node main.js
 
 # Same command except through npm
-npm start```
+npm start
+```
 
 # Debug help
 
@@ -17,13 +18,13 @@ npm start```
 node-debug main.js
 ```
 
-and add 'debugger;' then debug stuff
-
 # Some notes
 
 To convert the Cocoa Conferences markdown, I used the following regex in Sublime Text 3 to convert from Markdown to
 the JSON format I'm using:
 
+
+```sh
 \* \[(.*)\]\((.*)\) \| \*\*(.*)\*\* \| (.*)
 
 {
@@ -33,3 +34,4 @@ the JSON format I'm using:
 	"location": "$4",
 	"dates": "$3"
 },
+```

@@ -766,7 +766,29 @@
       "overview": "",
       "location": "Indianapolis, IN",
       "dates": "October 21-23"
+    },
+    {
+      "name": "MCE",
+      "links": ["http://mceconf.com"],
+      "overview": "",
+      "location": "Warsaw, Poland",
+      "dates": "February 04-06, 2015"
+    },
+    {
+      "name": "dot Swift",
+      "links": ["http://www.dotswift.io"],
+      "overview": "",
+      "location": "Paris, France",
+      "dates": "February 06, 2015"
+    },
+    {
+      "name": "RWDevCon",
+      "links": ["http://www.rwdevcon.com"],
+      "overview": "",
+      "location": "Washington DC, USA",
+      "dates": "February 06-07, 2015"
     }
+
 
   ]
 }

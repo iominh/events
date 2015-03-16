@@ -7,15 +7,18 @@
 | [linx.conf.au](http://linux.conf.au/)                                                             | Auckland, New Zealand       | 01/12 - 01/16     | 
 | [GWT.create](http://gwtcreate.com/)                                                               | Mountain View, CA           | 01/22 - 01/23     | 
 | [GWT.create](http://gwtcreate.com/)                                                               | Munich, Germany             | 01/27 - 01/28     | 
+| [MCE](http://mceconf.com)                                                                         | Warsaw, Poland              | 02/04 - 02/06     | 
+| [dot Swift](http://www.dotswift.io)                                                               | Paris, France               | 02/06             | 
 | [dotSwift](http://www.dotswift.io/)                                                               | Paris, France               | 02/06             | 
+| [RWDevCon](http://www.rwdevcon.com)                                                               | Washington DC, USA          | 02/06 - 02/07     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Atlanta                     | 02/16 - 02/18     | 
 | [Strata](http://strataconf.com/strata2015)                                                        | San Jose, CA                | 02/18 - 02/02     | 
 | [Mobile World Congress](http://www.mobileworldcongress.com/)                                      | Barcelona, Spain            | 03/02 - 03/05     | 
 | [Game Developers Conference](http://www.gdconf.com/)                                              | San Francisco, CA           | 03/02 - 03/06     | 
 | [ng-conf](http://www.ng-conf.org/)                                                                | SALT LAKE CITY, UTAH        | 03/05 - 03/06     | 
 | [mdevcon](http://mdevcon.com/)                                                                    | Amsterdam, Netherlands      | 03/06 - 03/07     | 
-| [foss4g north america](https://2015.foss4g-na.org/)                                               | San Francisco, CA           | 03/09 - 03/12     | 
 | [eclipsecon](https://www.eclipsecon.org)                                                          | San Francisco, CA           | 03/09 - 03/12     | 
+| [foss4g north america](https://2015.foss4g-na.org/)                                               | San Francisco, CA           | 03/09 - 03/12     | 
 | [Locate Conference](http://www.locateconference.com/)                                             | Brisbane, Australia         | 03/10 - 03/12     | 
 | [Re.Work Internet of Things](https://www.re-work.co/events/internet-of-things-london)             | London, England             | 03/12 - 03/13     | 
 | [SXSW](http://sxsw.com/)                                                                          | Austin, TX                  | 03/13 - 03/17     | 
@@ -26,8 +29,8 @@
 | [Facebook F8](https://fbf8.com/)                                                                  | San Francisco, CA           | 03/25 - 03/26     | 
 | [Mobile March](http://mobilemarchtc.com/)                                                         | Minneapolis, Minnesota      | 03/26             | 
 | [CocoaConf Chicago](http://cocoaconf.com/chicago-2015/home)                                       | Chicago, IL                 | 03/27 - 03/28     | 
-| [Event Apart](http://aneventapart.com/events)                                                     | Seattle                     | 03/30 - 04/01     | 
 | [úll](http://2015.ull.ie/)                                                                        | Killarney, Ireland          | 03/30 - 04/01     | 
+| [Event Apart](http://aneventapart.com/events)                                                     | Seattle                     | 03/30 - 04/01     | 
 | [WebVisions NYC](http://www.webvisionsevent.com/new-york/)                                        | New York City               | 04/01             | 
 | [Magento Imagine](http://www.imagineecommerce.com/)                                               | Las Vegas, NV               | 04/02 - 04/22     | 
 | [Domo Palooza](http://www.domo.com/domopalooza)                                                   | Salt Lake City, UT          | 04/07 - 04/09     | 
@@ -90,6 +93,6 @@
 | [MacTechConf](http://mactech.com/conference)                                                      | Los Angeles, California     | 11/04 - 11/06     | 
 | [Black Hat Europe](http://www.blackhat.com/)                                                      | Amsterdam, Netherlands      | 11/10 - 11/13     | 
 
-(86 conferences)
+(89 conferences)
 
 For more info, see [this page](https://github.com/minhongrails/events)
