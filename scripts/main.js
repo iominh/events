@@ -1,5 +1,7 @@
 "use strict";
 
+debugger;
+
 //require('./converters/markdownToJSON.js').processMarkdownFiles();
 
 //require('./converters/jsonToMarkdown.js').convertJSONToMarkdown();

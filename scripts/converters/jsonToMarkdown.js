@@ -84,7 +84,7 @@ function writeMarkdownFromJSON(filename) {
 
           var summaryHeader = 'Conferences\n';
           summaryHeader += '=====================\n\n';
-          summaryHeader += 'This is a repository of conferences, mostly tech or design related. [Contributions are welcome!](contributing.md)\n\n';
+          summaryHeader += 'This is a repository of conferences, mostly tech or design related. [Contributions are welcome!](../contributing.md)\n\n';
           summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events:\n\n';
           summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n\n';
           fs.writeFile(rootPath + '/readme.md', summaryHeader + summaryMarkdown +'\n' + footer, function (err) {

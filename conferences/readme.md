@@ -1,13 +1,13 @@
 Conferences
 =====================
 
-This is a repository of conferences, mostly tech or design related. [Contributions are welcome!](contributing.md)
+This is a repository of conferences, mostly tech or design related. [Contributions are welcome!](../contributing.md)
 
-There's currently a total of 99 events:
+There's currently a total of 106 events:
 
 [2014 (44 events)](2014)
 
-[2015 (55 events)](2015)
+[2015 (62 events)](2015)
 
 
 

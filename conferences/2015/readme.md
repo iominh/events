@@ -3,12 +3,14 @@
 
 | Conference Name                                                                                   | Location                    | Dates             | 
 | :--:                                                                                              | :--:                        | :--:              | 
+| [CES](http://www.cnet.com/ces/)                                                                   | Las Vegas, NV               | 01/06 - 01/09     | 
 | [linx.conf.au](http://linux.conf.au/)                                                             | Auckland, New Zealand       | 01/12 - 01/16     | 
 | [GWT.create](http://gwtcreate.com/)                                                               | Mountain View, CA           | 01/22 - 01/23     | 
 | [GWT.create](http://gwtcreate.com/)                                                               | Munich, Germany             | 01/27 - 01/28     | 
 | [dotSwift](http://www.dotswift.io/)                                                               | Paris, France               | 02/06             | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Atlanta                     | 02/16 - 02/18     | 
 | [Strata](http://strataconf.com/strata2015)                                                        | San Jose, CA                | 02/18 - 02/02     | 
+| [Mobile World Congress](http://www.mobileworldcongress.com/)                                      | Barcelona, Spain            | 03/02 - 03/05     | 
 | [Game Developers Conference](http://www.gdconf.com/)                                              | San Francisco, CA           | 03/02 - 03/06     | 
 | [ng-conf](http://www.ng-conf.org/)                                                                | SALT LAKE CITY, UTAH        | 03/05 - 03/06     | 
 | [foss4g north america](https://2015.foss4g-na.org/)                                               | San Francisco, CA           | 03/09 - 03/12     | 
@@ -32,7 +34,9 @@
 | [Code PaLOUsa](http://www.codepalousa.com/)                                                       | Louisville, KY              | 04/27 - 04/30     | 
 | [Microsoft Build](http://www.buildwindows.com/)                                                   | San Francisco, CA           | 04/29 - 05/01     | 
 | [99u](http://conference.99u.com/)                                                                 | New York City               | 04/30 - 05/01     | 
+| [Tech Crunch Disrupt](http://techcrunch.com/events/disrupt-ny-2015/event-home/)                   | Manhattan Center, New York, NY| 05/04 - 05/06     | 
 | [Facebook F8](https://www.facebook.com/f8)                                                        | San Francisco, CA           | 05/05             | 
+| [Collision](https://collisionconf.com/)                                                           | LAS VEGAS, NV               | 05/05 - 05/06     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Boston, MA                  | 05/11 - 05/13     | 
 | [GOTO Chicago](http://gotocon.com/chicago-2015)                                                   | Chicago                     | 05/11 - 05/14     | 
 | [WebVisions Portland](http://www.webvisionsevent.com/portland/)                                   | Portland                    | 05/12 - 05/15     | 
@@ -42,7 +46,9 @@
 | [Event Apart](http://aneventapart.com/events)                                                     | San Diego, CA               | 06/08 - 06/10     | 
 | [Atlas Camp](https://www.atlassian.com/atlascamp)                                                 | Prague, Czech Republic      | 06/09 - 06/11     | 
 | [GIANT Conf](http://2015.giantconf.com/)                                                          | Charleston, SC              | 06/14 - 06/17     | 
+| [London Technology Week](http://londontechnologyweek.co.uk/)                                      | London, UK                  | 06/15 - 06/21     | 
 | [foss4g europe](http://2015.foss4g.org/)                                                          | como, italy                 | 07/14 - 07/17     | 
+| [Dublin Web Summit](http://riseconf.com/)                                                         | HONG KONG                   | 07/31 - 08/01     | 
 | [Black Hat USA](http://www.blackhat.com/)                                                         | Las Vegas, NV               | 08/01 - 08/06     | 
 | [Agile Conf](http://agile2015.agilealliance.org/)                                                 | Washington, DC              | 08/03 - 08/07     | 
 | [DefCon 23](https://www.defcon.org/index.html)                                                    | Las Vegas, NV               | 08/06 - 08/09     | 
@@ -57,8 +63,9 @@
 | [JavaOne](https://www.oracle.com/javaone/index.html)                                              | San Francisco               | 10/25 - 10/29     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | San Francisco               | 11/02 - 11/04     | 
 | [Atlassian Summit](https://summit.atlassian.com/)                                                 | San Francisco               | 11/03 - 11/05     | 
+| [Dublin Web Summit](http://websummit.net/)                                                        | RDS Main Hall, Ballsbridge, Dublin 4, Ireland| 11/03 - 11/05     | 
 | [Black Hat Europe](http://www.blackhat.com/)                                                      | Amsterdam, Netherlands      | 11/10 - 11/13     | 
 
-(55 conferences)
+(62 conferences)
 
 For more info, see [this page](https://github.com/minhongrails/events)

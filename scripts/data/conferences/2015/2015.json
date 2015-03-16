@@ -385,10 +385,10 @@
     {
       "name": "Facebook F8",
       "links": [
-        "https://www.facebook.com/f8"
+        "https://fbf8.com/"
       ],
       "location": "San Francisco, CA",
-      "dates": "5/5",
+      "dates": "3/25 - 3/26",
       "hashTags": [
         {
           "tag": "#f8",
@@ -519,13 +519,76 @@
       "dates": "March 10-12"
     },
     {
-      "name": "Restonate",
+      "name": "Resonate",
       "overview": "Bringing together artists to drive a forward-looking debate on the position of technology in art and culture.",
       "links": [
         "http://resonate.io/2015/"
       ],
       "location": "Belgrade, Serbia",
       "dates": "April 13-18th"
+    },
+    {
+      "name": "CES",
+      "overview": "Computer entertainment show",
+      "links": [
+        "http://www.cnet.com/ces/"
+      ],
+      "location": "Las Vegas, NV",
+      "dates": "Jan 6-9"
+    },
+    {
+      "name": "Mobile World Congress",
+      "overview": "The GSMA represents the interests of mobile operators worldwide, uniting nearly 800 operators with more than 250 companies in the broader mobile ecosystem, including handset and device makers, software companies, equipment providers and Internet companies, as well as organisations in adjacent industry sectors.",
+      "links": [
+        "http://www.mobileworldcongress.com/"
+      ],
+      "location": "Barcelona, Spain",
+      "dates": "Mar 2-5"
+    },
+    {
+      "name": "Tech Crunch Disrupt",
+      "overview": "TechCrunch Disrupt is one of the most anticipated technology conferences of the year. Join us at this iconic startup and thought leadership event in New York on May 4-6.",
+      "links": [
+        "http://techcrunch.com/events/disrupt-ny-2015/event-home/"
+      ],
+      "location": "Manhattan Center, New York, NY",
+      "dates": "May 4-6"
+    },
+    {
+      "name": "London Technology Week",
+      "overview": "Europe's largest gathering of tech events",
+      "links": [
+        "http://londontechnologyweek.co.uk/"
+      ],
+      "location": "London, UK",
+      "dates": "June 15-21"
+    },
+    {
+      "name": "Dublin Web Summit",
+      "overview": "Where the Tech World Meets",
+      "links": [
+        "http://websummit.net/"
+      ],
+      "location": "RDS Main Hall, Ballsbridge, Dublin 4, Ireland",
+      "dates": "November 3-5"
+    },
+    {
+      "name": "Collision",
+      "overview": "A GRAND CONCLAVE OF TECH’S HIGH PRIESTS. Collision is Web Summit’s sister event, and found a home in Tony Hsieh’s Downtown Project in Vegas.",
+      "links": [
+        "https://collisionconf.com/"
+      ],
+      "location": "LAS VEGAS, NV",
+      "dates": "MAY 5-6"
+    },
+    {
+      "name": "Dublin Web Summit",
+      "overview": "RISE is Web Summit’s first event in Asia.",
+      "links": [
+        "http://riseconf.com/"
+      ],
+      "location": "HONG KONG",
+      "dates": " 31 JULY - 1 AUGUST"
     }
 
   ]
