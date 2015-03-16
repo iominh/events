@@ -1047,6 +1047,231 @@
             ],
             "location": "HONG KONG",
             "dates": " 31 JULY - 1 AUGUST"
+        },
+        {
+            "name": "NSConference",
+            "links": [
+                "http://nsconference.com/"
+            ],
+            "overview": "",
+            "location": "Leicester, UK",
+            "dates": "March 16-18"
+        },
+        {
+            "name": "Swift Summit",
+            "links": [
+                "http://www.swiftsummit.com"
+            ],
+            "overview": "",
+            "location": "London, UK",
+            "dates": "March 21-22"
+        },
+        {
+            "name": "CocoaConf Chicago",
+            "links": [
+                "http://cocoaconf.com/chicago-2015/home"
+            ],
+            "overview": "",
+            "location": "Chicago, IL",
+            "dates": "March 27-28"
+        },
+        {
+            "name": "CocoaConf Washington DC",
+            "links": [
+                "http://cocoaconf.com/dc-2015/home"
+            ],
+            "overview": "",
+            "location": "Washington DC, USA",
+            "dates": "April 10-11"
+        },
+        {
+            "name": "NSNorth",
+            "links": [
+                "http://nsnorth.ca/"
+            ],
+            "overview": "",
+            "location": "Ottawa, Canada",
+            "dates": "April 10-12"
+        },
+        {
+            "name": "CocoaConf Yosemite",
+            "links": [
+                "http://cocoaconf.com/yosemite"
+            ],
+            "overview": "",
+            "location": "Yosemite National Park, CA",
+            "dates": "April 20-23"
+        },
+        {
+            "name": "CocoaConf PDX",
+            "links": [
+                "http://cocoaconf.com/portland-2015/home"
+            ],
+            "overview": "",
+            "location": "Portland, OR",
+            "dates": "May 8-9"
+        },
+        {
+            "name": "UIKonf",
+            "links": [
+                "http://www.uikonf.com"
+            ],
+            "overview": "",
+            "location": "Berlin, Germany",
+            "dates": "May 17-20"
+        },
+        {
+            "name": "CocoaConf Austin",
+            "links": [
+                "http://cocoaconf.com/austin-2015/home"
+            ],
+            "overview": "",
+            "location": "Austin, TX",
+            "dates": "May 22-23"
+        },
+        {
+            "name": "Objective-Cologne",
+            "links": [
+                "http://objcgn.com/"
+            ],
+            "overview": "",
+            "location": "Cologne, Germany",
+            "dates": "June 23-25"
+        },
+        {
+            "name": "360|iDev",
+            "links": [
+                "http://360idev.com/"
+            ],
+            "overview": "",
+            "location": "Denver, Colorado",
+            "dates": "August 16-19"
+        },
+        {
+            "name": "iOS Dev UK",
+            "links": [
+                "http://www.iosdevuk.com/"
+            ],
+            "overview": "",
+            "location": "Aberystwyth, UK",
+            "dates": "September 7-10"
+        },
+        {
+            "name": "NSSpain",
+            "links": [
+                "http://nsspain.com/"
+            ],
+            "overview": "",
+            "location": "Logroño, Spain",
+            "dates": "September 16-18"
+        },
+        {
+            "name": "CocoaLove",
+            "links": [
+                "http://cocoalove.org"
+            ],
+            "overview": "",
+            "location": "Philadelphia, Pennsylvania",
+            "dates": "October 24-26"
+        },
+        {
+            "name": "Release Notes",
+            "links": [
+                "http://releasenotes.tv/conference/"
+            ],
+            "overview": "",
+            "location": "Indianapolis, IN",
+            "dates": "October 21-23"
+        },
+        {
+            "name": "NSScotland",
+            "links": [
+                "http://nsscotland.com/"
+            ],
+            "overview": "",
+            "location": "Edinburgh, UK",
+            "dates": "October 23-25"
+        },
+        {
+            "name": "MacTechConf",
+            "links": [
+                "http://mactech.com/conference"
+            ],
+            "overview": "",
+            "location": "Los Angeles, California",
+            "dates": "November 4-6"
+        },
+        {
+            "name": "mdevcon",
+            "links": [
+                "http://mdevcon.com/"
+            ],
+            "overview": "",
+            "location": "Amsterdam, Netherlands",
+            "dates": "March 6-7"
+        },
+        {
+            "name": "Mobile March",
+            "links": [
+                "http://mobilemarchtc.com/"
+            ],
+            "overview": "",
+            "location": "Minneapolis, Minnesota",
+            "dates": "March 26"
+        },
+        {
+            "name": "Istanbul Tech Talks",
+            "links": [
+                "http://www.istanbultechtalks.com/"
+            ],
+            "overview": "",
+            "location": "Istanbul, Turkey",
+            "dates": "April 27"
+        },
+        {
+            "name": "úll",
+            "links": [
+                "http://2015.ull.ie/"
+            ],
+            "overview": "",
+            "location": "Killarney, Ireland",
+            "dates": "March 30 - April 1"
+        },
+        {
+            "name": "Craft Conference",
+            "links": [
+                "http://craft-conf.com/2015"
+            ],
+            "overview": "",
+            "location": "Budapest, Hungary",
+            "dates": "April 22-24"
+        },
+        {
+            "name": "AppsWorld",
+            "links": [
+                "http://www.apps-world.net/northamerica/"
+            ],
+            "overview": "",
+            "location": "San Francisco, California",
+            "dates": "May 13-14"
+        },
+        {
+            "name": "Hybrid Conf",
+            "links": [
+                "http://hybridconf.net/"
+            ],
+            "overview": "",
+            "location": "Dubli, Ireland",
+            "dates": "August 20-21"
+        },
+        {
+            "name": "Release Notes",
+            "links": [
+                "http://releasenotes.tv/conference/"
+            ],
+            "overview": "",
+            "location": "Indianapolis, IN",
+            "dates": "October 21-23"
         }
     ]
 }

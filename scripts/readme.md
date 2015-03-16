@@ -18,3 +18,18 @@ node-debug main.js
 ```
 
 and add 'debugger;' then debug stuff
+
+# Some notes
+
+To convert the Cocoa Conferences markdown, I used the following regex in Sublime Text 3 to convert from Markdown to
+the JSON format I'm using:
+
+\* \[(.*)\]\((.*)\) \| \*\*(.*)\*\* \| (.*)
+
+{
+	"name": "$1",
+	"links": ["$2"],
+	"overview": "",
+	"location": "$4",
+	"dates": "$3"
+},
