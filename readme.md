@@ -24,4 +24,4 @@ Special thanks to all of the following:
 
 * [Quora question](http://www.quora.com/Events-leisure/Is-there-a-good-online-calendar-for-upcoming-technology-conferences)
 * [Techvibes](http://www.techvibes.com/event/global)
-* [MAshable events](http://mashable.com/?s=technology+events)
+* [Mashable events](http://mashable.com/?s=technology+events)

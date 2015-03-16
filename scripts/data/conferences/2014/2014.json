@@ -171,9 +171,9 @@
     {
       "name": "BackboneJS Conference",
       "links": ["http://backboneconf.com/"],
-      "overview": "Backbone.js library, large scale JavaScript applications, and JavaScript common sense",
-      "location": "?",
-      "dates": "July ?? 2014"
+      "overview": "BackboneConf is conference about building applications on the web, with a focus on the Backbone.js library.",
+      "location": "CAMBRIDGE, MA",
+      "dates": "DEC 15 - 16"
     },
     {
       "name": "Agile 2014",
@@ -236,14 +236,14 @@
       "links": ["https://thestrangeloop.com/"],
       "overview": "Various",
       "location": "St. Louis, MO",
-      "dates": "September 17-19, 2014"
+      "dates": "September 17–19, 2014"
     },
     {
       "name": "JavaOne",
       "links": ["http://www.oracle.com/javaone/index.html"],
       "overview": "Java",
       "location": "San Francisco, CA",
-      "dates": "September 28- October 2, 2014"
+      "dates": "September 28– October 2, 2014"
     },
     {
       "name": "CSS Dev Conf",

@@ -221,9 +221,9 @@
             "links": [
                 "http://backboneconf.com/"
             ],
-            "overview": "Backbone.js library, large scale JavaScript applications, and JavaScript common sense",
-            "location": "?",
-            "dates": "July ?? 2014"
+            "overview": "BackboneConf is conference about building applications on the web, with a focus on the Backbone.js library.",
+            "location": "CAMBRIDGE, MA",
+            "dates": "DEC 15 - 16"
         },
         {
             "name": "Agile 2014",
@@ -304,7 +304,7 @@
             ],
             "overview": "Various",
             "location": "St. Louis, MO",
-            "dates": "September 17-19, 2014"
+            "dates": "September 17–19, 2014"
         },
         {
             "name": "JavaOne",
@@ -313,7 +313,7 @@
             ],
             "overview": "Java",
             "location": "San Francisco, CA",
-            "dates": "September 28- October 2, 2014"
+            "dates": "September 28– October 2, 2014"
         },
         {
             "name": "CSS Dev Conf",
@@ -843,10 +843,10 @@
         {
             "name": "Facebook F8",
             "links": [
-                "https://www.facebook.com/f8"
+                "https://fbf8.com/"
             ],
             "location": "San Francisco, CA",
-            "dates": "5/5",
+            "dates": "3/25 - 3/26",
             "hashTags": [
                 {
                     "tag": "#f8",
@@ -977,7 +977,7 @@
             "dates": "March 10-12"
         },
         {
-            "name": "Restonate",
+            "name": "Resonate",
             "overview": "Bringing together artists to drive a forward-looking debate on the position of technology in art and culture.",
             "links": [
                 "http://resonate.io/2015/"

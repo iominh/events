@@ -121,7 +121,12 @@ function convertJSONToMarkdown(folders) {
 function standardizeEventDates(events) {
   for (var i = 0; i < events.length; i++) {
     var event = events[i];
-    var split = event.dates.split('-');
+    // sanitize
+    var split = event.dates.replace('th', '');
+    split = split.split('-');
+    if (split.length === 1) {
+      split = event.dates.split('–');
+    }
     var date1 = Date.create(split[0]);
 
     if (split.length === 1) {

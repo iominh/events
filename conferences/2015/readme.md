@@ -20,13 +20,14 @@
 | [SXSW](http://sxsw.com/)                                                                          | Austin, TX                  | 03/13 - 03/17     | 
 | [GLUE](http://gluecon.com/2015/)                                                                  | Broomfield, CO              | 03/20 - 03/21     | 
 | [ModevUX](http://ux15.gomodev.com/)                                                               | Arlington, VA               | 03/23 - 03/24     | 
+| [Facebook F8](https://fbf8.com/)                                                                  | San Francisco, CA           | 03/25 - 03/26     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Seattle                     | 03/30 - 04/01     | 
 | [WebVisions NYC](http://www.webvisionsevent.com/new-york/)                                        | New York City               | 04/01             | 
 | [Magento Imagine](http://www.imagineecommerce.com/)                                               | Las Vegas, NV               | 04/02 - 04/22     | 
 | [Domo Palooza](http://www.domo.com/domopalooza)                                                   | Salt Lake City, UT          | 04/07 - 04/09     | 
 | [PyCon](https://us.pycon.org/2015/)                                                               | Montreal, Canda             | 04/08 - 04/16     | 
-| [Restonate](http://resonate.io/2015/)                                                             | Belgrade, Serbia            | 04/13 - 03/18     | 
 | [UX Immersion Mobile](http://uxim15.uie.com/)                                                     | Salt Lake City              | 04/13 - 04/15     | 
+| [Resonate](http://resonate.io/2015/)                                                              | Belgrade, Serbia            | 04/13 - 04/18     | 
 | [Generate](http://www.generateconf.com/new-york-2015)                                             | New York, NY                | 04/17             | 
 | [Fluent](http://fluentconf.com/javascript-html-2015)                                              | San Francisco               | 04/20 - 04/22     | 
 | [RailsConf](http://www.railsconf.com/)                                                            | Atlanta, GA                 | 04/22 - 04/25     | 
@@ -35,7 +36,6 @@
 | [Microsoft Build](http://www.buildwindows.com/)                                                   | San Francisco, CA           | 04/29 - 05/01     | 
 | [99u](http://conference.99u.com/)                                                                 | New York City               | 04/30 - 05/01     | 
 | [Tech Crunch Disrupt](http://techcrunch.com/events/disrupt-ny-2015/event-home/)                   | Manhattan Center, New York, NY| 05/04 - 05/06     | 
-| [Facebook F8](https://www.facebook.com/f8)                                                        | San Francisco, CA           | 05/05             | 
 | [Collision](https://collisionconf.com/)                                                           | LAS VEGAS, NV               | 05/05 - 05/06     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | Boston, MA                  | 05/11 - 05/13     | 
 | [GOTO Chicago](http://gotocon.com/chicago-2015)                                                   | Chicago                     | 05/11 - 05/14     | 
@@ -62,8 +62,8 @@
 | [Event Apart](http://aneventapart.com/events)                                                     | Austin                      | 10/05 - 10/07     | 
 | [JavaOne](https://www.oracle.com/javaone/index.html)                                              | San Francisco               | 10/25 - 10/29     | 
 | [Event Apart](http://aneventapart.com/events)                                                     | San Francisco               | 11/02 - 11/04     | 
-| [Atlassian Summit](https://summit.atlassian.com/)                                                 | San Francisco               | 11/03 - 11/05     | 
 | [Dublin Web Summit](http://websummit.net/)                                                        | RDS Main Hall, Ballsbridge, Dublin 4, Ireland| 11/03 - 11/05     | 
+| [Atlassian Summit](https://summit.atlassian.com/)                                                 | San Francisco               | 11/03 - 11/05     | 
 | [Black Hat Europe](http://www.blackhat.com/)                                                      | Amsterdam, Netherlands      | 11/10 - 11/13     | 
 
 (62 conferences)
