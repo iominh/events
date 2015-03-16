@@ -386,6 +386,15 @@
             "overview": "INSPIRATION, EDUCATION, NETWORKING",
             "location": "London, UK",
             "dates": "April 7-9, 2014"
+        },
+        {
+            "name": "Future of Web Design",
+            "links": [
+                "http://2014.cssconf.com/"
+            ],
+            "overview": "CSSConf is where developers come together to talk about building the world's most engaging user interfaces. The presenters push the boundaries of what is possible — talking about the latest technologies, cutting edge techniques, and tools. We look forward to seeing you on Amelia Island!",
+            "location": "Amelia Island, Florida",
+            "dates": "May 27th, 2014"
         }
     ],
     "2015": [

@@ -110,6 +110,14 @@ function convertJSONToMarkdown(folders) {
   }, folders);
 }
 
+// TODO: is there a generic NLP library for extracting dates?
+// handles dates like:
+// February 6-7, 2014
+// March 13-17
+// 1/22 - 1/23
+// April 13-18th
+// March 28-29, 2014 April 25-26, 2014 May 9-10, 2014
+// 1/12 - 1/16
 function standardizeEventDates(events) {
   for (var i = 0; i < events.length; i++) {
     var event = events[i];
@@ -120,19 +128,39 @@ function standardizeEventDates(events) {
       // TODO: how do we handle strings like 'April TBD'?
       event.dates = date1.format(format);
     } else if (split.length > 1) {
-      var date2 = Date.create(split[1]);
+      var split2 = common.tidyString(split[1]).trim();
+      var date2 = Date.create(split2);
+      var splitDayYear = null;
 
-      // TODO: we just strip the year off from something like '7, 2014'; is there a better way to parse this?
-      var split2 = split[1].split(',');
-      if (split2.length > 1) {
-        date2 = Date.create(split[0]);
+      // if second date has a year, strip it off like '7, 2014' or '7 2014' --> split2 = [7, 2014]
+      if (date2.toString() === 'Invalid Date') {
+        splitDayYear = split2.split(',');
+        if (splitDayYear.length > 1) {
+          date2 = Date.create(splitDayYear[0]);
+        } else {
+          splitDayYear = split2.split(' ');
+          if (splitDayYear.length > 1) {
+            date2 = Date.create(splitDayYear[0]);
+          }
+        }
       }
 
       // http://sugarjs.com/dates
-      // if cannot parse, extract day
-      if (split[1].length <= 2 || date2.toString() === 'Invalid Date') {
+      // for second date, use the first date's month with the second date's day
+      if (split2.length <= 2 || date2.toString() === 'Invalid Date' ||
+        (splitDayYear && splitDayYear[0].length <= 2)) {
         date2 = Date.create(date1);
-        date2.set({ day: split[1]});
+        if (splitDayYear > 0) {
+          date2.set({ day: split[1]});
+        } else {
+          if (!splitDayYear) {
+            date2.set({ day: split2});
+          } else {
+            date2.set({ day: splitDayYear[0]});
+          }
+
+        }
+
       }
       event.dates = date1.format(format) + ' - ' + date2.format(format);
     }
