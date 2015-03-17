@@ -1,0 +1,869 @@
+{
+  "2015": [
+    {
+      "name": "Miami Bitcoin Hackathon",
+      "links": ["http://www.miamibitcoinhackathon.com/"],
+      "overview": "",
+      "location": "1.9 - 1.11",
+      "dates": "Miami, FL"
+    },
+    {
+      "name": "WatchKit Zurich",
+      "links": ["http://watchkitzurich.ch/"],
+      "overview": "",
+      "location": "1.9 - 1.11",
+      "dates": "Zurich, Switzerland"
+    },
+    {
+      "name": "Dragon Hacks",
+      "links": ["http://hack-dragon.com/"],
+      "overview": "",
+      "location": "1.10 - 1.11",
+      "dates": "Philadelphia, PA"
+    },
+    {
+      "name": "Hack The Drive",
+      "links": ["http://hackthedrive.com/"],
+      "overview": "",
+      "location": "1.10 - 1.11",
+      "dates": "San Francisco, CA"
+    },
+    {
+      "name": "ProtoHack Austin",
+      "links": ["http://protohack.org/"],
+      "overview": "",
+      "location": "1.10",
+      "dates": "Austin, TX"
+    },
+    {
+      "name": "Audacious Hacks",
+      "links": ["http://audacious.is/hackdacious/"],
+      "overview": "",
+      "location": "1.16 - 1.18",
+      "dates": "San Francisco, CA"
+    },
+    {
+      "name": "MHacks V",
+      "links": ["http://mhacks.org/"],
+      "overview": "",
+      "location": "1.16 - 1.18",
+      "dates": "Ann Arbor, MI"
+    },
+    {
+      "name": "PennApps XI",
+      "links": ["http://2015s.pennapps.com/"],
+      "overview": "",
+      "location": "1.16 - 1.18",
+      "dates": "Philadelphia, PA"
+    },
+    {
+      "name": "Hacking Journalism",
+      "links": ["http://hackingjournalism.com/"],
+      "overview": "",
+      "location": "1.17 - 1.18",
+      "dates": "New York City, NY"
+    },
+    {
+      "name": "IDEA Hacks",
+      "links": ["http://www.ideahacks.la/"],
+      "overview": "",
+      "location": "1.23 - 1.25",
+      "dates": "Los Angeles, CA"
+    },
+    {
+      "name": "Startup Weekend EuroSeattle",
+      "links": ["http://www.eventbrite.com/e/startup-weekend-euroseattle-012315-tickets-14094867127"],
+      "overview": "",
+      "location": "1.23 - 1.25",
+      "dates": "Seattle, WA"
+    },
+    {
+      "name": "Hacking Generation Y",
+      "links": ["http://hackgeny.com/"],
+      "overview": "",
+      "location": "1.24 - 1.25",
+      "dates": "Redwood City, CA"
+    },
+    {
+      "name": "HackTech",
+      "links": ["(http://www.hacktech.io/"],
+      "overview": "",
+      "location": "1.24 - 1.26",
+      "dates": "Santa Monica, CA|"
+    },
+    {
+      "name": "Fashion/Tech Hackathon",
+      "links": ["http://www.fashiontechhackathon.com/"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Kent, OH"
+    },
+    {
+      "name": "Hack Rice",
+      "links": ["http://hack.rice.edu/"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Houston, TX"
+    },
+    {
+      "name": "HackSI",
+      "links": ["http://www.hacksi.me/"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Carbondale, IL"
+    },
+    {
+      "name": "MedStart",
+      "links": ["http://tuftsmedstart.com/"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Boston, MA"
+    },
+    {
+      "name": "SB Hacks",
+      "links": ["http://www.ucsbhacks.com/"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Santa Barbara, CA"
+    },
+    {
+      "name": "She Innovates",
+      "links": ["http://cs.pitt.edu/events/other/2154/event.php?id=578"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Pittsburgh, PA"
+    },
+    {
+      "name": "UofTHacks",
+      "links": ["https://uofthacks.com/"],
+      "overview": "",
+      "location": "1.30 - 2.1",
+      "dates": "Toronto, Canada"
+    },
+    {
+      "name": "SocialGoodHacks",
+      "links": ["http://socialgoodhacks.splashthat.com/"],
+      "overview": "",
+      "location": "1.31",
+      "dates": "Bronx, NY"
+    },
+    {
+      "name": "BattleHack Melbourne",
+      "links": ["https://2015.battlehack.org/melbourne"],
+      "overview": "",
+      "location": "1.31 - 2.1",
+      "dates": "Melbourne, Australia"
+    },
+    {
+      "name": "CBBhacks",
+      "links": ["http://cbbhacks.org/"],
+      "overview": "",
+      "location": "2.6 - 2.8",
+      "dates": "Brunswick, ME"
+    },
+    {
+      "name": "Hack Housing",
+      "links": ["https://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111"],
+      "overview": "",
+      "location": "2.6 - 2.8",
+      "dates": "Seattle, WA"
+    },
+    {
+      "name": "HackCWRU",
+      "links": ["http://hackcwru.com/"],
+      "overview": "",
+      "location": "2.6 - 2.8",
+      "dates": "Cleveland, OH"
+    },
+    {
+      "name": "HopHacks",
+      "links": ["http://hophacks.com/s15/"],
+      "overview": "",
+      "location": "2.6 - 2.8",
+      "dates": "Baltimore, MD"
+    },
+    {
+      "name": "TartanHacks",
+      "links": ["http://tartanhacks.com/"],
+      "overview": "",
+      "location": "2.6 - 2.7",
+      "dates": "Pittsburgh, PA"
+    },
+    {
+      "name": "VTHacks",
+      "links": ["http://vthacks.com/"],
+      "overview": "",
+      "location": "2.6 - 2.8",
+      "dates": "Blacksburg, VA"
+    },
+    {
+      "name": "AccelerateSF",
+      "links": ["http://developerweek.com/hackathon/"],
+      "overview": "",
+      "location": "2.7 - 2.8",
+      "dates": "San Francisco, CA"
+    },
+    {
+      "name": "Hack@Brown",
+      "links": ["http://hackatbrown.org/"],
+      "overview": "",
+      "location": "2.7 - 2.8",
+      "dates": "Providence, RI"
+    },
+    {
+      "name": "HSHacks II",
+      "links": ["http://www.hshacks.com/"],
+      "overview": "",
+      "location": "2.7 - 2.8",
+      "dates": "San Jose, CA"
+    },
+    {
+      "name": "IDHack",
+      "links": ["http://idhack.developersfordevelopment.org/"],
+      "overview": "",
+      "location": "2.13 - 2.14",
+      "dates": "Melford, MA"
+    },
+    {
+      "name": "DOOMHACK",
+      "links": ["https://www.facebook.com/events/1409309589366211"],
+      "overview": "",
+      "location": "2.13",
+      "dates": "Burnaby, Canada"
+    },
+    {
+      "name": "CodeDay",
+      "links": ["https://codeday.org/"],
+      "overview": "",
+      "location": "2.14 - 2.15",
+      "dates": "Multiple Cities"
+    },
+    {
+      "name": "deltaHacks",
+      "links": ["http://deltahacks.io/"],
+      "overview": "",
+      "location": "2.14 - 2.15",
+      "dates": "Hamilton, Canada"
+    },
+    {
+      "name": "HackCooper",
+      "links": ["http://hackcooper.org"],
+      "overview": "",
+      "location": "2.14 - 2.15",
+      "dates": "New York, NY"
+    },
+    {
+      "name": "HackPoly",
+      "links": ["http://hackpoly.com/"],
+      "overview": "",
+      "location": "2.20 - 2.21",
+      "dates": "Pomona, CA"
+    },
+    {
+      "name": "hack.uva",
+      "links": ["http://hackuva.io/"],
+      "overview": "",
+      "location": "2.20 - 2.21",
+      "dates": "Charlottesville, VA"
+    },
+    {
+      "name": "MBKHACK",
+      "links": ["http://www.mbkhack.com/"],
+      "overview": "",
+      "location": "2.20 - 2.22",
+      "dates": "Oakland, CA"
+    },
+    {
+      "name": "TreeHacks",
+      "links": ["https://www.treehacks.com/"],
+      "overview": "",
+      "location": "2.20 - 2.22",
+      "dates": "Stanford, CA"
+    },
+    {
+      "name": "McHacks",
+      "links": ["http://mchacks.io/"],
+      "overview": "",
+      "location": "2.21 - 2.22",
+      "dates": "Montreal, Canada"
+    },
+    {
+      "name": "UHack",
+      "links": ["http://uhack.us/"],
+      "overview": "",
+      "location": "2.21 - 2.22",
+      "dates": "Miami, FL"
+    },
+    {
+      "name": "HackIllinois",
+      "links": ["http://hackillinois.org"],
+      "overview": "",
+      "location": "2.27 - 3.1",
+      "dates": "Urbana, IL"
+    },
+    {
+      "name": "MountainHacks",
+      "links": ["http://www.mountainhacks.com"],
+      "overview": "",
+      "location": "2.27 - 2.28",
+      "dates": "TBA, Utah"
+    },
+    {
+      "name": "SD Hacks",
+      "links": ["http://sdhacks.io"],
+      "overview": "",
+      "location": "2.27 - 3.1",
+      "dates": "San Diego, CA"
+    },
+    {
+      "name": "BattleHack Los Angeles",
+      "links": ["https://2015.battlehack.org/los_angeles"],
+      "overview": "",
+      "location": "2.28 - 3.1",
+      "dates": "Los Angeles, CA"
+    },
+    {
+      "name": "Hack London",
+      "links": ["https://hacklondon.org/"],
+      "overview": "",
+      "location": "2.28 - 3.1",
+      "dates": "London, United Kingdom"
+    },
+    {
+      "name": "HackDFW",
+      "links": ["http://hackdfw.com/"],
+      "overview": "",
+      "location": "2.28 - 3.1",
+      "dates": "Dallas, TX"
+    },
+    {
+      "name": "HackTCNJ",
+      "links": ["http://hacktcnj2015.splashthat.com/"],
+      "overview": "",
+      "location": "2.28 - 3.1",
+      "dates": "Ewing Township, NJ"
+    },
+    {
+      "name": "Capital One People & Money Hackathon",
+      "links": ["https://www.eventbrite.com/e/capital-one-people-money-hackathon-50k-prizes-registration-15560583123"],
+      "overview": "",
+      "location": "3.6 - 3.8",
+      "dates": "San Francisco, CA"
+    },
+    {
+      "name": "Hack Arizona",
+      "links": ["http://hackarizona.org/"],
+      "overview": "",
+      "location": "3.6 - 3.8",
+      "dates": "Tucson, AZ"
+    },
+    {
+      "name": "HackOTR",
+      "links": ["http://www.hackotr.com"],
+      "overview": "",
+      "location": "3.6 - 3.7",
+      "dates": "Cincinnati, OH"
+    },
+
+    {
+      "name": "Meta Augmented Reality Hackathon",
+      "links": ["http://www.eventbrite.com/e/meta-augmented-reality-hackathon-in-san-francisco-tickets-15195038770"],
+      "overview": "",
+      "location": "3.6 - 3.7 ",
+      "dates": "San Francisco, CA"
+    },
+    {
+      "name": "HackNY",
+      "links": ["http://hackny.org/a/"],
+      "overview": "",
+      "location": "3.7 - 3.8",
+      "dates": "New York, NY"
+    },
+    {
+      "name": "GunnHacks",
+      "links": ["http://gunnhacks.com/"],
+      "overview": "",
+      "location": "3.14 - 3.15",
+      "dates": "Palo Alto, CA"
+    },
+    {
+      "name": "SXSW Music Hackathon",
+      "links": ["http://sxsw.com/music/hackathon"],
+      "overview": "",
+      "location": "3.18 - 3.19",
+      "dates": "Austin, TX"
+    },
+    {
+      "name": "Hack the Commute",
+      "links": ["http://hackthecommute.seattle.gov/2015/01/13/hackthecommute"],
+      "overview": "",
+      "location": "3.20 - 3.22",
+      "dates": "Seattle, WA"
+    },
+    {
+      "name": "HackBU",
+      "links": ["http://hackathon.hackbu.org/"],
+      "overview": "",
+      "location": "3.20 - 3.22",
+      "dates": "Binghamton, NY"
+    },
+    {
+      "name": "Pearl Hacks",
+      "links": ["http://www.pearlhacks.com/"],
+      "overview": "",
+      "location": "3.20 - 3.22",
+      "dates": "Chapel Hill, NC"
+    },
+    {
+      "name": "VandyHacks",
+      "links": ["http://www.vandyhacks.org/"],
+      "overview": "",
+      "location": "3.20 - 3.22",
+      "dates": "Nashville, TN"
+    },
+    {
+      "name": "MTY Hackathon",
+      "links": ["http://monterrey.acm.org/hackathon.html"],
+      "overview": "",
+      "location": "3.21 - 3.22",
+      "dates": "Monterrey, Mexico"
+    },
+    {
+      "name": "National Hack the Government",
+      "links": ["https://www.eventbrite.co.uk/e/national-hack-the-government-2015-london-tickets-15845722984"],
+      "overview": "",
+      "location": "3.21 - 3.32",
+      "dates": "Victoria, United Kingdom"
+    },
+    {
+      "name": "Codestellation",
+      "links": ["http://codestellation.io/"],
+      "overview": "",
+      "location": "3.27 - 3.28",
+      "dates": "Waltham, Massachusetts"
+    },
+    {
+      "name": "HackPSU",
+      "links": ["http://www.hackpsu.com/"],
+      "overview": "",
+      "location": "3.27 - 3.29",
+      "dates": "State College, PA"
+    },
+    {
+      "name": "Hack Western",
+      "links": ["http://hackwestern.com/"],
+      "overview": "",
+      "location": "3.27 - 3.29",
+      "dates": "London, ON, Canada"
+    },
+    {
+      "name": "SpartaHack",
+      "links": ["http://www.spartahack.com/"],
+      "overview": "",
+      "location": "3.27 - 3.29",
+      "dates": "East Lansing, MI"
+    },
+    {
+      "name": "SteelHacks",
+      "links": ["http://steelhacks.pittcsc.org/"],
+      "overview": "",
+      "location": "3.27 - 3.29",
+      "dates": "Pittsburgh, PA"
+    },
+    {
+      "name": "BattleHack Singapore",
+      "links": ["https://2015.battlehack.org/singapore"],
+      "overview": "",
+      "location": "3.28 - 3.29",
+      "dates": "Singapore, Singapore"
+    },
+    {
+      "name": "Hack@Smith",
+      "links": ["http://www.hackatsmith.org/"],
+      "overview": "",
+      "location": "3.28 - 3.29",
+      "dates": "Northampton, MA"
+    },
+    {
+      "name": "hackBCA II",
+      "links": ["http://hackbca.com/"],
+      "overview": "",
+      "location": "3.28",
+      "dates": "Hackensack, NJ"
+    },
+    {
+      "name": "CodeRED",
+      "links": ["http://codered.cougarcs.com/"],
+      "overview": "",
+      "location": "4.3 - 4.4",
+      "dates": "Houston, TX"
+    },
+    {
+      "name": "HackHolyoke",
+      "links": ["http://hackholyoke.org/"],
+      "overview": "",
+      "location": "4.3 - 4.4",
+      "dates": "South Hadley, MA"
+    },
+    {
+      "name": "LA Hacks",
+      "links": ["http://www.lahacks.com/"],
+      "overview": "",
+      "location": "4.3 - 4.5",
+      "dates": "Los Angeles, CA"
+    },
+    {
+      "name": "Bitcamp",
+      "links": ["https://bitca.mp"],
+      "overview": "",
+      "location": "4.10 - 4.12",
+      "dates": "College Park, MD"
+    },
+    {
+      "name": "HackCU",
+      "links": ["http://hackcu.org/"],
+      "overview": "",
+      "location": "4.10 - 4.12",
+      "dates": "Boulder, CO"
+    },
+    {
+      "name": "HackNYU",
+      "links": ["http://hacknyu.org/"],
+      "overview": "",
+      "location": "4.10 - 4.12",
+      "dates": "Multiple Cities"
+    },
+    {
+      "name": "Nordic IoT Hackathon",
+      "links": ["http://nordiciothackathon.com/"],
+      "overview": "",
+      "location": "4.10 - 4.12",
+      "dates": "Lund, Sweden"
+    },
+    {
+      "name": "RevolutionUC",
+      "links": ["http://revolutionuc.com/"],
+      "overview": "",
+      "location": "4.10 - 4.12",
+      "dates": "Cincinnati, OH"
+    },
+    {
+      "name": "HackPrinceton",
+      "links": ["https://hackprinceton.com/"],
+      "overview": "",
+      "location": "4.11 - 4.12",
+      "dates": "Princeton, NJ"
+    },
+    {
+      "name": "HackUMass",
+      "links": ["http://hackumass.com/"],
+      "overview": "",
+      "location": "4.11 - 4.12",
+      "dates": "Amherst, MA"
+    },
+    {
+      "name": "Hack Upstate",
+      "links": ["http://hackupstate.com/"],
+      "overview": "",
+      "location": "4.11 - 4.12",
+      "dates": "Syracuse, NY"
+    },
+    {
+      "name": "Make IT Wright Hackathon",
+      "links": ["http://www.makeitwright.org/"],
+      "overview": "",
+      "location": "4.11 - 4.12",
+      "dates": "Dayton, OH"
+    },
+    {
+      "name": "Space Apps",
+      "links": ["https://2015.spaceappschallenge.org/"],
+      "overview": "",
+      "location": "4.11 - 4.12",
+      "dates": "Multiple Cities"
+    },
+    {
+      "name": "Citrus Hack",
+      "links": ["http://citrushack.com/"],
+      "overview": "",
+      "location": "4.17 - 4.19",
+      "dates": "Riverside, CA"
+    },
+    {
+      "name": "HackYSU",
+      "links": ["http://www.hackysu.com/"],
+      "overview": "",
+      "location": "4.17 - 4.19",
+      "dates": "Youngstown, OH"
+    },
+    {
+      "name": "MadHacks",
+      "links": ["https://madhacks.org"],
+      "overview": "",
+      "location": "4.17 - 4.19",
+      "dates": "Madison, WI"
+    },
+    {
+      "name": "Owlhacks",
+      "links": ["http://www.owlhacks.com/"],
+      "overview": "",
+      "location": "4.17 - 4.19",
+      "dates": "Philadelphia, PA"
+    },
+    {
+      "name": "BattleHack Raleigh",
+      "links": ["https://2015.battlehack.org/raleigh"],
+      "overview": "",
+      "location": "4.18 - 4.19",
+      "dates": "Raleigh, NC"
+    },
+    {
+      "name": "BrickHack",
+      "links": ["http://brickhack.io"],
+      "overview": "",
+      "location": "4.18 - 4.19",
+      "dates": "Rochester, NY"
+    },
+    {
+      "name": "FinTech Hackathon",
+      "links": ["http://fintechhack.com/nyc2015/"],
+      "overview": "",
+      "location": "4.18 - 4.19",
+      "dates": "New York City, NY"
+    },
+    {
+      "name": "HackRU",
+      "links": ["http://hackru.org"],
+      "overview": "",
+      "location": "4.18 - 4.19",
+      "dates": "New Brunswick, NJ"
+    },
+    {
+      "name": "CarlHacks",
+      "links": ["http://carlhacks.io/"],
+      "overview": "",
+      "location": "4.24 - 4.26",
+      "dates": "Northfield, MN"
+    },
+    {
+      "name": "Mobile App Hackathon",
+      "links": ["http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026"],
+      "overview": "",
+      "location": "4.24 - 4.25",
+      "dates": "Seattle, WA"
+    },
+    {
+      "name": "RedbirdHacks",
+      "links": ["http://redbirdhacks.org/"],
+      "overview": "",
+      "location": "4.24 - 4.26",
+      "dates": "Normal, IL"
+    },
+    {
+      "name": "She Hacks NYC",
+      "links": ["http://shehacksnyc.splashthat.com/"],
+      "overview": "",
+      "location": "4.24 - 4.26",
+      "dates": "New York City, NY"
+    },
+    {
+      "name": "BattleHack London",
+      "links": ["https://2015.battlehack.org/london"],
+      "overview": "",
+      "location": "4.25 - 4.26",
+      "dates": "London, United Kingdom"
+    },
+    {
+      "name": "CSUSM Spring Women's Hackathon",
+      "links": ["http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169"],
+      "overview": "",
+      "location": "4.25",
+      "dates": "San Marcos, CA"
+    },
+    {
+      "name": "STEMHacks",
+      "links": ["http://www.stemhacks.com/"],
+      "overview": "",
+      "location": "4.25 - 4.26",
+      "dates": "Downingtown, PA"
+    },
+    {
+      "name": "WearHacks Toronto",
+      "links": ["https://wearhackstoronto.splashthat.com/"],
+      "overview": "",
+      "location": "5.8 - 5.10",
+      "dates": "Toronto, Canada"
+    },
+    {
+      "name": "ecomhack",
+      "links": ["http://www.ecomhack.io/"],
+      "overview": "",
+      "location": "5.9 - 5.10",
+      "dates": "Berlin, Germany"
+    },
+    {
+      "name": "WearHacks SF Bay",
+      "links": ["https://wearhacks-sfbay.splashthat.com/"],
+      "overview": "",
+      "location": "5.15 - 5.17",
+      "dates": "TBD"
+    },
+    {
+      "name": "DubHacks",
+      "links": ["http://dubhacks.co/2015/"],
+      "overview": "",
+      "location": "5.16 - 5.17",
+      "dates": "Seattle, WA"
+    },
+    {
+      "name": "HackUCI",
+      "links": ["http://hackuci.com/"],
+      "overview": "",
+      "location": "5.22 - 5.24",
+      "dates": "Irvine, CA"
+    },
+    {
+      "name": "WearHacks Paris",
+      "links": ["https://wearhacksparis.splashthat.com/"],
+      "overview": "",
+      "location": "5.22 - 5.24",
+      "dates": "Paris, France"
+    },
+    {
+      "name": "BattleHack Athens",
+      "links": ["https://2015.battlehack.org/athens"],
+      "overview": "",
+      "location": "5.30 - 5.31",
+      "dates": "Athens, Greece"
+    },
+    {
+      "name": "AngelHack Brooklyn",
+      "links": ["http://angelhack.com/hackathon/brooklyn-2015/"],
+      "overview": "",
+      "location": "6.6 - 6.7",
+      "dates": "Brooklyn, NY"
+    },
+    {
+      "name": "Hack for Western Mass",
+      "links": ["http://hackforwesternmass.org/"],
+      "overview": "",
+      "location": "6.6 - 6.8",
+      "dates": "Holyoke, MA"
+    },
+    {
+      "name": "BattleHack Tokyo",
+      "links": ["https://2015.battlehack.org/tokyo"],
+      "overview": "",
+      "location": "6.13 - 6.14",
+      "dates": "Tokyo, Japan"
+    },
+    {
+      "name": "BattleHack Berlin",
+      "links": ["https://2015.battlehack.org/berlin"],
+      "overview": "",
+      "location": "6.20 - 6.21",
+      "dates": "Berlin, Germany"
+    },
+    {
+      "name": "BattleHack Chicago",
+      "links": ["https://2015.battlehack.org/chicago"],
+      "overview": "",
+      "location": "6.27 - 6.28",
+      "dates": "Chicago, IL"
+    },
+    {
+      "name": "GovHack 2015",
+      "links": ["http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/"],
+      "overview": "",
+      "location": "7.3 - 7.5",
+      "dates": "Multiple Cities"
+    },
+    {
+      "name": "BattleHack Venice",
+      "links": ["https://2015.battlehack.org/venice"],
+      "overview": "",
+      "location": "7.11 - 7.12",
+      "dates": "Venice, Italy"
+    },
+    {
+      "name": "BattleHack Toronto",
+      "links": ["https://2015.battlehack.org/toronto"],
+      "overview": "",
+      "location": "7.18 - 7.19",
+      "dates": "Toronto, Canada"
+    },
+    {
+      "name": "Global Hackathon Seoul",
+      "links": ["http://seoul.globalhackathon.io/"],
+      "overview": "",
+      "location": "7.29 - 8.1",
+      "dates": "Seoul, Korea"
+    },
+    {
+      "name": "BattleHack New York City",
+      "links": ["https://2015.battlehack.org/new_york_city"],
+      "overview": "",
+      "location": "8.8 - 8.9",
+      "dates": "New York City, NY"
+    },
+    {
+      "name": "UNIHACK",
+      "links": ["http://unihack.net/"],
+      "overview": "",
+      "location": "8.15",
+      "dates": "Melbourne, Australia"
+    },
+    {
+      "name": "BattleHack Stockholm",
+      "links": ["https://2015.battlehack.org/stockholm"],
+      "overview": "",
+      "location": "9.12 - 9.13",
+      "dates": "Stockholm, Sweden"
+    },
+    {
+      "name": "Hack the North",
+      "links": ["http://hackthenorth.com"],
+      "overview": "",
+      "location": "9.18 - 9.20",
+      "dates": "Waterloo, Canada"
+    },
+    {
+      "name": "HackMIT",
+      "links": ["https://hackmit.org"],
+      "overview": "",
+      "location": "9.19 - 9.20",
+      "dates": "Cambridge, MA"
+    },
+    {
+      "name": "Kent Hack Enough",
+      "links": ["http://khe.io"],
+      "overview": "",
+      "location": "10.9 - 10.11",
+      "dates": "Kent, OH"
+    },
+    {
+      "name": "Local Hack Day II",
+      "links": ["http://localhackday.mlh.io/"],
+      "overview": "",
+      "location": "10.10",
+      "dates": "Multiple Cities"
+    },
+    {
+      "name": "BattleHack Tel Aviv",
+      "links": ["https://2015.battlehack.org/tel_aviv"],
+      "overview": "",
+      "location": "10.10 - 10.11",
+      "dates": "Tel Aviv, Israel"
+    },
+    {
+      "name": "BattleHack Finals",
+      "links": ["https://2014.battlehack.org/finals"],
+      "overview": "",
+      "location": "11.15 - 11.16",
+      "dates": "San Jose, CA"
+    }
+
+  ]
+
+
+}

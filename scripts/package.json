@@ -17,7 +17,7 @@
     "htmlparser2": "^3.8.2",
     "mkpath": "^0.1.0",
     "moment": "^2.9.0",
-    "sugar": "^1.4.1",
-    "walk": "^2.3.9"
+    "recursive-readdir": "^1.2.1",
+    "sugar": "^1.4.1"
   }
 }

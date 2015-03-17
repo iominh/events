@@ -7,7 +7,8 @@
             ],
             "overview": "",
             "location": "Sydney, Australia",
-            "dates": "September 5-7, 2012"
+            "dates": "September 5-7, 2012",
+            "type": "conferences"
         }
     ],
     "2013": [
@@ -18,7 +19,8 @@
             ],
             "overview": "",
             "location": "Portland, Oregon",
-            "dates": "August 15-16, 2013"
+            "dates": "August 15-16, 2013",
+            "type": "conferences"
         },
         {
             "name": "Alt Tech Talks Berlin",
@@ -27,7 +29,8 @@
             ],
             "overview": "",
             "location": "Berlin, Germany",
-            "dates": "December 11, 2013"
+            "dates": "December 11, 2013",
+            "type": "conferences"
         },
         {
             "name": "Alt Tech Talks London",
@@ -36,7 +39,8 @@
             ],
             "overview": "",
             "location": "London, UK",
-            "dates": "December 16, 2013"
+            "dates": "December 16, 2013",
+            "type": "conferences"
         }
     ],
     "2014": [
@@ -47,7 +51,8 @@
             ],
             "overview": "All things interactive",
             "location": "Austin, TX",
-            "dates": "March 13-17"
+            "dates": "March 13-17",
+            "type": "hackathons"
         },
         {
             "name": "An Event Apart",
@@ -56,7 +61,8 @@
             ],
             "overview": "Web, design, UX",
             "location": "Austin, TX",
-            "dates": "September 22-24"
+            "dates": "September 22-24",
+            "type": "hackathons"
         },
         {
             "name": "Visualized",
@@ -65,7 +71,8 @@
             ],
             "overview": "Data, Story and Design - Presentation based",
             "location": "New York, NY",
-            "dates": "February 6-7, 2014"
+            "dates": "February 6-7, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Code PaLOUsa",
@@ -74,7 +81,8 @@
             ],
             "overview": "Broad development focus",
             "location": "Louisville, KY",
-            "dates": "February 24-26, 2014"
+            "dates": "February 24-26, 2014",
+            "type": "hackathons"
         },
         {
             "name": "O'Reilly Fluent Conference",
@@ -83,7 +91,8 @@
             ],
             "overview": "Web, Javascript, HTML5",
             "location": "San Francisco, CA",
-            "dates": "March 11-13, 2014"
+            "dates": "March 11-13, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Game Developers Conference",
@@ -92,7 +101,8 @@
             ],
             "overview": "Talks, bootcamps, and tutorials for game devs",
             "location": "San Francisco, CA",
-            "dates": "March 17-21, 2014"
+            "dates": "March 17-21, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf",
@@ -101,7 +111,8 @@
             ],
             "overview": "For iPhone, iPad, Mac devs",
             "location": "DC San Jose, CA Raleigh, NC",
-            "dates": "March 28-29, 2014 April 25-26, 2014 May 9-10, 2014"
+            "dates": "March 28-29, 2014 April 25-26, 2014 May 9-10, 2014",
+            "type": "hackathons"
         },
         {
             "name": "MS Build Conference",
@@ -110,7 +121,8 @@
             ],
             "overview": "",
             "location": "San Francisco, CA",
-            "dates": "April 2-4"
+            "dates": "April 2-4",
+            "type": "hackathons"
         },
         {
             "name": "UX Immersion",
@@ -119,7 +131,8 @@
             ],
             "overview": "Mobile UX",
             "location": "Broomfield, CO",
-            "dates": "April 7-9, 2014"
+            "dates": "April 7-9, 2014",
+            "type": "hackathons"
         },
         {
             "name": "State of the Map US",
@@ -128,7 +141,8 @@
             ],
             "overview": "The annual United States conference for all OpenStreetMap users.",
             "location": "Washington DC",
-            "dates": "April 12–13"
+            "dates": "April 12–13",
+            "type": "hackathons"
         },
         {
             "name": "ACM SIGCHI",
@@ -137,7 +151,8 @@
             ],
             "overview": "Human Computer Interaction",
             "location": "Toronto Canada",
-            "dates": "April 28 - May 1"
+            "dates": "April 28 - May 1",
+            "type": "hackathons"
         },
         {
             "name": "99u",
@@ -146,7 +161,8 @@
             ],
             "overview": "Inspiration and Design",
             "location": "New York, NY",
-            "dates": "May 1-2, 2014"
+            "dates": "May 1-2, 2014",
+            "type": "hackathons"
         },
         {
             "name": "TechCrunch Disrupt",
@@ -155,7 +171,8 @@
             ],
             "overview": "Conference about startups; 5/3-5/4 is 2 day hackathon",
             "location": "New York, NY",
-            "dates": "May 5-7, 2014"
+            "dates": "May 5-7, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Web Visions",
@@ -164,7 +181,8 @@
             ],
             "overview": "Future of the Web",
             "location": "Portland, OR",
-            "dates": "May 5–9, 2014"
+            "dates": "May 5–9, 2014",
+            "type": "hackathons"
         },
         {
             "name": "GLUE",
@@ -173,7 +191,8 @@
             ],
             "overview": "Cloud Development",
             "location": "Broomfield, CO",
-            "dates": "May 21-22, 2014"
+            "dates": "May 21-22, 2014",
+            "type": "hackathons"
         },
         {
             "name": "An Event Apart",
@@ -182,7 +201,8 @@
             ],
             "overview": "Web design",
             "location": "San Diego, CA",
-            "dates": "May 12-14, 2014"
+            "dates": "May 12-14, 2014",
+            "type": "hackathons"
         },
         {
             "name": "GOTO Conference",
@@ -191,7 +211,8 @@
             ],
             "overview": "Broad development focus",
             "location": "Chicago, IL",
-            "dates": "May 20-21, 2014"
+            "dates": "May 20-21, 2014",
+            "type": "hackathons"
         },
         {
             "name": "JSConf",
@@ -200,7 +221,8 @@
             ],
             "overview": "All things JavaScript",
             "location": "Amelia Island, FL",
-            "dates": "May 28-30, 2014"
+            "dates": "May 28-30, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Display Week",
@@ -209,7 +231,8 @@
             ],
             "overview": "Display Technologies",
             "location": "San Diego, CA",
-            "dates": "June 1-6 2014"
+            "dates": "June 1-6 2014",
+            "type": "hackathons"
         },
         {
             "name": "WWDC 2014",
@@ -218,7 +241,8 @@
             ],
             "overview": "Apple Development",
             "location": "San Francisco, CA",
-            "dates": "June"
+            "dates": "June",
+            "type": "hackathons"
         },
         {
             "name": "VALiO Con",
@@ -227,7 +251,8 @@
             ],
             "overview": "Design, UX, Inspiration",
             "location": "San Diego, CA",
-            "dates": "June 5-8, 2014"
+            "dates": "June 5-8, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Giant Conf",
@@ -236,7 +261,8 @@
             ],
             "overview": "UX \"A conference for people who create rad experiences.\"",
             "location": "Charleston, SC",
-            "dates": "June 11–14, 2014"
+            "dates": "June 11–14, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Google IO",
@@ -245,7 +271,8 @@
             ],
             "overview": "Google technologies",
             "location": "San Francisco, CA",
-            "dates": "June 25-26, 2014"
+            "dates": "June 25-26, 2014",
+            "type": "hackathons"
         },
         {
             "name": "QCon New York",
@@ -254,7 +281,8 @@
             ],
             "overview": "Various",
             "location": "New York, NY",
-            "dates": "June 9 - 13, 2014"
+            "dates": "June 9 - 13, 2014",
+            "type": "hackathons"
         },
         {
             "name": "BackboneJS Conference",
@@ -263,7 +291,8 @@
             ],
             "overview": "BackboneConf is conference about building applications on the web, with a focus on the Backbone.js library.",
             "location": "CAMBRIDGE, MA",
-            "dates": "DEC 15 - 16"
+            "dates": "DEC 15 - 16",
+            "type": "hackathons"
         },
         {
             "name": "Agile 2014",
@@ -272,7 +301,8 @@
             ],
             "overview": "Agile project management",
             "location": "Orlando, FL",
-            "dates": "July 28 - August 1, 2014"
+            "dates": "July 28 - August 1, 2014",
+            "type": "hackathons"
         },
         {
             "name": "That Conference",
@@ -281,7 +311,8 @@
             ],
             "overview": "Web, Mobile, Cloud, Other",
             "location": "Wisconsin",
-            "dates": "August 11-13, 2014"
+            "dates": "August 11-13, 2014",
+            "type": "hackathons"
         },
         {
             "name": "BlackHat",
@@ -290,7 +321,8 @@
             ],
             "overview": "Security training and briefings",
             "location": "Las Vegas, NV",
-            "dates": "August 2-8, 2014"
+            "dates": "August 2-8, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Defcon",
@@ -299,7 +331,8 @@
             ],
             "overview": "Security",
             "location": "Las Vegas, NV",
-            "dates": "August 7-10, 2014"
+            "dates": "August 7-10, 2014",
+            "type": "hackathons"
         },
         {
             "name": "SIGGRAPH",
@@ -308,7 +341,8 @@
             ],
             "overview": "Graphics, 3D, visualizations",
             "location": "Vancouver, BC",
-            "dates": "August 10-14, 2014"
+            "dates": "August 10-14, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Made by Few",
@@ -317,7 +351,8 @@
             ],
             "overview": "The conference for the makers of the Web",
             "location": "Little Rock, AK",
-            "dates": "August 22-23, 2014"
+            "dates": "August 22-23, 2014",
+            "type": "hackathons"
         },
         {
             "name": "UX Week",
@@ -326,7 +361,8 @@
             ],
             "overview": "UX",
             "location": "San Francisco, CA",
-            "dates": "September 9-12, 2014"
+            "dates": "September 9-12, 2014",
+            "type": "hackathons"
         },
         {
             "name": "XOXO",
@@ -335,7 +371,8 @@
             ],
             "overview": "XOXO is an experimental festival celebrating independently produced art and technology.",
             "location": "Portland, OR",
-            "dates": "September 11–14"
+            "dates": "September 11–14",
+            "type": "hackathons"
         },
         {
             "name": "Strangeloop",
@@ -344,7 +381,8 @@
             ],
             "overview": "Various",
             "location": "St. Louis, MO",
-            "dates": "September 17–19, 2014"
+            "dates": "September 17–19, 2014",
+            "type": "hackathons"
         },
         {
             "name": "JavaOne",
@@ -353,7 +391,8 @@
             ],
             "overview": "Java",
             "location": "San Francisco, CA",
-            "dates": "September 28– October 2, 2014"
+            "dates": "September 28– October 2, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CSS Dev Conf",
@@ -362,7 +401,8 @@
             ],
             "overview": "CSS",
             "location": "New Orleans, LA",
-            "dates": "October 13-15, 2014"
+            "dates": "October 13-15, 2014",
+            "type": "hackathons"
         },
         {
             "name": "StrataConf & HadoopWorld",
@@ -371,7 +411,8 @@
             ],
             "overview": "Cloud with some design / data science",
             "location": "New York, NY",
-            "dates": "October 15-17, 2014"
+            "dates": "October 15-17, 2014",
+            "type": "hackathons"
         },
         {
             "name": "SPLASH",
@@ -380,7 +421,8 @@
             ],
             "overview": "Various",
             "location": "Portland, OR",
-            "dates": "October 20-24, 2014"
+            "dates": "October 20-24, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -389,7 +431,8 @@
             ],
             "overview": "Web Design, etc.",
             "location": "Orlando, FL",
-            "dates": "October 26-31, 2014"
+            "dates": "October 26-31, 2014",
+            "type": "hackathons"
         },
         {
             "name": "QCon San Francisco",
@@ -398,7 +441,8 @@
             ],
             "overview": "Various",
             "location": "San Francisco, CA",
-            "dates": "November 3-7, 2014"
+            "dates": "November 3-7, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Blur",
@@ -407,7 +451,8 @@
             ],
             "overview": "HCI",
             "location": "Broomfield, CO",
-            "dates": "November 15-16"
+            "dates": "November 15-16",
+            "type": "hackathons"
         },
         {
             "name": "Defrag",
@@ -416,7 +461,8 @@
             ],
             "overview": "Development",
             "location": "Broomfield, CO",
-            "dates": "November 18-19, 2014"
+            "dates": "November 18-19, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Future of Web Design",
@@ -425,7 +471,8 @@
             ],
             "overview": "INSPIRATION, EDUCATION, NETWORKING",
             "location": "London, UK",
-            "dates": "April 7-9, 2014"
+            "dates": "April 7-9, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Future of Web Design",
@@ -434,7 +481,8 @@
             ],
             "overview": "CSSConf is where developers come together to talk about building the world's most engaging user interfaces. The presenters push the boundaries of what is possible — talking about the latest technologies, cutting edge techniques, and tools. We look forward to seeing you on Amelia Island!",
             "location": "Amelia Island, Florida",
-            "dates": "May 27th, 2014"
+            "dates": "May 27th, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Renaissance",
@@ -443,7 +491,8 @@
             ],
             "overview": "",
             "location": "San Francisco, California",
-            "dates": "January 29-31, 2014"
+            "dates": "January 29-31, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf DC",
@@ -452,7 +501,8 @@
             ],
             "overview": "",
             "location": "Herndon, Virginia",
-            "dates": "March 28-29, 2014"
+            "dates": "March 28-29, 2014",
+            "type": "hackathons"
         },
         {
             "name": "JailbreakCon",
@@ -461,7 +511,8 @@
             ],
             "overview": "",
             "location": "San Francisco, California",
-            "dates": "April 12-13, 2014"
+            "dates": "April 12-13, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf San Jose",
@@ -470,7 +521,8 @@
             ],
             "overview": "",
             "location": "San Jose, California",
-            "dates": "April 25-26, 2014"
+            "dates": "April 25-26, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Raleigh",
@@ -479,7 +531,8 @@
             ],
             "overview": "",
             "location": "Raleigh, North Carolina",
-            "dates": "May 9-10, 2014"
+            "dates": "May 9-10, 2014",
+            "type": "hackathons"
         },
         {
             "name": "iOScon",
@@ -488,7 +541,8 @@
             ],
             "overview": "",
             "location": "London, UK",
-            "dates": "May 15-16, 2014"
+            "dates": "May 15-16, 2014",
+            "type": "hackathons"
         },
         {
             "name": "WWDC",
@@ -497,7 +551,8 @@
             ],
             "overview": "",
             "location": "San Francisco, California",
-            "dates": "June 2-6, 2014"
+            "dates": "June 2-6, 2014",
+            "type": "hackathons"
         },
         {
             "name": "AltConf",
@@ -506,7 +561,8 @@
             ],
             "overview": "",
             "location": "San Francisco, California",
-            "dates": "June 2-6, 2014"
+            "dates": "June 2-6, 2014",
+            "type": "hackathons"
         },
         {
             "name": "FruitConf",
@@ -515,7 +571,8 @@
             ],
             "overview": "",
             "location": "London, UK",
-            "dates": "June 12-13, 2014"
+            "dates": "June 12-13, 2014",
+            "type": "hackathons"
         },
         {
             "name": "iOSDevCampDC",
@@ -524,7 +581,8 @@
             ],
             "overview": "",
             "location": "Tysons Corner, Virgina",
-            "dates": "August 1, 2014"
+            "dates": "August 1, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Columbus",
@@ -533,7 +591,8 @@
             ],
             "overview": "",
             "location": "Columbus, Ohio",
-            "dates": "August 8-9, 2014"
+            "dates": "August 8-9, 2014",
+            "type": "hackathons"
         },
         {
             "name": "A Swift Start",
@@ -542,7 +601,8 @@
             ],
             "overview": "",
             "location": "New York, New York",
-            "dates": "August 29, 2014"
+            "dates": "August 29, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Las Vegas",
@@ -551,7 +611,8 @@
             ],
             "overview": "",
             "location": "Las Vegas, Nevada",
-            "dates": "September 19-20, 2014"
+            "dates": "September 19-20, 2014",
+            "type": "hackathons"
         },
         {
             "name": "#Pragma Conference",
@@ -560,7 +621,8 @@
             ],
             "overview": "",
             "location": "Milan, Italy",
-            "dates": "October 3-4, 2014"
+            "dates": "October 3-4, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Seattle",
@@ -569,7 +631,8 @@
             ],
             "overview": "",
             "location": "Seattle, Washington",
-            "dates": "October 17-18, 2014"
+            "dates": "October 17-18, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Command R",
@@ -578,7 +641,8 @@
             ],
             "overview": "",
             "location": "London, UK",
-            "dates": "October 22-24, 2014"
+            "dates": "October 22-24, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Boston",
@@ -587,7 +651,8 @@
             ],
             "overview": "",
             "location": "Boston, Massachusetts",
-            "dates": "November 14-15, 2014"
+            "dates": "November 14-15, 2014",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Atlanta",
@@ -596,7 +661,8 @@
             ],
             "overview": "",
             "location": "Atlanta, Georgia",
-            "dates": "December 5-6, 2014"
+            "dates": "December 5-6, 2014",
+            "type": "hackathons"
         },
         {
             "name": "Open Mobile Summit",
@@ -605,7 +671,8 @@
             ],
             "overview": "The Open Mobile Summit attracts over 500 leading mobile executives from the most influential consumer facing brands, alongside the major MNO’s and device players that are at heart of the mobile ecosystem.",
             "location": "Chaleston, SC",
-            "dates": "11/10/14"
+            "dates": "11/10/14",
+            "type": "hackathons"
         },
         {
             "name": "Refresh Charleston",
@@ -614,7 +681,1538 @@
             ],
             "overview": "Refresh Charleston is a mini-series of events for the Lowcountry’s creative community, promoting creativity, design and better standards. Ever so often, we come together to share what we know and meet others who share similar interests.",
             "location": "San Francisco, CA",
-            "dates": "1/21/15"
+            "dates": "1/21/15",
+            "type": "hackathons"
+        },
+        {
+            "name": "Smart Money Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/smart-money-hackathon-registration-11443791689"
+            ],
+            "overview": "",
+            "location": "6.6 - 6.8",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Boston",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-boston-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.7 - 6.8",
+            "dates": "Boston, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hamburg Geekettes & OTS HH Hackathon",
+            "links": [
+                "http://hamburg-hackathon.de/hackathon/"
+            ],
+            "overview": "",
+            "location": "6.7 - 6.8",
+            "dates": "Hamburg, Germany",
+            "type": "hackathons"
+        },
+        {
+            "name": "IDOL OnDemand Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/idol-ondemand-hackathon-unleashing-innovation-and-breaking-boundaries-tickets-10845853239"
+            ],
+            "overview": "",
+            "location": "6.7 - 6.8",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Sao Paulo",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-sao-paulo-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.7 - 6.8",
+            "dates": "Sao Paulo, Brazil",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Delhi",
+            "links": [
+                "http://www.angelhack.com/event/angelhackdelhispring-2014/"
+            ],
+            "overview": "",
+            "location": "6.7 - 6.8",
+            "dates": "Gurgaon, India",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack London",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-london-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.14 - 6.15",
+            "dates": "London, United Kingdom",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Mexico City",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-mexico-city-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.14 - 6.15",
+            "dates": "Cuauhtemoc, Mexico D.F.",
+            "type": "hackathons"
+        },
+        {
+            "name": "Pre-I/O Glass Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/pre-io-google-glass-hackathon-tickets-11494645795"
+            ],
+            "overview": "",
+            "location": "6.20 - 6.21",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Tel Aviv",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-tel-aviv-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.20 - 6.21",
+            "dates": "Tel Aviv, Israel",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Kuala Lumpur",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-kuala-lumpur-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.21 - 6.22",
+            "dates": "Kuala Lumpur, Malaysia",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Phoenix",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-phoenix-arizona-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.21 - 6.22",
+            "dates": "Tempe, AZ",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Toronto",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-toronto-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.21 - 6.22",
+            "dates": "Toronto, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "SmallBizDev Hackathon",
+            "links": [
+                "http://smallbizdevhackathon.com/event/san-francisco/"
+            ],
+            "overview": "",
+            "location": "6.21 - 6.22",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Yo Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/yo-hackathon-2-letters-2-hours-ready-set-yo-tickets-12071296573"
+            ],
+            "overview": "",
+            "location": "6.27",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack//Dining NYC",
+            "links": [
+                "http://hackdiningnyc.foodtechconnect.com/"
+            ],
+            "overview": "",
+            "location": "6.27 - 6.29",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Denver",
+            "links": [
+                "http://denver.startupweekend.org"
+            ],
+            "overview": "",
+            "location": "6.27 - 6.29",
+            "dates": "Denver, CO",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Athens",
+            "links": [
+                "http://www.angelhack.com/event/angelhackathensspring-2014/"
+            ],
+            "overview": "",
+            "location": "6.28 - 6.29",
+            "dates": "Athens, Greece",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Buenos Aires",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-buenos-aires-spring-2014/"
+            ],
+            "overview": "",
+            "location": "6.28 - 6.29",
+            "dates": "Buenos Aires, Argentina",
+            "type": "hackathons"
+        },
+        {
+            "name": "AT&T Mobile App Hackathon - Social Good",
+            "links": [
+                "http://www.eventbrite.com/e/att-mobile-app-hackathon-houston-social-good-tickets-11385701941"
+            ],
+            "overview": "",
+            "location": "7.11 - 7.12",
+            "dates": "Houston, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "IDEO NY Hacks: Waste",
+            "links": [
+                "http://www.ideo.com/hackathon/nyc/"
+            ],
+            "overview": "",
+            "location": "7.11 - 7.12",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Salesforce Hackathon Series",
+            "links": [
+                "http://www.summerofhacks.com/"
+            ],
+            "overview": "",
+            "location": "7.11 - 7.13",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "DataHack14",
+            "links": [
+                "https://www.eventbrite.com/e/datahack14-tickets-11934894591"
+            ],
+            "overview": "",
+            "location": "7.12 - 7.13",
+            "dates": "Redwood City, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Seattle Wearables Hackathon",
+            "links": [
+                "http://www.meetup.com/Seattle-Hackathons/events/184601052/"
+            ],
+            "overview": "",
+            "location": "7.12 - 7.13",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Travel & Education Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/travel-education-hackathon-tickets-11993939195"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.19",
+            "dates": "Boston, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Manila",
+            "links": [
+                "http://www.angelhack.com/event/angelhackmanilaspring-2014/"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.20",
+            "dates": "TBD",
+            "type": "hackathons"
+        },
+        {
+            "name": "Lincoln Labs Hackathon: Reboot",
+            "links": [
+                "https://www.eventbrite.com/e/lincoln-labs-hackathon-reboot-tickets-11516687723"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.29",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Salesforce Hackathon Series",
+            "links": [
+                "http://www.summerofhacks.com/"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.20",
+            "dates": "Bangalore",
+            "type": "hackathons"
+        },
+        {
+            "name": "Salesforce Hackathon Series",
+            "links": [
+                "http://www.summerofhacks.com/"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.20",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Salesforce Hackathon Series",
+            "links": [
+                "http://www.summerofhacks.com/"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.20",
+            "dates": "London",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Sillicon Valley",
+            "links": [
+                "http://www.angelhack.com/event/angelhack-silicon-valley-spring-2014/"
+            ],
+            "overview": "",
+            "location": "7.19 - 7.20",
+            "dates": "Redwood City, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Greylock Hackfest",
+            "links": [
+                "http://greylocku.com/hackfest/"
+            ],
+            "overview": "",
+            "location": "7.19 - 7.20",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack Midwest",
+            "links": [
+                "http://hackmidwest.com/"
+            ],
+            "overview": "",
+            "location": "7.19 - 7.20",
+            "dates": "Kansas City, KS",
+            "type": "hackathons"
+        },
+        {
+            "name": "SmallBizDev Hackathon",
+            "links": [
+                "http://smallbizdevhackathon.com/event/chicago/"
+            ],
+            "overview": "",
+            "location": "7.19 - 7.20",
+            "dates": "Chicago, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "AT&T Mobile App Hackathon - Connected Car",
+            "links": [
+                "http://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601"
+            ],
+            "overview": "",
+            "location": "7.25 - 7.26",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackUWIN",
+            "links": [
+                "http://hackuwin.com/"
+            ],
+            "overview": "",
+            "location": "7.25 - 7.27",
+            "dates": "Windsor, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Mobile/Wearables Seattle",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/3912"
+            ],
+            "overview": "",
+            "location": "7.25 - 7.27",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Sydney",
+            "links": [
+                "https://2014.battlehack.org/sydney"
+            ],
+            "overview": "",
+            "location": "7.26 - 7.27",
+            "dates": "Sydney",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hackadoge: 24hr Dogecoin Hackathon",
+            "links": [
+                "http://hackadoge.com"
+            ],
+            "overview": "",
+            "location": "7.26 - 7.27",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Meteor Summer Hackathon",
+            "links": [
+                "http://hackathon.meteor.com/"
+            ],
+            "overview": "",
+            "location": "7.26 - 7.27",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Outside Hacks",
+            "links": [
+                "https://www.eventbrite.com/e/outside-hacks-tickets-12202940323"
+            ],
+            "overview": "",
+            "location": "7.26 - 7.27",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Palantir Performance Engineering Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/palantir-performance-engineering-hackathon-tickets-12260757255"
+            ],
+            "overview": "",
+            "location": "7.26",
+            "dates": "Palo Alto, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Yo Hackathon NYC",
+            "links": [
+                "http://www.eventbrite.com/e/yo-hackathon-nyc-2-letters-2-hours-ready-set-yo-tickets-12145608843"
+            ],
+            "overview": "",
+            "location": "7.26",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "YC Hacks",
+            "links": [
+                "http://blog.ycombinator.com/yc-hacks-august-2-3-2014"
+            ],
+            "overview": "",
+            "location": "8.2 - 8.3",
+            "dates": "Mountain View, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Audacious Hacks",
+            "links": [
+                "http://audacious.is/hackdacious/"
+            ],
+            "overview": "",
+            "location": "8.2 - 8.9",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hero Hacks",
+            "links": [
+                "http://hackathonofheroes.com/"
+            ],
+            "overview": "",
+            "location": "8.8 - 8.9",
+            "dates": "San Mateo, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Spartan Hackathon Prelim",
+            "links": [
+                "http://www.hackfit.com/portfolio/spartan-hackathon-prelim/"
+            ],
+            "overview": "",
+            "location": "8.8 - 8.9",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Boston",
+            "links": [
+                "https://2014.battlehack.org/boston"
+            ],
+            "overview": "",
+            "location": "8.9 - 8.10",
+            "dates": "Boston, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Shirts.io Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/shirtsio-hackathon-tickets-11951688823"
+            ],
+            "overview": "",
+            "location": "8.15 - 8.17",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Breaking Barriers Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/breaking-barriers-hackathon-tickets-12534722693"
+            ],
+            "overview": "",
+            "location": "8.16",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Seattle",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/4001"
+            ],
+            "overview": "",
+            "location": "8.22 - 8.24",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Youbetme Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/youbetme-hackathon-tickets-12211744657"
+            ],
+            "overview": "",
+            "location": "8.22 - 8.23",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hackathon 4: Pirates of Silicon Harbor",
+            "links": [
+                "http://hackathon.sparcedge.com/"
+            ],
+            "overview": "",
+            "location": "8.23 - 8.24",
+            "dates": "Charleston, SC",
+            "type": "hackathons"
+        },
+        {
+            "name": "ProtoHack San Francisco",
+            "links": [
+                "http://protohack.org/san-francisco-august-23-2014/"
+            ],
+            "overview": "",
+            "location": "8.23",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "GeauxHack",
+            "links": [
+                "http://geauxhack.com/"
+            ],
+            "overview": "",
+            "location": "8.30 - 8.31",
+            "dates": "Baton Rouge, LA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Yacht Hack",
+            "links": [
+                "http://www.yachthack.com/"
+            ],
+            "overview": "",
+            "location": "8.30 - 9.4",
+            "dates": "Croatia",
+            "type": "hackathons"
+        },
+        {
+            "name": "HopHacks",
+            "links": [
+                "http://hophacks.com/"
+            ],
+            "overview": "",
+            "location": "9.5 - 9.7",
+            "dates": "Baltimore, MD",
+            "type": "hackathons"
+        },
+        {
+            "name": "MHacks",
+            "links": [
+                "http://www.mhacks.org"
+            ],
+            "overview": "",
+            "location": "9.5 - 9.7",
+            "dates": "Ann Arbor, MI",
+            "type": "hackathons"
+        },
+        {
+            "name": "#neoHack14",
+            "links": [
+                "https://www.eventbrite.com/e/neohack14-tickets-12557544955"
+            ],
+            "overview": "",
+            "location": "9.5 - 9.6",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackTheHearst 2014",
+            "links": [
+                "https://www.eventbrite.com/e/hackthehearst-2014-tickets-11738988631"
+            ],
+            "overview": "",
+            "location": "9.10 - 9.21",
+            "dates": "Berkeley, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AEC Hackathon Seattle",
+            "links": [
+                "http://aechackathon.com/seattle.html"
+            ],
+            "overview": "",
+            "location": "9.12 - 9.14",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AT&T Mobile App Hackathon - Connected Car",
+            "links": [
+                "https://www.eventbrite.com/e/att-mobile-app-hackathon-connected-car-seattle-tickets-11385922601"
+            ],
+            "overview": "",
+            "location": "9.12 - 9.13",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "#hack4good",
+            "links": [
+                "http://hack4good.io/"
+            ],
+            "overview": "",
+            "location": "9.12 - 9.14",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackISU",
+            "links": [
+                "http://hackisu.com/"
+            ],
+            "overview": "",
+            "location": "9.12 - 9.14",
+            "dates": "Ames, IA",
+            "type": "hackathons"
+        },
+        {
+            "name": "PennApps X",
+            "links": [
+                "http://2014f.pennapps.com/"
+            ],
+            "overview": "",
+            "location": "9.12 - 9.14",
+            "dates": "Philadelphia, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Singapore",
+            "links": [
+                "https://2014.battlehack.org/singapore"
+            ],
+            "overview": "",
+            "location": "9.13 - 9.14",
+            "dates": "Singapore",
+            "type": "hackathons"
+        },
+        {
+            "name": "ProLiteracy Hackathon",
+            "links": [
+                "http://www.proliteracy.org/literacyhackathon"
+            ],
+            "overview": "",
+            "location": "9.13 - 9.14",
+            "dates": "Syracuse, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "SmallBizDev Hackathon",
+            "links": [
+                "http://smallbizdevhackathon.com/event/new-york/"
+            ],
+            "overview": "",
+            "location": "9.13 - 9.14",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackGT",
+            "links": [
+                "http://www.hackgt.com"
+            ],
+            "overview": "",
+            "location": "9.19 - 9.21",
+            "dates": "Atlanta, GA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack the North",
+            "links": [
+                "http://hackthenorth.com/"
+            ],
+            "overview": "",
+            "location": "9.19 - 9.21",
+            "dates": "Waterloo, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Seattle Women",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/3658"
+            ],
+            "overview": "",
+            "location": "9.19 - 9.21",
+            "dates": "Kirkland, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Unhackathon",
+            "links": [
+                "http://www.unhackathon.org/"
+            ],
+            "overview": "",
+            "location": "9.20 - 9.21",
+            "dates": "Stony Brook, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Westfield Fashion Hackathon",
+            "links": [
+                "http://westfield.decodedfashion.com/"
+            ],
+            "overview": "",
+            "location": "9.20 - 9.21",
+            "dates": "London, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "Big Red Hacks",
+            "links": [
+                "http://bigredhacks.com/"
+            ],
+            "overview": "",
+            "location": "9.26 - 9.28",
+            "dates": "Ithaca, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Design & Hack",
+            "links": [
+                "http://designandhack.org/"
+            ],
+            "overview": "",
+            "location": "9.26 - 9.28",
+            "dates": "New York City, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "IrishHacks",
+            "links": [
+                "http://irishhacks.com/"
+            ],
+            "overview": "",
+            "location": "9.26 - 9.28",
+            "dates": "South Bend, IN",
+            "type": "hackathons"
+        },
+        {
+            "name": "SpeedHack",
+            "links": [
+                "www.apistrategyconference.com/2014Chicago/speed_hack_challenge.php"
+            ],
+            "overview": "",
+            "location": "9.26",
+            "dates": "Chicago, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Central District",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/4339"
+            ],
+            "overview": "",
+            "location": "9.26 - 9.28",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Women Seattle",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/3658"
+            ],
+            "overview": "",
+            "location": "9.26 - 9.28",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "WearHacks 2014",
+            "links": [
+                "http://wearhacks.com/"
+            ],
+            "overview": "",
+            "location": "9.26 - 9.27",
+            "dates": "Montreal, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Mexico City",
+            "links": [
+                "https://2014.battlehack.org/mexico_city"
+            ],
+            "overview": "",
+            "location": "9.27 - 9.28",
+            "dates": "Mexico City",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackPR",
+            "links": [
+                "http://hackpr.io/"
+            ],
+            "overview": "",
+            "location": "9.27 - 9.28",
+            "dates": "Mayagüez, Puerto Rico",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackUMBC",
+            "links": [
+                "http://hackumbc.org/"
+            ],
+            "overview": "",
+            "location": "9.27 - 9.28",
+            "dates": "Baltimore, MD",
+            "type": "hackathons"
+        },
+        {
+            "name": "LexHack",
+            "links": [
+                "http://lexhack.org/"
+            ],
+            "overview": "",
+            "location": "9.27",
+            "dates": "Lexington, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Silicon Chef 2014 - Hardware Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/silicon-chef-2014-hardware-hackathon-by-hackbright-academy-tickets-12454627125"
+            ],
+            "overview": "",
+            "location": "9.27 - 9.28",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AT&T Mobile App Hackathon Seattle - Women in Tech",
+            "links": [
+                "https://www.eventbrite.com/e/att-mobile-app-hackathon-seattle-women-in-tech-tickets-10931489379"
+            ],
+            "overview": "",
+            "location": "10.3 - 10.4",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "CalHacks",
+            "links": [
+                "http://www.calhacks.io/"
+            ],
+            "overview": "",
+            "location": "10.3 - 10.5",
+            "dates": "Berkeley, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackMizzou",
+            "links": [
+                "http://2014.hackmizzou.com/"
+            ],
+            "overview": "",
+            "location": "10.3 - 10.5",
+            "dates": "Columbia, MO",
+            "type": "hackathons"
+        },
+        {
+            "name": "OHI/O",
+            "links": [
+                "https://www.ohiohackathon.org/"
+            ],
+            "overview": "",
+            "location": "10.3 - 10.5",
+            "dates": "Columbus, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Seattle",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/4001"
+            ],
+            "overview": "",
+            "location": "10.3 - 10.5",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackMIT",
+            "links": [
+                "http://www.hackmit.org/"
+            ],
+            "overview": "",
+            "location": "10.4 - 10.5",
+            "dates": "Cambridge, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "jacobsHack!",
+            "links": [
+                "https://jacobshack.com/"
+            ],
+            "overview": "",
+            "location": "10.4 - 10.5",
+            "dates": "Bremen, Germany",
+            "type": "hackathons"
+        },
+        {
+            "name": "LA Open Source Hackthon",
+            "links": [
+                "http://www.eventbrite.com/e/la-open-source-hackathon-2014-tickets-12681774529"
+            ],
+            "overview": "",
+            "location": "10.4",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Launch Hack",
+            "links": [
+                "http://launch.mlh.io/"
+            ],
+            "overview": "",
+            "location": "10.4 - 10.5",
+            "dates": "London",
+            "type": "hackathons"
+        },
+        {
+            "name": "Fundhack",
+            "links": [
+                "http://fundhack.com/"
+            ],
+            "overview": "",
+            "location": "10.10 - 10.12",
+            "dates": "Irvine, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Legal Tech",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/4218"
+            ],
+            "overview": "",
+            "location": "10.10 - 10.12",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack London",
+            "links": [
+                "https://2014.battlehack.org/london"
+            ],
+            "overview": "",
+            "location": "10.11 - 10.12",
+            "dates": "London",
+            "type": "hackathons"
+        },
+        {
+            "name": "ProtoHack Los Angeles",
+            "links": [
+                "http://protohack.org/los-angeles-october-11-2014/"
+            ],
+            "overview": "",
+            "location": "10.11",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BoilerMake",
+            "links": [
+                "http://boilermake.org"
+            ],
+            "overview": "",
+            "location": "10.17 - 10.19",
+            "dates": "West Lafayette, IN",
+            "type": "hackathons"
+        },
+        {
+            "name": "DubHacks",
+            "links": [
+                "http://dubhacks.co/"
+            ],
+            "overview": "",
+            "location": "10.17 - 10.18",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackTX",
+            "links": [
+                "http://hacktx.com/"
+            ],
+            "overview": "",
+            "location": "10.18 - 10.19",
+            "dates": "Austin, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "LeadingAge Hackfest",
+            "links": [
+                "http://www.leadingagehackfest.org/"
+            ],
+            "overview": "",
+            "location": "10.18 - 10.20",
+            "dates": "Nashville, TN",
+            "type": "hackathons"
+        },
+        {
+            "name": "Mission2Mars Female Hackathon",
+            "links": [
+                "http://m2mars.ticketleap.com/mission-to-mars-female-hackathon"
+            ],
+            "overview": "",
+            "location": "10.18 - 10.19",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "2014 HackFest",
+            "links": [
+                "http://www.leadingagehackfest.org/"
+            ],
+            "overview": "",
+            "location": "10.18 - 10.20",
+            "dates": "Nashville, TN",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack RU",
+            "links": [
+                "http://www.hackru.org/"
+            ],
+            "overview": "",
+            "location": "10.24 - 10.26",
+            "dates": "Piscataway Township, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack the Gender Gap at WVU",
+            "links": [
+                "http://www.eventbrite.com/e/hack-the-gender-gap-at-wvu-registration-12678488701"
+            ],
+            "overview": "",
+            "location": "10.24 - 10.26",
+            "dates": "Morgantown, WV",
+            "type": "hackathons"
+        },
+        {
+            "name": "Kent Hack Enough",
+            "links": [
+                "http://hacksu.cs.kent.edu/khe2014"
+            ],
+            "overview": "",
+            "location": "10.24 - 10.26",
+            "dates": "Kent, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "TAMUHack",
+            "links": [
+                "http://www.tamuhack.com"
+            ],
+            "overview": "",
+            "location": "10.24 - 10.25",
+            "dates": "College Station, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Bellevue",
+            "links": [
+                "http://bellevue.startupweekend.org/"
+            ],
+            "overview": "",
+            "location": "10.24 - 10.26",
+            "dates": "Bellevue, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Moscow",
+            "links": [
+                "https://2014.battlehack.org/moscow"
+            ],
+            "overview": "",
+            "location": "10.25 - 10.26",
+            "dates": "Moscow",
+            "type": "hackathons"
+        },
+        {
+            "name": "Childish Gambino Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/childish-gambino-hackathon-tickets-12760012541"
+            ],
+            "overview": "",
+            "location": "10.25",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackNC",
+            "links": [
+                "http://hacknc.us/"
+            ],
+            "overview": "",
+            "location": "10.25 - 10.26",
+            "dates": "Chapel Hill, NC",
+            "type": "hackathons"
+        },
+        {
+            "name": "Product Hunt Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/product-hunt-hackathon-tickets-13715061117"
+            ],
+            "overview": "",
+            "location": "10.25 - 10.26",
+            "dates": "Mountain View, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "TeenHacks",
+            "links": [
+                "http://teenhacks.org/"
+            ],
+            "overview": "",
+            "location": "10.25 - 10.26",
+            "dates": "Fullerton, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Money20/20 Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/money2020-hackathon-tickets-12201506033"
+            ],
+            "overview": "",
+            "location": "10.31 - 11.2",
+            "dates": "Las Vegas, NV",
+            "type": "hackathons"
+        },
+        {
+            "name": "StudentHack",
+            "links": [
+                "http://www.studenthack.com/"
+            ],
+            "overview": "",
+            "location": "10.31 - 11.2",
+            "dates": "Manchester, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "YHack 2014",
+            "links": [
+                "http://www.yhack.org/"
+            ],
+            "overview": "",
+            "location": "10.31 - 11.2",
+            "dates": "New Haven, CT",
+            "type": "hackathons"
+        },
+        {
+            "name": "Bay BitHack 2014",
+            "links": [
+                "http://baybithack.com/"
+            ],
+            "overview": "",
+            "location": "11.1 - 11.2",
+            "dates": "Berkeley, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Haunted Hackathon at Spotify",
+            "links": [
+                "https://www.eventbrite.com/e/haunted-hackathon-at-spotify-tickets-13663444731"
+            ],
+            "overview": "",
+            "location": "11.1",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackCC",
+            "links": [
+                "http://www.hackcc.org"
+            ],
+            "overview": "",
+            "location": "11.7 - 11.9",
+            "dates": "Santa Monica, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackHolyoke",
+            "links": [
+                "https://www.mtholyoke.edu/org/compsci/hackholyoke/"
+            ],
+            "overview": "",
+            "location": "11.7 - 11.8",
+            "dates": "South Hadley, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackSC",
+            "links": [
+                "http://f2014.hacksc.com/"
+            ],
+            "overview": "",
+            "location": "11.7 - 11.9",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "McHacks",
+            "links": [
+                "http://mchacks.io/"
+            ],
+            "overview": "",
+            "location": "11.7 - 11.9",
+            "dates": "Montreal, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "CodeDay Fall",
+            "links": [
+                "http://codeday.org/"
+            ],
+            "overview": "",
+            "location": "11.8 - 11.9",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackNe",
+            "links": [
+                "http://hackne.com/"
+            ],
+            "overview": "",
+            "location": "11.8 - 11.9",
+            "dates": "Newcastle upon Tyne, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackNJIT",
+            "links": [
+                "http://hacknjit.org/"
+            ],
+            "overview": "",
+            "location": "11.8 - 11.9",
+            "dates": "Newark, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "Monta Vista Hacks",
+            "links": [
+                "https://www.eventbrite.com/e/monta-vista-hacks-tickets-12184980605"
+            ],
+            "overview": "",
+            "location": "11.8 - 11.10",
+            "dates": "Cupertino, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "RamHacks",
+            "links": [
+                "http://ramhacks.vcu.edu/"
+            ],
+            "overview": "",
+            "location": "11.8 - 11.9",
+            "dates": "Richmond, VA",
+            "type": "hackathons"
+        },
+        {
+            "name": "DevelopHer Hackday 2014",
+            "links": [
+                "http://hackday.linkedin.com/developher/2014.html"
+            ],
+            "overview": "",
+            "location": "11.14 - 11.15",
+            "dates": "Sunnyvale, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackPrinceton",
+            "links": [
+                "http://hackprinceton.com/"
+            ],
+            "overview": "",
+            "location": "11.14 - 11.16",
+            "dates": "Princeton, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "My Brother's Keeper Hackathon",
+            "links": [
+                "http://www.mbkhack.com/"
+            ],
+            "overview": "",
+            "location": "11.14 - 11.16",
+            "dates": "Philadelphia, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "RevolutionUC",
+            "links": [
+                "http://revolutionuc.com/"
+            ],
+            "overview": "",
+            "location": "11.14 - 11.16",
+            "dates": "Cincinnati, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend Seattle Latino",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/4130"
+            ],
+            "overview": "",
+            "location": "11.14 - 11.16",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Bayes Impact Hackathon",
+            "links": [
+                "http://www.bayesimpact.org/hack"
+            ],
+            "overview": "",
+            "location": "11.15 - 11.16",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackDuke",
+            "links": [
+                "http://www.hackduke.com/"
+            ],
+            "overview": "",
+            "location": "11.15 - 11.16",
+            "dates": "Durham, NC",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackRPI",
+            "links": [
+                "http://hack.rpi.edu/"
+            ],
+            "overview": "",
+            "location": "11.15 - 11.16",
+            "dates": "Troy, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackShanghai / hack(上海)",
+            "links": [
+                "http://www.hackshanghai.com/"
+            ],
+            "overview": "",
+            "location": "11.15 - 11.16",
+            "dates": "Shanghai, China",
+            "type": "hackathons"
+        },
+        {
+            "name": "ProtoHack New York",
+            "links": [
+                "http://protohack.org/new-york-november-15-2014/"
+            ],
+            "overview": "",
+            "location": "11.15",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "WarwickHack",
+            "links": [
+                "http://techsoc.uwcs.co.uk/hack"
+            ],
+            "overview": "",
+            "location": "11.15 - 11.16",
+            "dates": "Coventry, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackaSoton Global",
+            "links": [
+                "http://global.hackasoton.com/"
+            ],
+            "overview": "",
+            "location": "11.21 - 11.23",
+            "dates": "Southampton, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hacktion 4 Ebola",
+            "links": [
+                "http://hacktion4ebola.com/"
+            ],
+            "overview": "",
+            "location": "11.21 - 11.23",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "McDonald's Hackathon",
+            "links": [
+                "http://mcdonaldshackathon.bemyapp.com/"
+            ],
+            "overview": "",
+            "location": "11.21 - 11.23",
+            "dates": "London, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend EDU Seattle",
+            "links": [
+                "http://www.up.co/communities/usa/seattle/startup-weekend/4531"
+            ],
+            "overview": "",
+            "location": "11.21 - 11.23",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "THacks",
+            "links": [
+                "http://thacks.org/"
+            ],
+            "overview": "",
+            "location": "11.22 - 11.23",
+            "dates": "Beijing, China",
+            "type": "hackathons"
+        },
+        {
+            "name": "WildHacks",
+            "links": [
+                "http://wildhacks.org/"
+            ],
+            "overview": "",
+            "location": "11.22 - 11.23",
+            "dates": "Evaston, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "Yo Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/24-hr-yo-hackathon-at-yo-headquarters-in-sf-tickets-13686186753"
+            ],
+            "overview": "",
+            "location": "11.22 - 11.23",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HACKAGONG",
+            "links": [
+                "http://hackagong.com/"
+            ],
+            "overview": "",
+            "location": "11.29 - 11.30",
+            "dates": "Wollongong, Australia",
+            "type": "hackathons"
+        },
+        {
+            "name": "OxHACK 2014",
+            "links": [
+                "http://oxhack.co.uk/"
+            ],
+            "overview": "",
+            "location": "11.29 - 11.30",
+            "dates": "Oxford, UK",
+            "type": "hackathons"
+        },
+        {
+            "name": "Local Hack Day",
+            "links": [
+                "http://localhackday.mlh.io/"
+            ],
+            "overview": "",
+            "location": "12.6",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "AT&T Mobile App Hackathon Bay Area - Public Safety",
+            "links": [
+                "https://www.eventbrite.com/e/att-mobile-app-hackathon-bay-area-public-safety-tickets-11386125207"
+            ],
+            "overview": "",
+            "location": "12.12 - 12.13",
+            "dates": "Palo Alto, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackDC",
+            "links": [
+                "http://www.dchacks.org/"
+            ],
+            "overview": "",
+            "location": "12.13 - 12.14",
+            "dates": "Washington, DC",
+            "type": "hackathons"
+        },
+        {
+            "name": "hackTBILISI",
+            "links": [
+                "http://hacktbilisi.com/"
+            ],
+            "overview": "",
+            "location": "12.19 - 12.21",
+            "dates": "Tbilisi, GA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Seattle Police Hackathon 2014",
+            "links": [
+                "http://www.eventbrite.com/e/seattle-police-hackathon-2014-tickets-14818202643"
+            ],
+            "overview": "",
+            "location": "12.19",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
         }
     ],
     "2015": [
@@ -625,7 +2223,8 @@
             ],
             "overview": "Web design",
             "location": "Atlanta",
-            "dates": "Feb 16-18"
+            "dates": "Feb 16-18",
+            "type": "hackathons"
         },
         {
             "name": "GLUE",
@@ -634,7 +2233,8 @@
             ],
             "overview": "Cloud, DevOps, Mobile, APIs, Big Data for developers",
             "location": "Broomfield, CO",
-            "dates": "Mar 20-21"
+            "dates": "Mar 20-21",
+            "type": "hackathons"
         },
         {
             "name": "ModevUX",
@@ -643,7 +2243,8 @@
             ],
             "overview": "Mobile Design & UX",
             "location": "Arlington, VA",
-            "dates": "Mar 23-24"
+            "dates": "Mar 23-24",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -652,7 +2253,8 @@
             ],
             "overview": "Web design",
             "location": "Seattle",
-            "dates": "Mar 30 - Apr 1"
+            "dates": "Mar 30 - Apr 1",
+            "type": "hackathons"
         },
         {
             "name": "WebVisions NYC",
@@ -661,7 +2263,8 @@
             ],
             "overview": "Future of the web",
             "location": "New York City",
-            "dates": "April"
+            "dates": "April",
+            "type": "hackathons"
         },
         {
             "name": "UX Immersion Mobile",
@@ -670,7 +2273,8 @@
             ],
             "overview": "Mobile UX",
             "location": "Salt Lake City",
-            "dates": "Apr 13-15"
+            "dates": "Apr 13-15",
+            "type": "hackathons"
         },
         {
             "name": "Fluent",
@@ -679,7 +2283,8 @@
             ],
             "overview": "Web, Javascript, HTML5",
             "location": "San Francisco",
-            "dates": "Apr 20-22"
+            "dates": "Apr 20-22",
+            "type": "hackathons"
         },
         {
             "name": "Code PaLOUsa",
@@ -688,7 +2293,8 @@
             ],
             "overview": "Broad development focus",
             "location": "Louisville, KY",
-            "dates": "Apr 27-30"
+            "dates": "Apr 27-30",
+            "type": "hackathons"
         },
         {
             "name": "99u",
@@ -697,7 +2303,8 @@
             ],
             "overview": "Inspiration and Design",
             "location": "New York City",
-            "dates": "Apr 30 - May 1"
+            "dates": "Apr 30 - May 1",
+            "type": "hackathons"
         },
         {
             "name": "GOTO Chicago",
@@ -706,7 +2313,8 @@
             ],
             "overview": "Broad development focus",
             "location": "Chicago",
-            "dates": "May 11-14"
+            "dates": "May 11-14",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -715,7 +2323,8 @@
             ],
             "overview": "Web design",
             "location": "Boston, MA",
-            "dates": "May 11-13"
+            "dates": "May 11-13",
+            "type": "hackathons"
         },
         {
             "name": "WebVisions Portland",
@@ -724,7 +2333,8 @@
             ],
             "overview": "Future of the web",
             "location": "Portland",
-            "dates": "May 12-15"
+            "dates": "May 12-15",
+            "type": "hackathons"
         },
         {
             "name": "UX London",
@@ -733,7 +2343,8 @@
             ],
             "overview": "UX \"3 days of inspiration, education and skills development for user experience designers\".",
             "location": "London",
-            "dates": "May 20-22"
+            "dates": "May 20-22",
+            "type": "hackathons"
         },
         {
             "name": "State of the Map US",
@@ -742,7 +2353,8 @@
             ],
             "overview": "",
             "location": "New York City",
-            "dates": "June 6-8"
+            "dates": "June 6-8",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -751,7 +2363,8 @@
             ],
             "overview": "Web design",
             "location": "San Diego, CA",
-            "dates": "Jun 8-10"
+            "dates": "Jun 8-10",
+            "type": "hackathons"
         },
         {
             "name": "GIANT Conf",
@@ -760,7 +2373,8 @@
             ],
             "overview": "UX \"A conference for people who create rad experiences.\"",
             "location": "Charleston, SC",
-            "dates": "Jun 14-17"
+            "dates": "Jun 14-17",
+            "type": "hackathons"
         },
         {
             "name": "Black Hat USA",
@@ -769,7 +2383,8 @@
             ],
             "overview": "Security training and briefings",
             "location": "Las Vegas, NV",
-            "dates": "Aug 1-6"
+            "dates": "Aug 1-6",
+            "type": "hackathons"
         },
         {
             "name": "Black Hat Europe",
@@ -778,7 +2393,8 @@
             ],
             "overview": "Security training and briefings",
             "location": "Amsterdam, Netherlands",
-            "dates": "Nov 10-13"
+            "dates": "Nov 10-13",
+            "type": "hackathons"
         },
         {
             "name": "DefCon 23",
@@ -787,7 +2403,8 @@
             ],
             "overview": "Security",
             "location": "Las Vegas, NV",
-            "dates": "Aug 6-9"
+            "dates": "Aug 6-9",
+            "type": "hackathons"
         },
         {
             "name": "Agile Conf",
@@ -796,7 +2413,8 @@
             ],
             "overview": "Agile project management",
             "location": "Washington, DC",
-            "dates": "Aug 3-7"
+            "dates": "Aug 3-7",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -805,7 +2423,8 @@
             ],
             "overview": "Web design",
             "location": "Washington, DC",
-            "dates": "Aug 10-12"
+            "dates": "Aug 10-12",
+            "type": "hackathons"
         },
         {
             "name": "UX Week",
@@ -814,7 +2433,8 @@
             ],
             "overview": "UX",
             "location": "San Francisco, CA",
-            "dates": "Aug 25-28"
+            "dates": "Aug 25-28",
+            "type": "hackathons"
         },
         {
             "name": "WebVisions Chicago",
@@ -823,7 +2443,8 @@
             ],
             "overview": "Future of the web",
             "location": "Chicago, IL",
-            "dates": "September"
+            "dates": "September",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -832,7 +2453,8 @@
             ],
             "overview": "Web design",
             "location": "Chicago, IL",
-            "dates": "Aug 31 - Sep 2"
+            "dates": "Aug 31 - Sep 2",
+            "type": "hackathons"
         },
         {
             "name": "StrangeLoop",
@@ -841,7 +2463,8 @@
             ],
             "overview": "Make connections with the creators and users of the languages,libraries,tools,and techniques at the forefront of the industry",
             "location": "St. Louis, MO",
-            "dates": "Sep 24-26"
+            "dates": "Sep 24-26",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -850,7 +2473,8 @@
             ],
             "overview": "Web design",
             "location": "Austin",
-            "dates": "Oct 5-7"
+            "dates": "Oct 5-7",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -859,7 +2483,8 @@
             ],
             "overview": "Web design",
             "location": "Boston, MA",
-            "dates": "May 11-13"
+            "dates": "May 11-13",
+            "type": "hackathons"
         },
         {
             "name": "JavaOne",
@@ -868,7 +2493,8 @@
             ],
             "overview": "Java",
             "location": "San Francisco",
-            "dates": "Oct 25-29"
+            "dates": "Oct 25-29",
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -877,7 +2503,8 @@
             ],
             "overview": "Web design",
             "location": "San Francisco",
-            "dates": "Nov 2-4"
+            "dates": "Nov 2-4",
+            "type": "hackathons"
         },
         {
             "name": "Atlassian Summit",
@@ -886,7 +2513,8 @@
             ],
             "overview": "Atlassian users conference",
             "location": "San Francisco",
-            "dates": "Nov 3-5"
+            "dates": "Nov 3-5",
+            "type": "hackathons"
         },
         {
             "name": "linx.conf.au",
@@ -901,7 +2529,8 @@
                     "tag": "#linxconfau",
                     "link": "https://twitter.com/search?f=realtime&q=%23linxconfau"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "GWT.create",
@@ -915,7 +2544,8 @@
                     "tag": "#GWTcreate",
                     "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "GWT.create",
@@ -929,7 +2559,8 @@
                     "tag": "#GWTcreate",
                     "link": "https://twitter.com/search?f=realtime&q=%23GWTcreate"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "dotSwift",
@@ -943,7 +2574,8 @@
                     "tag": "#dotswift",
                     "link": "https://twitter.com/search?f=realtime&q=%23dotswift"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Strata",
@@ -958,7 +2590,8 @@
                     "tag": "#Strataconf",
                     "link": "https://twitter.com/search?f=realtime&q=%23strataconf"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Re.Work Internet of Things",
@@ -972,7 +2605,8 @@
                     "tag": "#IOT2015",
                     "link": "https://twitter.com/search?f=realtime&q=%23iot2015"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "SXSW",
@@ -986,7 +2620,8 @@
                     "tag": "#SXSW",
                     "link": "https://twitter.com/search?f=realtime&q=%23sxsw"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "PyCon",
@@ -1000,7 +2635,8 @@
                     "tag": "#PyCon",
                     "link": "https://twitter.com/search?f=realtime&q=%23pycon"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Microsoft Build",
@@ -1014,7 +2650,8 @@
                     "tag": "#bldwin",
                     "link": "https://twitter.com/search?f=realtime&q=%23bldwin"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Magento Imagine",
@@ -1029,7 +2666,8 @@
                     "tag": "#MagentoImagine",
                     "link": "https://twitter.com/search?f=realtime&q=%23MagentoImagine"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "RailsConf",
@@ -1043,7 +2681,8 @@
                     "tag": "#RailsConf",
                     "link": "https://twitter.com/search?f=realtime&q=%23RailsConf"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "TNW Europe",
@@ -1058,7 +2697,8 @@
                     "tag": "#thenextweb",
                     "link": "https://twitter.com/search?f=realtime&q=%23thenextweb"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Facebook F8",
@@ -1072,7 +2712,8 @@
                     "tag": "#f8",
                     "link": "https://twitter.com/search?f=realtime&q=%23f8"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Google I/O",
@@ -1086,7 +2727,8 @@
                     "tag": "#googleio",
                     "link": "https://twitter.com/search?f=realtime&q=%23googleio"
                 }
-            ]
+            ],
+            "type": "hackathons"
         },
         {
             "name": "Event Apart",
@@ -1095,7 +2737,8 @@
                 "http://aneventapart.com/events"
             ],
             "location": "Washington, DC",
-            "dates": "8/10 - 8/12"
+            "dates": "8/10 - 8/12",
+            "type": "hackathons"
         },
         {
             "name": "ng-conf",
@@ -1104,7 +2747,8 @@
                 "http://www.ng-conf.org/"
             ],
             "location": "SALT LAKE CITY, UTAH",
-            "dates": "MARCH 5-6"
+            "dates": "MARCH 5-6",
+            "type": "hackathons"
         },
         {
             "name": "Game Developers Conference",
@@ -1113,7 +2757,8 @@
                 "http://www.gdconf.com/"
             ],
             "location": "San Francisco, CA",
-            "dates": "MARCH 2-6"
+            "dates": "MARCH 2-6",
+            "type": "hackathons"
         },
         {
             "name": "foss4g north america",
@@ -1122,7 +2767,8 @@
                 "https://2015.foss4g-na.org/"
             ],
             "location": "San Francisco, CA",
-            "dates": "MARCH 9-12"
+            "dates": "MARCH 9-12",
+            "type": "hackathons"
         },
         {
             "name": "foss4g korea",
@@ -1131,7 +2777,8 @@
                 "http://2015.foss4g.org/"
             ],
             "location": "Seoul, Korea",
-            "dates": "9/14-19"
+            "dates": "9/14-19",
+            "type": "hackathons"
         },
         {
             "name": "foss4g europe",
@@ -1140,7 +2787,8 @@
                 "http://2015.foss4g.org/"
             ],
             "location": "como, italy",
-            "dates": "7/14-17"
+            "dates": "7/14-17",
+            "type": "hackathons"
         },
         {
             "name": "eclipsecon",
@@ -1149,7 +2797,8 @@
                 "https://www.eclipsecon.org"
             ],
             "location": "San Francisco, CA",
-            "dates": "MARCH 9-12"
+            "dates": "MARCH 9-12",
+            "type": "hackathons"
         },
         {
             "name": "Atlas Camp",
@@ -1158,7 +2807,8 @@
                 "https://www.atlassian.com/atlascamp"
             ],
             "location": "Prague, Czech Republic",
-            "dates": "June 9-11"
+            "dates": "June 9-11",
+            "type": "hackathons"
         },
         {
             "name": "Domo Palooza",
@@ -1167,7 +2817,8 @@
                 "http://www.domo.com/domopalooza"
             ],
             "location": "Salt Lake City, UT",
-            "dates": "April 7-9"
+            "dates": "April 7-9",
+            "type": "hackathons"
         },
         {
             "name": "Generate",
@@ -1176,7 +2827,8 @@
                 "http://www.generateconf.com/new-york-2015"
             ],
             "location": "New York, NY",
-            "dates": "April 17"
+            "dates": "April 17",
+            "type": "hackathons"
         },
         {
             "name": "Generate London",
@@ -1185,7 +2837,8 @@
                 "http://www.generateconf.com/new-york-2015"
             ],
             "location": "London, UK",
-            "dates": "September 17-18"
+            "dates": "September 17-18",
+            "type": "hackathons"
         },
         {
             "name": "Locate Conference",
@@ -1194,7 +2847,8 @@
                 "http://www.locateconference.com/"
             ],
             "location": "Brisbane, Australia",
-            "dates": "March 10-12"
+            "dates": "March 10-12",
+            "type": "hackathons"
         },
         {
             "name": "Resonate",
@@ -1203,7 +2857,8 @@
                 "http://resonate.io/2015/"
             ],
             "location": "Belgrade, Serbia",
-            "dates": "April 13-18th"
+            "dates": "April 13-18th",
+            "type": "hackathons"
         },
         {
             "name": "CES",
@@ -1212,7 +2867,8 @@
                 "http://www.cnet.com/ces/"
             ],
             "location": "Las Vegas, NV",
-            "dates": "Jan 6-9"
+            "dates": "Jan 6-9",
+            "type": "hackathons"
         },
         {
             "name": "Mobile World Congress",
@@ -1221,7 +2877,8 @@
                 "http://www.mobileworldcongress.com/"
             ],
             "location": "Barcelona, Spain",
-            "dates": "Mar 2-5"
+            "dates": "Mar 2-5",
+            "type": "hackathons"
         },
         {
             "name": "Tech Crunch Disrupt",
@@ -1230,7 +2887,8 @@
                 "http://techcrunch.com/events/disrupt-ny-2015/event-home/"
             ],
             "location": "Manhattan Center, New York, NY",
-            "dates": "May 4-6"
+            "dates": "May 4-6",
+            "type": "hackathons"
         },
         {
             "name": "London Technology Week",
@@ -1239,7 +2897,8 @@
                 "http://londontechnologyweek.co.uk/"
             ],
             "location": "London, UK",
-            "dates": "June 15-21"
+            "dates": "June 15-21",
+            "type": "hackathons"
         },
         {
             "name": "Dublin Web Summit",
@@ -1248,7 +2907,8 @@
                 "http://websummit.net/"
             ],
             "location": "RDS Main Hall, Ballsbridge, Dublin 4, Ireland",
-            "dates": "November 3-5"
+            "dates": "November 3-5",
+            "type": "hackathons"
         },
         {
             "name": "Collision",
@@ -1257,7 +2917,8 @@
                 "https://collisionconf.com/"
             ],
             "location": "LAS VEGAS, NV",
-            "dates": "MAY 5-6"
+            "dates": "MAY 5-6",
+            "type": "hackathons"
         },
         {
             "name": "Dublin Web Summit",
@@ -1266,7 +2927,8 @@
                 "http://riseconf.com/"
             ],
             "location": "HONG KONG",
-            "dates": " 31 JULY - 1 AUGUST"
+            "dates": " 31 JULY - 1 AUGUST",
+            "type": "hackathons"
         },
         {
             "name": "NSConference",
@@ -1275,7 +2937,8 @@
             ],
             "overview": "",
             "location": "Leicester, UK",
-            "dates": "March 16-18"
+            "dates": "March 16-18",
+            "type": "hackathons"
         },
         {
             "name": "Swift Summit",
@@ -1284,7 +2947,8 @@
             ],
             "overview": "",
             "location": "London, UK",
-            "dates": "March 21-22"
+            "dates": "March 21-22",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Chicago",
@@ -1293,7 +2957,8 @@
             ],
             "overview": "",
             "location": "Chicago, IL",
-            "dates": "March 27-28"
+            "dates": "March 27-28",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Washington DC",
@@ -1302,7 +2967,8 @@
             ],
             "overview": "",
             "location": "Washington DC, USA",
-            "dates": "April 10-11"
+            "dates": "April 10-11",
+            "type": "hackathons"
         },
         {
             "name": "NSNorth",
@@ -1311,7 +2977,8 @@
             ],
             "overview": "",
             "location": "Ottawa, Canada",
-            "dates": "April 10-12"
+            "dates": "April 10-12",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Yosemite",
@@ -1320,7 +2987,8 @@
             ],
             "overview": "",
             "location": "Yosemite National Park, CA",
-            "dates": "April 20-23"
+            "dates": "April 20-23",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf PDX",
@@ -1329,7 +2997,8 @@
             ],
             "overview": "",
             "location": "Portland, OR",
-            "dates": "May 8-9"
+            "dates": "May 8-9",
+            "type": "hackathons"
         },
         {
             "name": "UIKonf",
@@ -1338,7 +3007,8 @@
             ],
             "overview": "",
             "location": "Berlin, Germany",
-            "dates": "May 17-20"
+            "dates": "May 17-20",
+            "type": "hackathons"
         },
         {
             "name": "CocoaConf Austin",
@@ -1347,7 +3017,8 @@
             ],
             "overview": "",
             "location": "Austin, TX",
-            "dates": "May 22-23"
+            "dates": "May 22-23",
+            "type": "hackathons"
         },
         {
             "name": "Objective-Cologne",
@@ -1356,7 +3027,8 @@
             ],
             "overview": "",
             "location": "Cologne, Germany",
-            "dates": "June 23-25"
+            "dates": "June 23-25",
+            "type": "hackathons"
         },
         {
             "name": "360 iDev",
@@ -1365,7 +3037,8 @@
             ],
             "overview": "",
             "location": "Denver, Colorado",
-            "dates": "August 16-19"
+            "dates": "August 16-19",
+            "type": "hackathons"
         },
         {
             "name": "iOS Dev UK",
@@ -1374,7 +3047,8 @@
             ],
             "overview": "",
             "location": "Aberystwyth, UK",
-            "dates": "September 7-10"
+            "dates": "September 7-10",
+            "type": "hackathons"
         },
         {
             "name": "NSSpain",
@@ -1383,7 +3057,8 @@
             ],
             "overview": "",
             "location": "Logroño, Spain",
-            "dates": "September 16-18"
+            "dates": "September 16-18",
+            "type": "hackathons"
         },
         {
             "name": "CocoaLove",
@@ -1392,7 +3067,8 @@
             ],
             "overview": "",
             "location": "Philadelphia, Pennsylvania",
-            "dates": "October 24-26"
+            "dates": "October 24-26",
+            "type": "hackathons"
         },
         {
             "name": "Release Notes",
@@ -1401,7 +3077,8 @@
             ],
             "overview": "",
             "location": "Indianapolis, IN",
-            "dates": "October 21-23"
+            "dates": "October 21-23",
+            "type": "hackathons"
         },
         {
             "name": "NSScotland",
@@ -1410,7 +3087,8 @@
             ],
             "overview": "",
             "location": "Edinburgh, UK",
-            "dates": "October 23-25"
+            "dates": "October 23-25",
+            "type": "hackathons"
         },
         {
             "name": "MacTechConf",
@@ -1419,7 +3097,8 @@
             ],
             "overview": "",
             "location": "Los Angeles, California",
-            "dates": "November 4-6"
+            "dates": "November 4-6",
+            "type": "hackathons"
         },
         {
             "name": "mdevcon",
@@ -1428,7 +3107,8 @@
             ],
             "overview": "",
             "location": "Amsterdam, Netherlands",
-            "dates": "March 6-7"
+            "dates": "March 6-7",
+            "type": "hackathons"
         },
         {
             "name": "Mobile March",
@@ -1437,7 +3117,8 @@
             ],
             "overview": "",
             "location": "Minneapolis, Minnesota",
-            "dates": "March 26"
+            "dates": "March 26",
+            "type": "hackathons"
         },
         {
             "name": "Istanbul Tech Talks",
@@ -1446,7 +3127,8 @@
             ],
             "overview": "",
             "location": "Istanbul, Turkey",
-            "dates": "April 27"
+            "dates": "April 27",
+            "type": "hackathons"
         },
         {
             "name": "úll",
@@ -1455,7 +3137,8 @@
             ],
             "overview": "",
             "location": "Killarney, Ireland",
-            "dates": "March 30 - April 1"
+            "dates": "March 30 - April 1",
+            "type": "hackathons"
         },
         {
             "name": "Craft Conference",
@@ -1464,7 +3147,8 @@
             ],
             "overview": "",
             "location": "Budapest, Hungary",
-            "dates": "April 22-24"
+            "dates": "April 22-24",
+            "type": "hackathons"
         },
         {
             "name": "AppsWorld",
@@ -1473,7 +3157,8 @@
             ],
             "overview": "",
             "location": "San Francisco, California",
-            "dates": "May 13-14"
+            "dates": "May 13-14",
+            "type": "hackathons"
         },
         {
             "name": "Hybrid Conf",
@@ -1482,7 +3167,8 @@
             ],
             "overview": "",
             "location": "Dubli, Ireland",
-            "dates": "August 20-21"
+            "dates": "August 20-21",
+            "type": "hackathons"
         },
         {
             "name": "Release Notes",
@@ -1491,7 +3177,8 @@
             ],
             "overview": "",
             "location": "Indianapolis, IN",
-            "dates": "October 21-23"
+            "dates": "October 21-23",
+            "type": "hackathons"
         },
         {
             "name": "MCE",
@@ -1500,7 +3187,8 @@
             ],
             "overview": "",
             "location": "Warsaw, Poland",
-            "dates": "February 04-06, 2015"
+            "dates": "February 04-06, 2015",
+            "type": "hackathons"
         },
         {
             "name": "dot Swift",
@@ -1509,7 +3197,8 @@
             ],
             "overview": "",
             "location": "Paris, France",
-            "dates": "February 06, 2015"
+            "dates": "February 06, 2015",
+            "type": "hackathons"
         },
         {
             "name": "RWDevCon",
@@ -1518,7 +3207,8 @@
             ],
             "overview": "",
             "location": "Washington DC, USA",
-            "dates": "February 06-07, 2015"
+            "dates": "February 06-07, 2015",
+            "type": "hackathons"
         },
         {
             "name": "ConveyUX 2015",
@@ -1527,7 +3217,1238 @@
             ],
             "overview": "Convey UX is the essential conference for UX practitioners to share and learn.",
             "location": "Seattle, WA",
-            "dates": "1/22-1/24"
+            "dates": "1/22-1/24",
+            "type": "hackathons"
+        },
+        {
+            "name": "Miami Bitcoin Hackathon",
+            "links": [
+                "http://www.miamibitcoinhackathon.com/"
+            ],
+            "overview": "",
+            "location": "1.9 - 1.11",
+            "dates": "Miami, FL",
+            "type": "hackathons"
+        },
+        {
+            "name": "WatchKit Zurich",
+            "links": [
+                "http://watchkitzurich.ch/"
+            ],
+            "overview": "",
+            "location": "1.9 - 1.11",
+            "dates": "Zurich, Switzerland",
+            "type": "hackathons"
+        },
+        {
+            "name": "Dragon Hacks",
+            "links": [
+                "http://hack-dragon.com/"
+            ],
+            "overview": "",
+            "location": "1.10 - 1.11",
+            "dates": "Philadelphia, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack The Drive",
+            "links": [
+                "http://hackthedrive.com/"
+            ],
+            "overview": "",
+            "location": "1.10 - 1.11",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "ProtoHack Austin",
+            "links": [
+                "http://protohack.org/"
+            ],
+            "overview": "",
+            "location": "1.10",
+            "dates": "Austin, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "Audacious Hacks",
+            "links": [
+                "http://audacious.is/hackdacious/"
+            ],
+            "overview": "",
+            "location": "1.16 - 1.18",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "MHacks V",
+            "links": [
+                "http://mhacks.org/"
+            ],
+            "overview": "",
+            "location": "1.16 - 1.18",
+            "dates": "Ann Arbor, MI",
+            "type": "hackathons"
+        },
+        {
+            "name": "PennApps XI",
+            "links": [
+                "http://2015s.pennapps.com/"
+            ],
+            "overview": "",
+            "location": "1.16 - 1.18",
+            "dates": "Philadelphia, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hacking Journalism",
+            "links": [
+                "http://hackingjournalism.com/"
+            ],
+            "overview": "",
+            "location": "1.17 - 1.18",
+            "dates": "New York City, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "IDEA Hacks",
+            "links": [
+                "http://www.ideahacks.la/"
+            ],
+            "overview": "",
+            "location": "1.23 - 1.25",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Startup Weekend EuroSeattle",
+            "links": [
+                "http://www.eventbrite.com/e/startup-weekend-euroseattle-012315-tickets-14094867127"
+            ],
+            "overview": "",
+            "location": "1.23 - 1.25",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hacking Generation Y",
+            "links": [
+                "http://hackgeny.com/"
+            ],
+            "overview": "",
+            "location": "1.24 - 1.25",
+            "dates": "Redwood City, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackTech",
+            "links": [
+                "(http://www.hacktech.io/"
+            ],
+            "overview": "",
+            "location": "1.24 - 1.26",
+            "dates": "Santa Monica, CA|",
+            "type": "hackathons"
+        },
+        {
+            "name": "Fashion/Tech Hackathon",
+            "links": [
+                "http://www.fashiontechhackathon.com/"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Kent, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack Rice",
+            "links": [
+                "http://hack.rice.edu/"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Houston, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackSI",
+            "links": [
+                "http://www.hacksi.me/"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Carbondale, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "MedStart",
+            "links": [
+                "http://tuftsmedstart.com/"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Boston, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "SB Hacks",
+            "links": [
+                "http://www.ucsbhacks.com/"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Santa Barbara, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "She Innovates",
+            "links": [
+                "http://cs.pitt.edu/events/other/2154/event.php?id=578"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Pittsburgh, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "UofTHacks",
+            "links": [
+                "https://uofthacks.com/"
+            ],
+            "overview": "",
+            "location": "1.30 - 2.1",
+            "dates": "Toronto, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "SocialGoodHacks",
+            "links": [
+                "http://socialgoodhacks.splashthat.com/"
+            ],
+            "overview": "",
+            "location": "1.31",
+            "dates": "Bronx, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Melbourne",
+            "links": [
+                "https://2015.battlehack.org/melbourne"
+            ],
+            "overview": "",
+            "location": "1.31 - 2.1",
+            "dates": "Melbourne, Australia",
+            "type": "hackathons"
+        },
+        {
+            "name": "CBBhacks",
+            "links": [
+                "http://cbbhacks.org/"
+            ],
+            "overview": "",
+            "location": "2.6 - 2.8",
+            "dates": "Brunswick, ME",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack Housing",
+            "links": [
+                "https://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111"
+            ],
+            "overview": "",
+            "location": "2.6 - 2.8",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackCWRU",
+            "links": [
+                "http://hackcwru.com/"
+            ],
+            "overview": "",
+            "location": "2.6 - 2.8",
+            "dates": "Cleveland, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "HopHacks",
+            "links": [
+                "http://hophacks.com/s15/"
+            ],
+            "overview": "",
+            "location": "2.6 - 2.8",
+            "dates": "Baltimore, MD",
+            "type": "hackathons"
+        },
+        {
+            "name": "TartanHacks",
+            "links": [
+                "http://tartanhacks.com/"
+            ],
+            "overview": "",
+            "location": "2.6 - 2.7",
+            "dates": "Pittsburgh, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "VTHacks",
+            "links": [
+                "http://vthacks.com/"
+            ],
+            "overview": "",
+            "location": "2.6 - 2.8",
+            "dates": "Blacksburg, VA",
+            "type": "hackathons"
+        },
+        {
+            "name": "AccelerateSF",
+            "links": [
+                "http://developerweek.com/hackathon/"
+            ],
+            "overview": "",
+            "location": "2.7 - 2.8",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack@Brown",
+            "links": [
+                "http://hackatbrown.org/"
+            ],
+            "overview": "",
+            "location": "2.7 - 2.8",
+            "dates": "Providence, RI",
+            "type": "hackathons"
+        },
+        {
+            "name": "HSHacks II",
+            "links": [
+                "http://www.hshacks.com/"
+            ],
+            "overview": "",
+            "location": "2.7 - 2.8",
+            "dates": "San Jose, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "IDHack",
+            "links": [
+                "http://idhack.developersfordevelopment.org/"
+            ],
+            "overview": "",
+            "location": "2.13 - 2.14",
+            "dates": "Melford, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "DOOMHACK",
+            "links": [
+                "https://www.facebook.com/events/1409309589366211"
+            ],
+            "overview": "",
+            "location": "2.13",
+            "dates": "Burnaby, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "CodeDay",
+            "links": [
+                "https://codeday.org/"
+            ],
+            "overview": "",
+            "location": "2.14 - 2.15",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "deltaHacks",
+            "links": [
+                "http://deltahacks.io/"
+            ],
+            "overview": "",
+            "location": "2.14 - 2.15",
+            "dates": "Hamilton, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackCooper",
+            "links": [
+                "http://hackcooper.org"
+            ],
+            "overview": "",
+            "location": "2.14 - 2.15",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackPoly",
+            "links": [
+                "http://hackpoly.com/"
+            ],
+            "overview": "",
+            "location": "2.20 - 2.21",
+            "dates": "Pomona, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "hack.uva",
+            "links": [
+                "http://hackuva.io/"
+            ],
+            "overview": "",
+            "location": "2.20 - 2.21",
+            "dates": "Charlottesville, VA",
+            "type": "hackathons"
+        },
+        {
+            "name": "MBKHACK",
+            "links": [
+                "http://www.mbkhack.com/"
+            ],
+            "overview": "",
+            "location": "2.20 - 2.22",
+            "dates": "Oakland, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "TreeHacks",
+            "links": [
+                "https://www.treehacks.com/"
+            ],
+            "overview": "",
+            "location": "2.20 - 2.22",
+            "dates": "Stanford, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "McHacks",
+            "links": [
+                "http://mchacks.io/"
+            ],
+            "overview": "",
+            "location": "2.21 - 2.22",
+            "dates": "Montreal, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "UHack",
+            "links": [
+                "http://uhack.us/"
+            ],
+            "overview": "",
+            "location": "2.21 - 2.22",
+            "dates": "Miami, FL",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackIllinois",
+            "links": [
+                "http://hackillinois.org"
+            ],
+            "overview": "",
+            "location": "2.27 - 3.1",
+            "dates": "Urbana, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "MountainHacks",
+            "links": [
+                "http://www.mountainhacks.com"
+            ],
+            "overview": "",
+            "location": "2.27 - 2.28",
+            "dates": "TBA, Utah",
+            "type": "hackathons"
+        },
+        {
+            "name": "SD Hacks",
+            "links": [
+                "http://sdhacks.io"
+            ],
+            "overview": "",
+            "location": "2.27 - 3.1",
+            "dates": "San Diego, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Los Angeles",
+            "links": [
+                "https://2015.battlehack.org/los_angeles"
+            ],
+            "overview": "",
+            "location": "2.28 - 3.1",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack London",
+            "links": [
+                "https://hacklondon.org/"
+            ],
+            "overview": "",
+            "location": "2.28 - 3.1",
+            "dates": "London, United Kingdom",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackDFW",
+            "links": [
+                "http://hackdfw.com/"
+            ],
+            "overview": "",
+            "location": "2.28 - 3.1",
+            "dates": "Dallas, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackTCNJ",
+            "links": [
+                "http://hacktcnj2015.splashthat.com/"
+            ],
+            "overview": "",
+            "location": "2.28 - 3.1",
+            "dates": "Ewing Township, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "Capital One People & Money Hackathon",
+            "links": [
+                "https://www.eventbrite.com/e/capital-one-people-money-hackathon-50k-prizes-registration-15560583123"
+            ],
+            "overview": "",
+            "location": "3.6 - 3.8",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack Arizona",
+            "links": [
+                "http://hackarizona.org/"
+            ],
+            "overview": "",
+            "location": "3.6 - 3.8",
+            "dates": "Tucson, AZ",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackOTR",
+            "links": [
+                "http://www.hackotr.com"
+            ],
+            "overview": "",
+            "location": "3.6 - 3.7",
+            "dates": "Cincinnati, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "Meta Augmented Reality Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/meta-augmented-reality-hackathon-in-san-francisco-tickets-15195038770"
+            ],
+            "overview": "",
+            "location": "3.6 - 3.7 ",
+            "dates": "San Francisco, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackNY",
+            "links": [
+                "http://hackny.org/a/"
+            ],
+            "overview": "",
+            "location": "3.7 - 3.8",
+            "dates": "New York, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "GunnHacks",
+            "links": [
+                "http://gunnhacks.com/"
+            ],
+            "overview": "",
+            "location": "3.14 - 3.15",
+            "dates": "Palo Alto, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "SXSW Music Hackathon",
+            "links": [
+                "http://sxsw.com/music/hackathon"
+            ],
+            "overview": "",
+            "location": "3.18 - 3.19",
+            "dates": "Austin, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack the Commute",
+            "links": [
+                "http://hackthecommute.seattle.gov/2015/01/13/hackthecommute"
+            ],
+            "overview": "",
+            "location": "3.20 - 3.22",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackBU",
+            "links": [
+                "http://hackathon.hackbu.org/"
+            ],
+            "overview": "",
+            "location": "3.20 - 3.22",
+            "dates": "Binghamton, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Pearl Hacks",
+            "links": [
+                "http://www.pearlhacks.com/"
+            ],
+            "overview": "",
+            "location": "3.20 - 3.22",
+            "dates": "Chapel Hill, NC",
+            "type": "hackathons"
+        },
+        {
+            "name": "VandyHacks",
+            "links": [
+                "http://www.vandyhacks.org/"
+            ],
+            "overview": "",
+            "location": "3.20 - 3.22",
+            "dates": "Nashville, TN",
+            "type": "hackathons"
+        },
+        {
+            "name": "MTY Hackathon",
+            "links": [
+                "http://monterrey.acm.org/hackathon.html"
+            ],
+            "overview": "",
+            "location": "3.21 - 3.22",
+            "dates": "Monterrey, Mexico",
+            "type": "hackathons"
+        },
+        {
+            "name": "National Hack the Government",
+            "links": [
+                "https://www.eventbrite.co.uk/e/national-hack-the-government-2015-london-tickets-15845722984"
+            ],
+            "overview": "",
+            "location": "3.21 - 3.32",
+            "dates": "Victoria, United Kingdom",
+            "type": "hackathons"
+        },
+        {
+            "name": "Codestellation",
+            "links": [
+                "http://codestellation.io/"
+            ],
+            "overview": "",
+            "location": "3.27 - 3.28",
+            "dates": "Waltham, Massachusetts",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackPSU",
+            "links": [
+                "http://www.hackpsu.com/"
+            ],
+            "overview": "",
+            "location": "3.27 - 3.29",
+            "dates": "State College, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack Western",
+            "links": [
+                "http://hackwestern.com/"
+            ],
+            "overview": "",
+            "location": "3.27 - 3.29",
+            "dates": "London, ON, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "SpartaHack",
+            "links": [
+                "http://www.spartahack.com/"
+            ],
+            "overview": "",
+            "location": "3.27 - 3.29",
+            "dates": "East Lansing, MI",
+            "type": "hackathons"
+        },
+        {
+            "name": "SteelHacks",
+            "links": [
+                "http://steelhacks.pittcsc.org/"
+            ],
+            "overview": "",
+            "location": "3.27 - 3.29",
+            "dates": "Pittsburgh, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Singapore",
+            "links": [
+                "https://2015.battlehack.org/singapore"
+            ],
+            "overview": "",
+            "location": "3.28 - 3.29",
+            "dates": "Singapore, Singapore",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack@Smith",
+            "links": [
+                "http://www.hackatsmith.org/"
+            ],
+            "overview": "",
+            "location": "3.28 - 3.29",
+            "dates": "Northampton, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "hackBCA II",
+            "links": [
+                "http://hackbca.com/"
+            ],
+            "overview": "",
+            "location": "3.28",
+            "dates": "Hackensack, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "CodeRED",
+            "links": [
+                "http://codered.cougarcs.com/"
+            ],
+            "overview": "",
+            "location": "4.3 - 4.4",
+            "dates": "Houston, TX",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackHolyoke",
+            "links": [
+                "http://hackholyoke.org/"
+            ],
+            "overview": "",
+            "location": "4.3 - 4.4",
+            "dates": "South Hadley, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "LA Hacks",
+            "links": [
+                "http://www.lahacks.com/"
+            ],
+            "overview": "",
+            "location": "4.3 - 4.5",
+            "dates": "Los Angeles, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Bitcamp",
+            "links": [
+                "https://bitca.mp"
+            ],
+            "overview": "",
+            "location": "4.10 - 4.12",
+            "dates": "College Park, MD",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackCU",
+            "links": [
+                "http://hackcu.org/"
+            ],
+            "overview": "",
+            "location": "4.10 - 4.12",
+            "dates": "Boulder, CO",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackNYU",
+            "links": [
+                "http://hacknyu.org/"
+            ],
+            "overview": "",
+            "location": "4.10 - 4.12",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "Nordic IoT Hackathon",
+            "links": [
+                "http://nordiciothackathon.com/"
+            ],
+            "overview": "",
+            "location": "4.10 - 4.12",
+            "dates": "Lund, Sweden",
+            "type": "hackathons"
+        },
+        {
+            "name": "RevolutionUC",
+            "links": [
+                "http://revolutionuc.com/"
+            ],
+            "overview": "",
+            "location": "4.10 - 4.12",
+            "dates": "Cincinnati, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackPrinceton",
+            "links": [
+                "https://hackprinceton.com/"
+            ],
+            "overview": "",
+            "location": "4.11 - 4.12",
+            "dates": "Princeton, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackUMass",
+            "links": [
+                "http://hackumass.com/"
+            ],
+            "overview": "",
+            "location": "4.11 - 4.12",
+            "dates": "Amherst, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack Upstate",
+            "links": [
+                "http://hackupstate.com/"
+            ],
+            "overview": "",
+            "location": "4.11 - 4.12",
+            "dates": "Syracuse, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Make IT Wright Hackathon",
+            "links": [
+                "http://www.makeitwright.org/"
+            ],
+            "overview": "",
+            "location": "4.11 - 4.12",
+            "dates": "Dayton, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "Space Apps",
+            "links": [
+                "https://2015.spaceappschallenge.org/"
+            ],
+            "overview": "",
+            "location": "4.11 - 4.12",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "Citrus Hack",
+            "links": [
+                "http://citrushack.com/"
+            ],
+            "overview": "",
+            "location": "4.17 - 4.19",
+            "dates": "Riverside, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackYSU",
+            "links": [
+                "http://www.hackysu.com/"
+            ],
+            "overview": "",
+            "location": "4.17 - 4.19",
+            "dates": "Youngstown, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "MadHacks",
+            "links": [
+                "https://madhacks.org"
+            ],
+            "overview": "",
+            "location": "4.17 - 4.19",
+            "dates": "Madison, WI",
+            "type": "hackathons"
+        },
+        {
+            "name": "Owlhacks",
+            "links": [
+                "http://www.owlhacks.com/"
+            ],
+            "overview": "",
+            "location": "4.17 - 4.19",
+            "dates": "Philadelphia, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Raleigh",
+            "links": [
+                "https://2015.battlehack.org/raleigh"
+            ],
+            "overview": "",
+            "location": "4.18 - 4.19",
+            "dates": "Raleigh, NC",
+            "type": "hackathons"
+        },
+        {
+            "name": "BrickHack",
+            "links": [
+                "http://brickhack.io"
+            ],
+            "overview": "",
+            "location": "4.18 - 4.19",
+            "dates": "Rochester, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "FinTech Hackathon",
+            "links": [
+                "http://fintechhack.com/nyc2015/"
+            ],
+            "overview": "",
+            "location": "4.18 - 4.19",
+            "dates": "New York City, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackRU",
+            "links": [
+                "http://hackru.org"
+            ],
+            "overview": "",
+            "location": "4.18 - 4.19",
+            "dates": "New Brunswick, NJ",
+            "type": "hackathons"
+        },
+        {
+            "name": "CarlHacks",
+            "links": [
+                "http://carlhacks.io/"
+            ],
+            "overview": "",
+            "location": "4.24 - 4.26",
+            "dates": "Northfield, MN",
+            "type": "hackathons"
+        },
+        {
+            "name": "Mobile App Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/mobile-app-hackathon-seattle-tickets-15621065026"
+            ],
+            "overview": "",
+            "location": "4.24 - 4.25",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "RedbirdHacks",
+            "links": [
+                "http://redbirdhacks.org/"
+            ],
+            "overview": "",
+            "location": "4.24 - 4.26",
+            "dates": "Normal, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "She Hacks NYC",
+            "links": [
+                "http://shehacksnyc.splashthat.com/"
+            ],
+            "overview": "",
+            "location": "4.24 - 4.26",
+            "dates": "New York City, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack London",
+            "links": [
+                "https://2015.battlehack.org/london"
+            ],
+            "overview": "",
+            "location": "4.25 - 4.26",
+            "dates": "London, United Kingdom",
+            "type": "hackathons"
+        },
+        {
+            "name": "CSUSM Spring Women's Hackathon",
+            "links": [
+                "http://www.eventbrite.com/e/apr-25-2015-womens-hackathon-at-cal-state-san-marcos-registration-15906299169"
+            ],
+            "overview": "",
+            "location": "4.25",
+            "dates": "San Marcos, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "STEMHacks",
+            "links": [
+                "http://www.stemhacks.com/"
+            ],
+            "overview": "",
+            "location": "4.25 - 4.26",
+            "dates": "Downingtown, PA",
+            "type": "hackathons"
+        },
+        {
+            "name": "WearHacks Toronto",
+            "links": [
+                "https://wearhackstoronto.splashthat.com/"
+            ],
+            "overview": "",
+            "location": "5.8 - 5.10",
+            "dates": "Toronto, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "ecomhack",
+            "links": [
+                "http://www.ecomhack.io/"
+            ],
+            "overview": "",
+            "location": "5.9 - 5.10",
+            "dates": "Berlin, Germany",
+            "type": "hackathons"
+        },
+        {
+            "name": "WearHacks SF Bay",
+            "links": [
+                "https://wearhacks-sfbay.splashthat.com/"
+            ],
+            "overview": "",
+            "location": "5.15 - 5.17",
+            "dates": "TBD",
+            "type": "hackathons"
+        },
+        {
+            "name": "DubHacks",
+            "links": [
+                "http://dubhacks.co/2015/"
+            ],
+            "overview": "",
+            "location": "5.16 - 5.17",
+            "dates": "Seattle, WA",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackUCI",
+            "links": [
+                "http://hackuci.com/"
+            ],
+            "overview": "",
+            "location": "5.22 - 5.24",
+            "dates": "Irvine, CA",
+            "type": "hackathons"
+        },
+        {
+            "name": "WearHacks Paris",
+            "links": [
+                "https://wearhacksparis.splashthat.com/"
+            ],
+            "overview": "",
+            "location": "5.22 - 5.24",
+            "dates": "Paris, France",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Athens",
+            "links": [
+                "https://2015.battlehack.org/athens"
+            ],
+            "overview": "",
+            "location": "5.30 - 5.31",
+            "dates": "Athens, Greece",
+            "type": "hackathons"
+        },
+        {
+            "name": "AngelHack Brooklyn",
+            "links": [
+                "http://angelhack.com/hackathon/brooklyn-2015/"
+            ],
+            "overview": "",
+            "location": "6.6 - 6.7",
+            "dates": "Brooklyn, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack for Western Mass",
+            "links": [
+                "http://hackforwesternmass.org/"
+            ],
+            "overview": "",
+            "location": "6.6 - 6.8",
+            "dates": "Holyoke, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Tokyo",
+            "links": [
+                "https://2015.battlehack.org/tokyo"
+            ],
+            "overview": "",
+            "location": "6.13 - 6.14",
+            "dates": "Tokyo, Japan",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Berlin",
+            "links": [
+                "https://2015.battlehack.org/berlin"
+            ],
+            "overview": "",
+            "location": "6.20 - 6.21",
+            "dates": "Berlin, Germany",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Chicago",
+            "links": [
+                "https://2015.battlehack.org/chicago"
+            ],
+            "overview": "",
+            "location": "6.27 - 6.28",
+            "dates": "Chicago, IL",
+            "type": "hackathons"
+        },
+        {
+            "name": "GovHack 2015",
+            "links": [
+                "http://www.govhack.org/2014/12/07/kicking-off-govhack-2015/"
+            ],
+            "overview": "",
+            "location": "7.3 - 7.5",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Venice",
+            "links": [
+                "https://2015.battlehack.org/venice"
+            ],
+            "overview": "",
+            "location": "7.11 - 7.12",
+            "dates": "Venice, Italy",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Toronto",
+            "links": [
+                "https://2015.battlehack.org/toronto"
+            ],
+            "overview": "",
+            "location": "7.18 - 7.19",
+            "dates": "Toronto, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "Global Hackathon Seoul",
+            "links": [
+                "http://seoul.globalhackathon.io/"
+            ],
+            "overview": "",
+            "location": "7.29 - 8.1",
+            "dates": "Seoul, Korea",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack New York City",
+            "links": [
+                "https://2015.battlehack.org/new_york_city"
+            ],
+            "overview": "",
+            "location": "8.8 - 8.9",
+            "dates": "New York City, NY",
+            "type": "hackathons"
+        },
+        {
+            "name": "UNIHACK",
+            "links": [
+                "http://unihack.net/"
+            ],
+            "overview": "",
+            "location": "8.15",
+            "dates": "Melbourne, Australia",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Stockholm",
+            "links": [
+                "https://2015.battlehack.org/stockholm"
+            ],
+            "overview": "",
+            "location": "9.12 - 9.13",
+            "dates": "Stockholm, Sweden",
+            "type": "hackathons"
+        },
+        {
+            "name": "Hack the North",
+            "links": [
+                "http://hackthenorth.com"
+            ],
+            "overview": "",
+            "location": "9.18 - 9.20",
+            "dates": "Waterloo, Canada",
+            "type": "hackathons"
+        },
+        {
+            "name": "HackMIT",
+            "links": [
+                "https://hackmit.org"
+            ],
+            "overview": "",
+            "location": "9.19 - 9.20",
+            "dates": "Cambridge, MA",
+            "type": "hackathons"
+        },
+        {
+            "name": "Kent Hack Enough",
+            "links": [
+                "http://khe.io"
+            ],
+            "overview": "",
+            "location": "10.9 - 10.11",
+            "dates": "Kent, OH",
+            "type": "hackathons"
+        },
+        {
+            "name": "Local Hack Day II",
+            "links": [
+                "http://localhackday.mlh.io/"
+            ],
+            "overview": "",
+            "location": "10.10",
+            "dates": "Multiple Cities",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Tel Aviv",
+            "links": [
+                "https://2015.battlehack.org/tel_aviv"
+            ],
+            "overview": "",
+            "location": "10.10 - 10.11",
+            "dates": "Tel Aviv, Israel",
+            "type": "hackathons"
+        },
+        {
+            "name": "BattleHack Finals",
+            "links": [
+                "https://2014.battlehack.org/finals"
+            ],
+            "overview": "",
+            "location": "11.15 - 11.16",
+            "dates": "San Jose, CA",
+            "type": "hackathons"
         }
     ]
 }

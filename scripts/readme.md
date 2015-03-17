@@ -35,3 +35,18 @@ the JSON format I'm using:
 	"dates": "$3"
 },
 ```
+
+
+To convert the hackathon-calendar, I used the folowing regex
+
+```sh
+\| \[(.*)\]\((.*)\) \| (.*) \| (.*) \|
+
+{
+	"name": "$1",
+	"links": ["$2"],
+	"overview": "",
+	"location": "$4",
+	"dates": "$3"
+},
+```
