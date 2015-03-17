@@ -68,6 +68,7 @@ function writeMarkdownFromJSON(filename) {
 
   for (var type in markdownEvents) {
     var titleType = common.toTitleCase(type);
+    summaryMarkdown = '';
 
     for (var year in markdownEvents[type]) {
       var events = markdownEvents[type][year];
