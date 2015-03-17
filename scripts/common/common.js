@@ -192,6 +192,11 @@ function sortEvents(events) {
   });
 }
 
+function toTitleCase(str)
+{
+  return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+}
+
 module.exports = {
   processFiles: processFiles,
   pad: pad,
@@ -199,5 +204,6 @@ module.exports = {
   mergeObjects: mergeObjects,
   standardizeEventDates: standardizeEventDates,
   removeDuplicates: removeDuplicates,
-  sortEvents: sortEvents
+  sortEvents: sortEvents,
+  toTitleCase: toTitleCase
 }

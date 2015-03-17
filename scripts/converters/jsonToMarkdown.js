@@ -39,67 +39,77 @@ function getRow(name, location, dates, hashtags, links, overview) {
 function writeMarkdownFromJSON(filename) {
   var obj = JSON.parse(fs.readFileSync(filename, 'utf8'));
   var totalEventCount = 0;
-  var rootPath = '../conferences/';
+  var rootPath = '../';
   var summaryMarkdown = '';
   var footer = '\nFor more info, see [this page](https://github.com/minhongrails/events)';
+  var markdownEvents = {};
+  var eventCount = 0;
 
   Object.keys(obj)
     .sort()
     .forEach(function (year) {
-      var path = rootPath + year;
-      var eventCount = 0;
+      var events = obj[year];
+      events = common.standardizeEventDates(events);
+      events = common.sortEvents(events);
+      events = common.removeDuplicates(events);
 
-      mkpath(path, function (err) {
-        if (err) throw err;
-
-        var markdown = '';
-        markdown += year + ' Conferences\n';
-        markdown += '=====================\n\n';
-
-        var events = obj[year];
-        events = common.standardizeEventDates(events);
-        events = common.sortEvents(events);
-        events = common.removeDuplicates(events);
-
-        eventCount += events.length;
-        markdown += getRow('Conference Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
-
-        // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
-        markdown += getRow(':--:', ':--:', ':--:', ':--:', ':--:', ':--:');
-
-        for (var i = 0; i < events.length; i++) {
-          var event = events[i];
-          markdown += getRow(event.name, event.location, event.dates, event.hashTags, event.links, event.overview);
+      for (var i = 0; i < events.length; i++) {
+        var event = events[i];
+        var type = event.type;
+        if (!markdownEvents[type]) {
+          markdownEvents[type] = {};
         }
-
-        markdown += '\n(' + eventCount + ' conferences)\n';
-        markdown += footer;
-
-        fs.writeFile(path + '/readme.md', markdown, function (err) {
-          if (err) {
-            return console.log(err);
-          }
-          totalEventCount += eventCount;
-          console.log('Wrote markdown to ' + path + ' with ' + eventCount + ' events, with total of ' + totalEventCount);
-
-          var summaryHeader = 'Conferences\n';
-          summaryHeader += '=====================\n\n';
-          summaryHeader += 'This is a repository of conferences, mostly tech or design related. [Contributions are welcome!](../contributing.md)\n\n';
-          summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events:\n\n';
-          summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n\n';
-          fs.writeFile(rootPath + '/readme.md', summaryHeader + summaryMarkdown +'\n' + footer, function (err) {
-            if (err) {
-              return console.log(err);
-            }
-            console.log('Wrote summary');
-          });
-        });
-
-      });
+        if (!markdownEvents[type][year]) {
+          markdownEvents[type][year] = [];
+        }
+        markdownEvents[type][year].push(event);
+      }
     });
 
+  for (var type in markdownEvents) {
+    var titleType = common.toTitleCase(type);
+
+    for (var year in markdownEvents[type]) {
+      var events = markdownEvents[type][year];
+
+      var markdown = '';
+      markdown += year + ' ' + titleType + '\n';
+      markdown += '=====================\n\n';
+
+      eventCount += events.length;
+      markdown += getRow(titleType + ' Name', 'Location', 'Dates', 'Hash Tag', null, 'Overview');
+
+      // github markdown for text align (https://help.github.com/articles/github-flavored-markdown/)
+      markdown += getRow(':--:', ':--:', ':--:', ':--:', ':--:', ':--:');
+
+      for (var i = 0; i < events.length; i++) {
+        var event = events[i];
+        markdown += getRow(event.name, event.location, event.dates, event.hashTags, event.links, event.overview);
+      }
+
+      markdown += '\n(' + eventCount + ' ' + type + ')\n';
+      markdown += footer;
+
+      var path = rootPath + type + '/' + year;
+      mkpath.sync(path);
+      console.log('Making path: ' + path);
+
+      fs.writeFileSync(path + '/readme.md', markdown + '\n');
+
+      totalEventCount += eventCount;
+      console.log('Wrote markdown summary to ' + path + ' with ' + eventCount + ' events, with total of ' + totalEventCount);
+
+      var summaryHeader = titleType + '\n';
+      summaryHeader += '=====================\n\n';
+      summaryHeader += 'This is a repository of ' + type + ', mostly tech or design related. [Contributions are welcome!](../contributing.md)\n\n';
+      summaryHeader += 'There\'s currently a total of ' + totalEventCount + ' events:\n\n';
+      summaryMarkdown += '[' + year + ' (' + eventCount + ' events)](' + year + ')\n\n';
+      fs.writeFileSync(rootPath + type + '/readme.md', summaryHeader + summaryMarkdown + '\n' + footer);
+    }
+  }
 
 }
+
 
 function convertJSONToMarkdown(folders) {
   common.processFiles(function (filename) {

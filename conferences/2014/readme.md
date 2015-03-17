@@ -1,7 +1,7 @@
 2014 Conferences
 =====================
 
-| Conference Name                                                                                   | Location                    | Dates             | 
+| Conferences Name                                                                                  | Location                    | Dates             | 
 | :--:                                                                                              | :--:                        | :--:              | 
 | [Refresh Charleston](http://refreshcharleston.com/)                                               | San Francisco, CA           | 01/21             | 
 | [Renaissance](http://renaissance.io/2014)                                                         | San Francisco, California   | 01/29 - 01/31     | 
@@ -15,8 +15,8 @@
 | [MS Build Conference](null)                                                                       | San Francisco, CA           | 04/02 - 04/04     | 
 | [Future of Web Design](https://futureofwebdesign.com/london-2014/)                                | London, UK                  | 04/07 - 04/09     | 
 | [UX Immersion](http://www.uie.com/events/ux_immersion/2013/)                                      | Broomfield, CO              | 04/07 - 04/09     | 
-| [JailbreakCon](http://www.jailbreakcon.com/)                                                      | San Francisco, California   | 04/12 - 04/13     | 
 | [State of the Map US](http://stateofthemap.us/)                                                   | Washington DC               | 04/12 - 04/13     | 
+| [JailbreakCon](http://www.jailbreakcon.com/)                                                      | San Francisco, California   | 04/12 - 04/13     | 
 | [CocoaConf San Jose](http://cocoaconf.com/sanjose-2014/home)                                      | San Jose, California        | 04/25 - 04/26     | 
 | [ACM SIGCHI](http://chi2014.acm.org/)                                                             | Toronto Canada              | 04/28 - 05/01     | 
 | [99u](http://conference.99u.com/)                                                                 | New York, NY                | 05/01 - 05/02     | 
@@ -31,8 +31,8 @@
 | [JSConf](http://2014.jsconf.us/)                                                                  | Amelia Island, FL           | 05/28 - 05/30     | 
 | [WWDC 2014](https://developer.apple.com/wwdc/)                                                    | San Francisco, CA           | 06/01             | 
 | [Display Week](http://displayweek.org/)                                                           | San Diego, CA               | 06/01 - 06/06     | 
-| [WWDC](https://developer.apple.com/wwdc/)                                                         | San Francisco, California   | 06/02 - 06/06     | 
 | [AltConf](http://www.altconf.com/)                                                                | San Francisco, California   | 06/02 - 06/06     | 
+| [WWDC](https://developer.apple.com/wwdc/)                                                         | San Francisco, California   | 06/02 - 06/06     | 
 | [VALiO Con](http://valiocon.com/)                                                                 | San Diego, CA               | 06/05 - 06/08     | 
 | [QCon New York](http://qconnewyork.com/)                                                          | New York, NY                | 06/09 - 06/13     | 
 | [Giant Conf](http://giantconf.com/)                                                               | Charleston, SC              | 06/11 - 06/14     | 
@@ -68,6 +68,6 @@
 | [CocoaConf Atlanta](http://cocoaconf.com/atlanta-2014/home)                                       | Atlanta, Georgia            | 12/05 - 12/06     | 
 | [BackboneJS Conference](http://backboneconf.com/)                                                 | CAMBRIDGE, MA               | 12/15 - 12/16     | 
 
-(64 conferences)
+(68 conferences)
 
 For more info, see [this page](https://github.com/minhongrails/events)

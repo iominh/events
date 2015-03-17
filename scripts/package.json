@@ -18,6 +18,7 @@
     "mkpath": "^0.1.0",
     "moment": "^2.9.0",
     "recursive-readdir": "^1.2.1",
+    "recursive-readdir-sync": "^1.0.6",
     "sugar": "^1.4.1"
   }
 }

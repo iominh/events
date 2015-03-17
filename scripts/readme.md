@@ -46,7 +46,7 @@ To convert the hackathon-calendar, I used the folowing regex
 	"name": "$1",
 	"links": ["$2"],
 	"overview": "",
-	"location": "$4",
-	"dates": "$3"
+	"location": "$3",
+	"dates": "$4"
 },
 ```

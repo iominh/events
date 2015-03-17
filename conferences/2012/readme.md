@@ -1,7 +1,7 @@
 2012 Conferences
 =====================
 
-| Conference Name                                                                                   | Location                    | Dates             | 
+| Conferences Name                                                                                  | Location                    | Dates             | 
 | :--:                                                                                              | :--:                        | :--:              | 
 | [Swipe Conference](http://swipeconference.com.au/)                                                | Sydney, Australia           | 09/05 - 09/07     | 
 
